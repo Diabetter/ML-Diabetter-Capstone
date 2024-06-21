@@ -1,0 +1,1147 @@
+Food Code,Food Name,Group,Type,Air (Water) (g),Energi (Energy) (Kal),Protein (Protein) (g),Lemak (Fat) (g),Karbohidrat (CHO) (g),Serat (Fibre) (g),Abu (ASH) (g),Kalsium (Ca) (mg),Fosfor (P) (mg),Besi (Fe) (mg),Natrium (Na) (mg),Kalium (K) (mg),Tembaga (Cu) (mg),Seng (Zn) (mg),Retinol (Vit. A) (mcg),Beta-Karoten (Carotenes) (mcg),Thiamin (Vit. B1) (mg),Riboflavin (Vit. B2) (mg),Niasin (Niacin) (mg),Karoten Total (Re) (mcg),Vitamin C (Vit. C) (mg)
+HR005,"Alabio duck egg, fresh",Eggs,Raw,70.0,187.0,11.8,14.2,3.0,0.0,1.0,60.0,268.0,6.0,115.0,80.0,0.6,1.7,180.0,437.0,1.55,0.37,0.1,,
+DR037,"Ambarella leaves, fresh",Vegetables,Raw,81.0,59.0,3.5,0.3,13.4,10.7,1.8,540.0,82.0,6.2,12.0,579.0,,,,1624.0,0.06,0.2,1.5,2900.0,29.0
+ER074,"Ambon banana, fresh",Fruits,Raw,72.9,108.0,1.0,0.8,24.3,1.9,1.0,20.0,30.0,0.2,10.0,0.0,0.2,0.2,,37.0,0.05,0.11,0.1,,9.0
+DR072,"Ambon cassave leaves, fresh",Vegetables,Raw,58.0,144.0,12.7,1.2,25.2,10.2,2.9,165.0,54.0,3.9,44.0,62.2,0.2,5.4,,8627.0,0.21,1.0,4.2,13000.0,220.0
+DR054,"Ambon matel leaves, fresh",Vegetables,Raw,77.1,71.0,6.8,1.6,11.5,4.6,3.0,93.0,95.0,10.2,,,,,0.0,,0.08,,,49.0,26.0
+DR050,"American black nightshade leaves, fresh",Vegetables,Raw,85.0,49.0,4.7,0.5,8.1,,1.7,210.0,80.0,6.1,,,,,,,0.14,,,1900.0,40.0
+AP026,Amparan tatak,Cereals,Processed/Products,58.4,191.0,1.3,5.5,34.0,,0.8,,,,,,,,,,,,,,
+DR073,"Ampenan cassava leaves, fresh",Vegetables,Raw,84.4,50.0,6.2,1.1,7.1,2.4,1.2,352.0,123.0,2.7,49.0,570.0,0.2,1.3,,7917.0,0.5,0.1,1.6,,103.0
+GP041,"Anchovy, dried, raw",Fish and Other Seafood,Processed/Products,15.0,277.0,60.0,2.3,1.8,0.0,20.9,1209.0,1225.0,3.0,,,,,90.0,,0.1,,,,0.0
+GP042,"Anchovy, dried, unsalted, raw",Fish and Other Seafood,Processed/Products,37.8,170.0,33.4,3.0,0.0,0.0,25.8,1200.0,1500.0,3.6,,,,,64.0,,0.15,,,,0.0
+GR078,"Anchovy, fresh",Fish and Other Seafood,Raw,80.9,217.0,11.0,1.7,5.1,,1.3,20.0,390.0,10.9,3.0,7.0,0.2,2.7,,,0.45,0.07,,,
+GP043,"Anchovy, ground, raw",Fish and Other Seafood,Processed/Products,16.7,331.0,68.7,4.2,0.0,0.0,10.4,2381.0,1500.0,23.4,,,,,61.0,,0.1,,,,0.0
+GP040,"Anchovy, ground, raw",Fish and Other Seafood,Processed/Products,34.5,144.0,32.5,0.6,0.0,0.0,32.4,1000.0,1000.0,3.0,312.0,,,,61.0,,0.1,,,,0.0
+DR003,"Andaliman, fresh",Vegetables,Raw,74.2,99.0,4.6,1.0,18.0,8.5,2.2,383.0,107.0,2.9,,,,,0.0,,3.0,,,6300.0,15.0
+DR058,"Angled loofah leaves, fresh",Vegetables,Raw,93.0,22.0,1.0,0.1,5.3,2.0,0.6,21.0,44.0,2.0,40.0,295.5,0.1,0.2,,855.0,0.08,0.1,0.8,1000.0,150.0
+DR083,"Angled loofah, fresh",Vegetables,Raw,94.5,19.0,0.8,0.2,4.1,1.3,0.4,19.0,33.0,0.9,23.0,109.1,0.0,0.1,,17.0,0.03,0.0,0.4,380.0,8.0
+ER075,"Angleng banana (ampyang banana), fresh",Fruits,Raw,80.3,68.0,1.3,0.2,17.2,0.8,1.0,10.0,26.0,0.6,23.0,215.7,0.04,0.0,,9.0,0.08,0.05,2.5,76.0,6.0
+DP023,"Anyang, vegetables",Vegetables,Processed/Products,76.9,126.0,3.4,7.9,10.3,5.4,1.5,180.0,1.0,2.9,290.0,181.0,0.3,1.2,,3263.0,0.2,,,,
+AP027,"Apang, steamed, kue",Cereals,Processed/Products,49.5,202.0,3.0,0.3,46.7,,0.5,,,,,,,,,,,,,,
+AP028,"Apem, kue",Cereals,Processed/Products,63.1,148.0,2.0,0.5,33.9,,0.5,,,,,,,,,,,,,,
+ER004,"Apple, fresh",Fruits,Raw,84.1,58.0,0.3,0.4,14.9,2.6,0.3,6.0,10.0,0.3,2.0,130.0,124.2,0.3,,30.0,0.04,0.03,0.1,90.0,5.0
+DP024,"Ares, vegetables",Vegetables,Processed/Products,77.7,113.0,0.9,7.2,11.2,4.7,3.0,63.0,5.0,1.5,1413.0,1030.0,0.7,3.8,,6.0,0.1,,0.5,,
+BP064,"Arrowroot, flour",Starchy Roots & Tubers,Processed/Products,13.6,355.0,0.7,0.2,85.2,0.4,0.3,8.0,22.0,1.5,2.0,10.7,0.0,0.1,,20.0,0.09,0.0,0.0,3.0,0.0
+BR001,"Arrowroot, fresh",Starchy Roots & Tubers,Raw,73.5,102.0,1.0,0.2,24.1,1.7,1.2,28.0,35.0,1.7,36.0,626.6,0.2,0.8,0.0,15.0,0.06,0.1,2.3,0.0,2.0
+DP025,Arwan sisir,Vegetables,Processed/Products,59.0,277.0,2.4,25.0,10.7,4.6,2.9,120.0,40.0,2.4,240.0,320.0,0.2,0.9,,1578.0,0.1,0.2,0.0,,11.0
+NR001,"Asam arang coklat, fresh",Herbs and Spices,Raw,66.1,130.0,0.5,1.1,30.9,1.5,1.4,79.0,113.0,4.3,13.0,,0.0,,,745.0,0.01,0.2,0.0,0.0,0.0
+NR002,"Asam arang merah, fresh",Herbs and Spices,Raw,75.9,99.0,0.8,1.6,20.3,2.8,1.4,69.0,300.0,4.6,2.0,95.7,0.0,0.1,,529.0,0.01,0.34,1.6,0.0,0.0
+NR003,"Asam gelugur, dried",Herbs and Spices,Raw,32.2,261.0,0.9,1.6,63.3,5.0,2.0,192.0,657.0,4.4,26.0,341.4,0.4,0.3,,0.0,0.0,0.0,0.4,0.0,0.0
+NR004,"Asam gelugur, fresh",Herbs and Spices,Raw,81.5,75.0,0.2,1.1,16.1,3.4,1.1,63.0,139.0,2.5,93.0,93.2,0.1,0.1,,41.0,0.01,0.0,0.1,0.0,0.0
+ER016,"Asam paya, fresh",Fruits,Raw,79.4,78.0,0.6,0.3,18.2,,1.5,1.0,7.0,3.4,7.0,495.0,0.3,0.7,,,0.12,0.0,,,5.0
+NR006,"Asam payak, fresh",Herbs and Spices,Raw,65.1,135.0,0.8,0.4,32.1,10.0,1.6,60.0,39.0,5.7,0.0,,,,,,0.0,,,0.0,0.0
+DR006,"Ash gourd, fresh",Vegetables,Raw,96.1,15.0,0.4,0.2,3.0,0.4,0.3,19.0,19.0,0.4,2.0,131.1,0.02,0.6,,0.0,0.04,0.02,0.3,,13.0
+GR011,"Asian swamp eel, fresh",Fish and Other Seafood,Raw,74.9,123.0,15.1,5.5,3.3,0.0,1.2,5.0,146.0,1.3,32.0,349.0,0.1,0.7,,0.0,0.2,0.03,1.2,,
+GR044,"Athlantic threadfin, fresh",Fish and Other Seafood,Raw,75.6,99.0,20.6,1.4,0.9,,1.5,164.0,330.0,0.5,76.0,282.0,0.2,0.9,661.0,,0.3,0.02,0.5,,
+ER001,"Avocado, fresh",Fruits,Raw,84.3,85.0,0.9,6.5,7.7,,0.6,10.0,20.0,0.9,2.0,278.0,0.2,0.4,,189.0,0.05,0.08,1.0,180.0,13.0
+ER076,"Ayam banana, fresh",Fruits,Raw,71.2,120.0,1.1,0.2,26.8,4.1,0.7,20.0,61.0,0.4,6.0,392.0,0.1,0.3,,24.0,0.1,0.02,1.0,,26.0
+GP039,"Baby anchovies, dried, raw",Fish and Other Seafood,Processed/Products,4.3,316.0,60.1,6.5,22.4,0.0,6.7,3196.0,1976.0,16.6,,,,,320.0,0.0,0.0,,,0.0,0.0
+AR015,"Baby corn, yellow, raw",Cereals,Raw,61.8,147.0,5.1,0.7,31.5,1.3,0.9,6.0,122.0,1.1,5.0,33.6,0.13,0.9,0.0,113.0,0.24,0.1,0.8,261.0,9.0
+BP013,"Bagea, coconut, savory",Starchy Roots & Tubers,Processed/Products,3.5,450.0,3.2,13.9,78.1,,1.3,38.0,38.0,0.3,74.0,0.0,0.2,0.2,0.0,0.0,0.3,0.0,0.0,0.0,0.0
+BP014,"Bagea, coconut, sweet",Starchy Roots & Tubers,Processed/Products,3.0,452.0,1.3,13.8,80.6,,1.3,38.0,39.0,0.3,75.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BP015,"Bagea, pili nut, savory",Starchy Roots & Tubers,Processed/Products,2.8,529.0,3.2,29.1,63.6,,1.3,38.0,40.0,0.4,74.0,0.0,0.2,0.2,0.0,0.0,0.3,0.0,0.0,0.0,0.0
+BP016,"Bagea, pili nut, sweet",Starchy Roots & Tubers,Processed/Products,3.1,523.0,3.2,28.2,64.2,,1.3,38.0,39.0,0.3,74.0,0.0,0.2,0.2,0.0,0.0,0.3,0.0,0.0,0.0,0.0
+BP017,"Bagea, quality 1",Starchy Roots & Tubers,Processed/Products,7.2,416.0,6.5,9.4,76.3,0.4,0.6,49.0,77.0,4.9,,,,,13.0,,0.08,,2.6,312.0,0.0
+BP018,"Bagea, quality 2",Starchy Roots & Tubers,Processed/Products,7.9,382.0,0.3,3.5,87.2,0.9,1.1,172.0,120.0,7.6,,,,,0.0,0.0,0.02,,,0.0,0.0
+DR055,"Bago leaves, fresh",Vegetables,Raw,70.8,104.0,5.0,1.3,21.3,10.3,1.6,219.0,82.0,4.2,12.0,604.8,0.4,0.6,,823.0,0.09,,,10000.0,182.0
+DR119,"Bago rind, fresh",Vegetables,Raw,71.9,111.0,4.5,1.1,20.7,5.0,1.8,117.0,179.0,2.6,,,,,0.0,,0.07,,,1267.0,7.0
+DR128,"Bago, fresh",Vegetables,Raw,80.0,66.0,5.0,0.7,13.3,,1.0,163.0,75.0,2.8,,,,,,,0.1,,,1000.0,100.0
+GR062,"Bagrid catfish, fresh",Fish and Other Seafood,Raw,77.4,88.0,15.9,0.9,4.1,0.0,1.8,221.0,223.0,0.0,24.0,364.0,0.4,0.7,,,0.2,0.25,1.6,,
+AP030,"Bakpia, kue",Cereals,Processed/Products,38.9,272.0,8.7,6.7,44.1,0.9,1.6,194.0,117.0,4.5,,,,,,,0.31,1.0,2.9,1392.0,0.0
+AP031,Bakwan,Cereals,Processed/Products,40.5,280.0,8.2,10.2,39.0,3.4,2.1,204.0,79.0,7.0,,,,,0.0,,0.08,,,0.0,0.0
+GP093,"Balado anchovy, dish",Fish and Other Seafood,Processed/Products,25.8,365.0,23.7,22.3,17.5,0.0,10.9,869.0,348.0,4.0,,,,,27.0,,0.13,,,1567.0,0.0
+DP060,Balamak pumpkin,Vegetables,Processed/Products,89.4,45.0,0.8,0.9,8.1,7.9,1.0,25.0,25.0,0.5,61.0,15.0,,0.2,,1241.0,0.2,0.0,0.1,0.0,2.0
+DR026,"Bali goseweed leaves, fresh",Vegetables,Raw,86.4,50.0,4.6,0.9,7.0,1.4,1.1,167.0,62.0,0.5,,,,,0.0,,0.05,,,6571.0,20.0
+GR049,"Bali sardinella, fresh",Fish and Other Seafood,Raw,65.3,154.0,16.8,5.0,10.5,,2.4,80.0,244.0,1.6,421.0,488.0,0.2,1.2,,,0.47,0.15,9.6,,
+CP003,"Bambara groundnut, boiled",Grains and Legumes,Processed/Products,61.2,161.0,7.7,2.8,27.1,2.0,1.2,56.0,134.0,1.4,,,,,,,0.1,,,,
+CR005,"Bambara groundnut, dried",Grains and Legumes,Raw,10.0,370.0,16.0,6.0,65.0,26.3,3.0,85.0,264.0,4.2,44.0,868.8,1.48,2.7,0.0,,0.18,0.26,6.2,,0.0
+CR006,"Bambara groundnut, fresh",Grains and Legumes,Raw,60.8,165.0,7.7,3.1,27.4,2.5,1.0,96.0,126.0,5.3,6.0,537.0,0.41,1.2,,29.0,0.32,0.35,2.7,,
+CP002,"Bambara groundnut, fried",Grains and Legumes,Processed/Products,3.0,479.0,12.7,23.2,58.9,1.2,2.2,135.0,184.0,2.9,,,,,,,0.25,0.45,4.1,,
+DR138,"Bamboo shoot, fresh",Vegetables,Raw,93.3,25.0,0.8,0.1,5.3,9.7,0.5,3.0,5.0,0.5,3.0,206.0,0.1,0.4,,10.0,0.2,0.07,0.5,,0.0
+EP014,Banana flour,Fruits,Processed/Products,13.8,338.0,2.9,0.4,80.6,5.3,2.1,23.0,62.0,4.0,18.0,734.0,0.1,0.5,,13.0,0.02,0.02,1.0,1.0,2.0
+DR092,"Banana, flower, fresh",Vegetables,Raw,90.2,32.0,1.2,0.3,7.1,3.2,1.2,30.0,50.0,0.1,3.0,524.0,0.09,0.3,0.0,201.0,0.05,0.03,0.8,170.0,10.0
+BP046,"Bangket, kue",Starchy Roots & Tubers,Processed/Products,16.1,338.0,1.5,1.2,80.3,,0.9,34.0,35.0,0.3,67.0,0.0,0.2,0.2,0.0,0.0,0.3,0.0,0.0,0.0,
+GP025,"Banjar peda fish, mentah",Fish and Other Seafood,Processed/Products,46.0,156.0,28.0,4.0,2.0,0.0,20.0,174.0,316.0,3.1,59.0,368.8,0.0,0.5,33.0,4.0,0.1,0.1,4.7,,
+AP032,Bantal,Cereals,Processed/Products,52.3,190.0,3.3,0.3,43.5,3.4,0.6,9.0,0.0,0.4,164.0,84.0,0.2,0.9,,,0.27,0.02,3.6,,
+AR019,"Barley, raw",Cereals,Raw,23.0,324.0,11.0,4.0,61.0,3.1,1.0,213.0,176.0,11.0,24.0,,0.1,0.4,,,0.14,0.08,1.8,,0.0
+EP001,Barongko,Fruits,Processed/Products,66.7,159.0,3.1,5.8,23.5,,0.7,35.0,65.0,1.2,46.0,78.0,0.3,0.6,,,,,,,
+AP033,Baruasa,Cereals,Processed/Products,5.3,417.0,6.5,8.2,79.3,,0.7,,,,,,,,,,,,,,
+DR067,"Basil leaves, fresh",Vegetables,Raw,83.1,62.0,4.0,0.5,10.5,5.3,1.9,122.0,16.0,13.9,3.0,259.0,0.4,0.7,0.0,4112.0,0.5,0.1,0.2,,24.0
+AP034,Batar daan,Cereals,Processed/Products,75.3,107.0,2.2,2.2,19.6,,0.7,20.0,30.0,0.6,200.0,90.0,0.1,,,,0.18,0.02,,,
+BP003,"Batatas tali, tubers, boiled",Starchy Roots & Tubers,Processed/Products,53.2,182.0,2.4,0.4,42.2,9.2,1.8,1.0,80.0,0.3,20.0,402.0,0.3,0.6,0.0,0.0,0.27,0.0,1.3,0.0,0.0
+BR003,"Batatas, coconut, tubers, fresh",Starchy Roots & Tubers,Raw,76.1,89.0,1.1,0.1,21.0,4.0,0.7,0.0,40.0,0.2,20.0,340.0,0.1,0.2,0.0,0.0,0.38,0.0,0.9,0.0,0.0
+BP001,"Batatas, coconut, tubers, grilled",Starchy Roots & Tubers,Processed/Products,73.2,110.0,1.4,1.1,23.4,4.5,0.7,1.0,46.0,0.2,12.0,230.0,0.2,0.3,0.0,0.0,1.13,0.0,0.0,0.0,0.0
+BP002,"Batatas, coconut, tubers, steamed",Starchy Roots & Tubers,Processed/Products,75.7,92.0,1.2,0.3,21.0,4.1,1.8,0.0,42.0,0.2,10.0,209.0,0.2,0.3,0.0,0.0,0.28,0.0,0.7,0.0,0.0
+BR002,"Batatas, lesser yam, fresh",Starchy Roots & Tubers,Raw,76.7,76.0,1.1,0.9,16.0,4.2,0.7,0.0,40.0,0.2,10.0,200.0,0.2,0.3,0.0,0.0,0.06,0.0,0.9,0.0,0.0
+NR017,"Bay leaf, ground",Herbs and Spices,Raw,13.1,301.0,14.2,10.9,49.0,9.4,12.8,86.0,250.0,44.1,180.0,619.0,1.31,0.7,0.0,5400.0,0.1,0.32,5.0,,0.0
+HP005,"Bayau mi balu, dish",Eggs,Processed/Products,36.1,313.0,6.0,12.2,44.8,,0.9,,,,,,,,783.0,89.0,0.14,0.27,9.7,,
+DR002,"Bean sprouts, fresh",Vegetables,Raw,90.6,37.0,4.4,0.5,3.8,1.7,0.7,50.0,248.0,2.0,2.0,105.0,0.16,0.4,0.0,0.0,0.02,0.09,0.6,35.0,46.0
+DR148,"Bean sprouts, fresh",Vegetables,Raw,90.4,34.0,3.7,1.2,4.3,1.1,0.4,166.0,74.0,0.8,19.0,93.3,0.16,0.4,,41.0,0.09,0.15,1.1,20.0,5.0
+DP003,"Bean, boiled",Vegetables,Processed/Products,90.6,30.0,2.2,0.2,6.4,1.5,0.6,107.0,47.0,0.5,7.0,138.9,0.1,0.3,,1.0,0.01,0.29,2.0,402.0,8.0
+DR013,"Bean, fresh",Vegetables,Raw,89.6,34.0,2.4,0.3,7.2,1.9,0.5,101.0,42.0,0.7,8.0,250.0,0.07,0.3,0.0,772.0,0.05,0.4,2.8,550.0,11.0
+CP037,Beancurd,Grains and Legumes,Processed/Products,10.8,380.0,48.9,13.8,23.3,0.0,3.2,378.0,781.0,2.1,55.0,455.3,0.68,4.2,,0.0,0.15,0.08,0.7,,
+CP038,"Beancurd, steamed",Grains and Legumes,Processed/Products,79.8,90.0,10.7,4.0,4.7,,0.8,85.0,,,,,,,,,,,,,
+DP026,Beberuk,Vegetables,Processed/Products,89.1,65.0,1.1,5.2,3.5,3.1,1.1,179.0,72.0,8.3,53.0,427.0,0.4,0.2,,44.0,0.3,,4.4,,
+FP036,Beef burger,Meat and Poultry,Processed/Products,45.5,258.0,10.6,9.5,32.5,0.4,2.2,210.0,157.0,2.6,572.0,189.1,,,218.0,,0.95,,,7580.0,0.0
+FP070,"Beef leg soup, dish",Meat and Poultry,Processed/Products,84.5,68.0,9.0,1.9,3.7,,0.9,302.0,15.0,2.2,435.0,,,,48.0,,0.46,,,150.0,0.0
+FP062,"Beef Rendang, dish",Meat and Poultry,Processed/Products,57.9,193.0,22.6,7.9,7.8,0.0,3.8,474.0,211.0,14.9,,,,,21.0,,0.12,,0.0,534.0,
+FP069,"Beef soup, dish",Meat and Poultry,Processed/Products,87.5,49.0,5.8,0.5,5.3,,0.9,158.0,48.0,2.2,391.0,,,,101.0,,0.37,,,3320.0,0.0
+FP037,"Beef teriyaki, dish",Meat and Poultry,Processed/Products,65.1,151.0,8.6,3.1,22.3,0.3,0.9,142.0,62.0,2.3,377.0,,,,22.0,,0.53,,,400.0,0.0
+FP038,"Beef yakiniku, dish",Meat and Poultry,Processed/Products,67.7,132.0,9.8,1.1,20.7,0.3,0.8,302.0,67.0,2.0,409.0,,,,78.0,,0.62,,,700.0,0.0
+FR028,"Beef, black pudding/ blood",Meat and Poultry,Raw,75.6,98.0,21.9,1.1,0.0,0.0,1.4,7.0,24.0,1.3,150.0,170.0,,0.2,15.0,214.0,0.01,0.03,0.9,,0.0
+FR032,"Beef, brain, fresh",Meat and Poultry,Raw,78.9,123.0,10.4,8.6,0.8,0.0,1.3,16.0,330.0,3.6,112.0,243.8,0.26,0.9,0.0,0.0,0.23,0.19,3.9,,18.0
+FR033,"Beef, intestine, fresh",Meat and Poultry,Raw,76.7,126.0,14.0,7.2,1.5,0.0,0.6,14.0,115.0,4.0,,,,,61.0,0.0,0.08,0.33,0.2,,0.0
+FR029,"Beef, kidney, fresh",Meat and Poultry,Raw,74.9,137.0,15.0,8.1,0.9,0.0,1.1,9.0,221.0,7.9,200.0,230.2,,,348.0,583.0,0.37,1.22,6.1,,13.0
+FR031,"Beef, liver, fresh",Meat and Poultry,Raw,69.7,132.0,19.7,3.2,6.0,0.0,1.4,7.0,358.0,6.6,110.0,213.0,0.51,2.3,13303.0,355.0,0.26,1.52,11.4,,31.0
+FP017,"Beef, liverworst",Meat and Poultry,Processed/Products,56.6,274.0,16.0,22.0,3.0,2.3,2.4,20.0,150.0,4.0,654.0,158.8,0.22,2.2,1201.0,,0.2,0.96,4.0,,0.0
+FP019,"Beef, lung, fried",Meat and Poultry,Processed/Products,45.5,268.0,23.9,12.7,14.5,,3.1,102.0,315.0,8.8,923.0,299.0,0.0,1.5,790.0,,,,,,
+FP018,"Beef, lung, jerked meat, raw",Meat and Poultry,Processed/Products,9.7,360.0,57.3,6.0,19.2,,7.8,126.0,903.0,21.1,1483.0,864.0,1.2,6.1,2827.0,,,,,,
+FP015,"Beef, meat, corned",Meat and Poultry,Processed/Products,53.0,289.0,16.0,25.0,0.0,0.0,6.0,10.0,170.0,4.0,794.0,94.4,0.07,4.0,0.0,52.0,0.01,0.16,2.7,,0.0
+FR024,"Beef, meat, fat, fresh",Meat and Poultry,Raw,60.0,273.0,17.5,22.0,0.0,0.0,0.5,10.0,150.0,2.6,93.0,267.0,0.17,6.4,12.0,0.0,0.08,0.18,7.3,,0.0
+FP014,"Beef, meat, jerked meat, raw",Meat and Poultry,Processed/Products,25.0,301.0,55.0,9.0,0.0,,11.0,30.0,370.0,5.1,,,,,0.0,,0.1,,,,0.0
+FR025,"Beef, meat, laen, fresh",Meat and Poultry,Raw,69.0,174.0,19.6,10.0,0.0,0.0,1.4,11.0,181.0,2.9,83.0,489.0,0.07,4.9,6.0,181.0,0.07,0.51,1.2,,0.0
+FR026,"Beef, meat, medium fat, fresh",Meat and Poultry,Raw,66.0,201.0,18.8,14.0,0.0,0.0,1.2,11.0,170.0,2.8,105.0,378.0,4.58,5.2,9.0,198.0,0.08,0.56,1.3,,0.0
+FP013,"Beef, meat, smoked",Meat and Poultry,Processed/Products,60.0,182.0,32.0,6.0,0.0,0.0,2.0,15.0,300.0,5.0,1620.0,485.4,0.03,5.1,6.0,,0.12,0.23,5.9,,0.0
+FP016,"Beef, meat, worst",Meat and Poultry,Processed/Products,37.6,448.0,14.5,42.3,2.3,,3.3,28.0,61.0,1.1,765.0,284.5,0.06,1.7,0.0,,0.1,0.18,4.9,,0.0
+FR027,"Beef, offal, fresh",Meat and Poultry,Raw,70.1,183.0,12.0,14.4,1.4,0.0,2.1,43.0,319.0,1.8,277.0,160.0,0.1,0.8,,104.0,0.31,0.22,8.4,,
+FP011,"Beef, shredded",Meat and Poultry,Processed/Products,7.1,212.0,18.0,10.6,59.3,7.5,4.7,150.0,209.0,12.3,,,,,0.0,240.0,0.17,,,138.0,0.0
+FP012,"Beef, shredded, original",Meat and Poultry,Processed/Products,24.8,358.0,14.6,16.1,38.6,2.5,5.8,165.0,136.0,14.6,,,,,3.0,194.0,0.13,,,144.0,0.0
+FR023,"Beef, tripe (babat), fresh",Meat and Poultry,Raw,76.7,108.0,17.6,4.2,0.0,0.0,1.5,12.0,144.0,1.0,147.0,101.4,0.11,2.2,0.0,49.0,0.15,0.17,1.7,,0.0
+FR030,"Beef, tripe, fresh",Meat and Poultry,Raw,83.8,84.0,10.5,4.6,0.2,0.0,0.9,20.0,13.0,2.1,73.0,318.0,0.2,1.7,857.0,34.0,0.1,0.14,0.3,,
+DR010,"Beets, fresh",Vegetables,Raw,87.6,41.0,1.6,0.1,9.6,2.6,1.1,27.0,43.0,1.0,29.0,404.9,0.2,0.7,,0.0,0.02,0.05,0.3,20.0,10.0
+NP003,Bekasang (fermented fish stomach),Herbs and Spices,Processed/Products,67.1,78.0,11.4,2.0,3.6,0.4,15.9,54.0,97.0,2.6,4016.0,121.0,0.2,4.8,,,0.15,0.12,0.6,,
+NP011,Belachan,Herbs and Spices,Processed/Products,33.8,155.0,22.3,2.9,9.9,2.7,31.1,3812.0,726.0,78.5,1664.0,821.4,0.99,2.4,,0.0,0.24,0.0,3.3,0.0,0.0
+DR020,"Belem leaf, fresh",Vegetables,Raw,84.6,50.0,4.4,1.4,7.8,1.9,1.8,698.0,151.0,7.5,,,,,0.0,,0.05,,,13072.0,21.0
+BR004,"Belitung, taro, fresh",Starchy Roots & Tubers,Raw,63.1,145.0,1.2,0.4,34.2,1.5,1.1,26.0,54.0,1.4,6.0,536.1,0.2,0.9,0.0,0.0,0.1,0.1,2.3,0.0,2.0
+BP004,"Belitung, taro, steamed",Starchy Roots & Tubers,Processed/Products,63.1,145.0,1.2,0.4,34.2,1.0,1.1,21.0,48.0,0.9,7.0,552.6,0.2,0.9,0.0,0.0,0.08,0.1,2.3,0.0,1.0
+DR157,"Bengkulu eggplant, fresh",Vegetables,Raw,86.6,52.0,1.1,0.4,11.2,3.2,0.8,19.0,39.0,1.1,14.0,,0.16,1.0,0.0,85.0,0.23,0.04,0.0,600.0,6.0
+BR006,"Bentul (Komba), taro, fresh",Starchy Roots & Tubers,Raw,75.8,98.0,1.6,0.7,20.9,0.7,1.8,44.0,66.0,1.5,,195.5,0.2,0.6,0.0,0.0,0.02,0.1,0.8,0.0,0.0
+BP005,"Bentul, taro, steamed",Starchy Roots & Tubers,Processed/Products,81.1,71.0,2.3,0.3,15.4,0.5,0.9,29.0,26.0,0.6,,201.0,0.2,0.6,0.0,0.0,0.06,0.0,0.0,0.0,21.0
+GP055,"Betok wadi, dish",Fish and Other Seafood,Processed/Products,69.2,145.0,16.3,7.0,4.1,,3.4,405.0,523.0,1.8,69.0,203.0,1.0,1.3,,,0.22,,,,
+GR069,"Bicolour eel, fresh",Fish and Other Seafood,Raw,78.8,82.0,17.4,0.4,2.3,0.0,1.1,145.0,130.0,1.8,110.0,275.0,0.1,0.8,581.0,,0.64,0.03,1.5,,
+AP035,Bika ambon,Cereals,Processed/Products,51.5,199.0,2.1,1.5,44.4,0.3,0.6,45.0,28.0,1.8,,,,,0.0,,0.1,,0.0,408.0,0.0
+AP036,Bingka,Cereals,Processed/Products,44.4,273.0,5.3,10.6,39.1,,0.6,,,,,,,,,,,,,,
+FR015,"Birds, nests, fresh",Meat and Poultry,Raw,24.8,281.0,37.5,0.3,32.1,,5.3,485.0,18.0,3.0,,,,,0.0,,,,,,0.0
+AP029,Biscuits,Cereals,Processed/Products,2.2,458.0,6.9,14.4,75.1,2.1,1.4,62.0,87.0,2.7,241.0,20.3,0.16,0.6,0.0,14.0,0.09,0.15,1.4,,0.0
+DR134,"Bitter (petai) bean, fresh",Vegetables,Raw,77.2,92.0,5.4,1.1,15.2,2.0,1.1,14.0,170.0,1.6,55.0,221.0,0.2,0.8,,114.0,0.8,0.1,6.1,,34.0
+MP002,"Bitter chocolate, bar",Convectionery,Processed/Products,2.3,615.0,5.5,42.6,29.2,10.8,10.1,98.0,446.0,4.4,20.0,708.3,1.7,3.3,,2.0,0.05,0.08,1.0,60.0,0.0
+DR103,Bitter gourd,Vegetables,Raw,93.7,25.0,2.3,0.2,3.5,2.1,0.3,25.0,67.0,0.3,8.0,88.4,0.08,0.3,,21.0,0.1,0.1,0.4,,39.0
+DR064,"Bitter melon leaves, fresh",Vegetables,Raw,87.3,49.0,2.7,1.0,8.4,3.0,1.6,217.0,70.0,3.3,7.0,498.0,0.4,1.2,,1800.0,0.4,0.2,0.6,,7.0
+DR136,"Black nighshade leaves, fresh",Vegetables,Raw,91.0,33.0,4.5,0.4,2.8,,1.3,13.0,75.0,2.9,2.0,0.0,0.2,0.6,,,0.5,0.1,,,41.0
+DR127,"Black nighshade, fresh",Vegetables,Raw,90.5,38.0,1.1,0.3,7.6,2.0,0.5,7.0,55.0,1.0,2.0,,0.1,0.3,,25.0,0.2,0.1,0.6,,17.0
+CR015,"Black soybean, dried",Grains and Legumes,Raw,12.5,346.0,16.6,1.7,66.1,22.8,3.1,70.0,300.0,4.7,3.0,0.0,0.9,3.5,,28.0,0.16,0.1,2.1,,
+CP014,"Black-eyed pea, boiled",Grains and Legumes,Processed/Products,64.4,138.0,10.7,1.1,22.6,0.9,1.2,165.0,172.0,4.0,13.0,6.7,0.8,6.1,,,0.01,0.17,3.2,,
+CR033,"Black-eyed pea, dried",Grains and Legumes,Raw,13.5,331.0,24.4,1.9,56.6,1.6,3.6,481.0,399.0,13.9,15.0,7.8,1.03,5.9,,65.0,0.06,0.2,4.3,,
+GP034,"Blackbanded trevally, cue, raw",Fish and Other Seafood,Processed/Products,42.6,240.0,21.7,7.7,20.7,,7.3,159.0,362.0,9.8,2041.0,159.0,1.5,8.8,,,0.51,0.02,,,
+GR067,"Blackbanded trevally, fresh",Fish and Other Seafood,Raw,76.1,98.0,19.6,1.7,1.0,0.0,1.6,90.0,190.0,0.6,90.0,320.0,0.1,0.5,39.0,0.0,0.0,0.1,0.1,,
+GR003,"Blackfin snapper, fresh",Fish and Other Seafood,Raw,82.2,75.0,16.1,0.7,0.1,0.0,0.9,32.0,200.0,1.8,37.0,204.1,1.6,1.3,0.0,20.0,0.08,0.0,2.5,0.0,0.0
+GR063,"Blue crab, fresh",Fish and Other Seafood,Raw,76.7,96.0,19.5,1.1,2.0,0.0,0.8,9.0,129.0,0.3,43.0,154.0,0.1,0.5,,,0.15,0.02,1.7,,
+AP037,Bobengka,Cereals,Processed/Products,46.3,225.0,5.3,2.6,45.2,,0.6,,,,,,,,,,,,,,
+DP022,"Bogor pickled, vegetables",Vegetables,Processed/Products,78.0,98.0,3.9,2.6,14.8,0.5,0.7,314.0,17.0,1.2,483.0,,,,10.0,,0.28,,,146.0,5.0
+AP038,Bolu peca,Cereals,Processed/Products,55.6,197.0,3.3,4.6,35.6,,0.9,,0.0,0.0,0.0,0.0,,,,,,0.0,0.0,,0.0
+GP056,"Bou ninahu ndamate, dish",Fish and Other Seafood,Processed/Products,79.5,79.0,6.3,1.0,1.1,,2.1,,,,67.0,,,,691.0,,0.1,0.0,0.1,,
+GP057,"Bouiki ninahu nggaluku, dish",Fish and Other Seafood,Processed/Products,73.9,94.0,7.8,2.2,10.8,,5.3,,,,58.0,179.4,,1.5,,,0.5,0.03,2.4,,
+ER055,"Brazilian mango, fresh",Fruits,Raw,84.4,63.0,2.4,0.4,12.4,5.8,0.4,9.0,13.0,0.2,3.0,79.0,0.1,0.1,,10.0,0.18,0.01,0.4,,43.0
+AP024,"Bread, white",Cereals,Processed/Products,40.0,248.0,8.0,1.2,50.0,9.1,0.8,10.0,95.0,1.5,530.0,91.0,0.15,0.9,0.0,0.0,0.1,0.29,2.4,0.0,0.0
+EP015,Breadfruit flour,Fruits,Processed/Products,10.1,353.0,2.9,0.5,84.4,3.7,2.1,100.0,85.0,4.6,9.0,2008.0,0.1,0.6,,0.0,0.4,0.02,0.1,0.0,3.0
+DR106,"Breadfruit, fresh",Vegetables,Raw,70.0,118.0,1.5,0.3,27.2,5.0,1.0,28.0,32.0,0.9,2.0,500.9,0.09,0.1,,0.0,0.1,0.03,0.9,20.0,19.0
+JR002,Breastmilk,Milk and Dairy Products,Raw,88.1,62.0,1.5,3.2,7.0,0.0,0.2,34.0,20.0,0.2,15.0,41.0,0.01,0.4,,7.0,0.01,0.03,0.2,,
+AP039,Brem,Cereals,Processed/Products,37.4,249.0,3.4,0.4,58.0,0.0,0.9,198.0,86.0,2.0,,,,,0.0,,0.34,0.0,0.0,240.0,0.0
+FP039,Brongkos,Meat and Poultry,Processed/Products,76.4,141.0,15.3,3.3,12.6,1.0,2.4,87.0,97.0,5.1,,,,,4.0,,0.4,,,356.0,0.0
+KR006,Buffalo fat (cow fat),Fat and Oil,Raw,5.0,818.0,1.5,90.0,0.0,0.0,3.5,0.0,0.0,0.0,29.0,25.8,0.0,0.0,0.0,283.0,0.0,0.0,0.7,,0.0
+JR004,"Buffalo milk, fresh",Milk and Dairy Products,Raw,73.8,160.0,6.3,12.0,7.1,,0.8,216.0,101.0,0.2,82.0,,,0.3,24.0,,0.04,0.07,,,1.0
+FR021,"Buffalo, meat, fresh",Meat and Poultry,Raw,80.0,79.0,18.7,0.5,0.0,0.0,0.8,14.0,221.0,3.3,91.0,273.0,0.13,1.6,,,0.06,0.17,5.0,,0.0
+FP040,"Bulgogi, dish",Meat and Poultry,Processed/Products,84.2,72.0,11.4,4.9,1.4,1.7,0.7,214.0,86.0,2.5,509.0,,,,17.0,,1.08,,,,0.0
+AP104,"Bun, dark brown skin",Cereals,Processed/Products,40.0,249.0,7.9,1.5,49.7,,0.9,20.0,140.0,2.5,500.0,91.0,,,0.0,0.0,0.15,,,0.0,0.0
+KP002,Butter,Fat and Oil,Processed/Products,16.0,742.0,0.5,81.6,1.4,0.0,1.9,15.0,16.0,1.1,653.0,103.0,0.0,0.4,1000.0,155.0,0.0,0.1,0.0,,
+CR023,"Butter nut, dried",Grains and Legumes,Raw,13.7,344.0,16.7,2.1,64.6,13.0,2.9,110.0,300.0,6.7,1.0,10.0,0.7,2.5,,0.0,0.21,0.07,1.2,,
+DR044,"Cabbage leaves, fresh",Vegetables,Raw,86.2,51.0,2.5,1.1,8.0,3.4,2.2,100.0,50.0,3.4,50.0,100.0,0.9,0.6,,9999.0,0.4,0.1,0.2,,16.0
+GR024,"Caesionidae, fresh",Fish and Other Seafood,Raw,74.1,108.0,22.3,1.2,2.1,0.0,0.3,30.0,220.0,0.5,50.0,230.0,0.1,0.6,40.0,29.0,0.0,0.1,0.2,,
+HR002,"Caged egg, fresh",Eggs,Raw,74.3,154.0,12.4,10.8,0.7,0.0,0.8,86.0,258.0,3.0,142.0,118.5,0.16,1.0,61.0,22.0,0.12,0.38,0.2,104.0,0.0
+HR004,"Caged egg, white (albumen), fresh",Eggs,Raw,87.8,50.0,10.8,0.0,0.8,0.0,0.6,6.0,17.0,0.2,164.0,138.5,0.03,0.4,0.0,0.0,0.0,0.26,0.4,,0.0
+HR003,"Caged egg, yolk, fresh",Eggs,Raw,49.4,355.0,16.3,31.9,0.7,0.0,1.7,147.0,586.0,7.2,111.0,107.5,0.2,2.5,606.0,63.0,0.27,0.51,0.2,,0.0
+DR121,"Calabash, fresh",Vegetables,Raw,95.0,19.0,0.6,0.2,3.8,0.6,0.4,12.0,18.0,0.6,2.0,168.2,0.03,0.8,,11.0,0.04,0.02,0.4,70.0,10.0
+ER038,"Calamansi, fresh",Fruits,Raw,90.2,39.0,0.3,0.3,8.9,2.3,0.4,42.0,85.0,0.5,3.0,82.0,0.3,0.1,,1.0,0.02,0.1,0.0,0.0,30.0
+DP029,Cammetutu,Vegetables,Processed/Products,79.6,102.0,3.2,6.0,8.7,4.3,2.5,41.0,93.0,0.5,443.0,518.0,0.3,0.7,,1123.0,0.3,0.4,0.4,,19.0
+NR019,Candlenut,Herbs and Spices,Raw,7.0,675.0,19.0,63.0,8.0,3.0,3.0,80.0,200.0,2.0,25.0,430.7,0.23,0.8,,0.0,0.06,0.06,0.4,0.0,0.0
+AP042,Cangkuning,Cereals,Processed/Products,57.5,204.0,2.8,7.5,31.4,,0.8,,,,,,,,,,,,,,
+GP049,Canned sardine,Fish and Other Seafood,Processed/Products,47.1,338.0,21.1,27.0,1.0,0.0,3.8,354.0,434.0,3.5,,,,,76.0,0.0,0.1,,,,0.0
+DP030,"Cap cai, vegetables",Vegetables,Processed/Products,82.7,97.0,5.8,6.3,4.2,0.6,1.0,287.0,89.0,1.8,405.0,,,,45.0,,0.21,,,1640.0,1.0
+ER103,"Caqui, fresh",Fruits,Raw,73.8,111.0,0.9,2.3,21.6,1.0,1.4,20.0,185.0,0.7,28.0,117.8,0.04,0.1,0.0,119.0,0.0,0.04,1.5,12.0,19.0
+DP020,"Carrot, boiled",Vegetables,Processed/Products,92.1,28.0,0.7,0.5,6.3,0.8,0.4,46.0,28.0,0.6,41.0,117.3,0.1,0.2,0.0,3824.0,0.01,0.03,0.7,5396.0,12.0
+DR166,"Carrot, fresh",Vegetables,Raw,89.9,36.0,1.0,0.6,7.9,1.0,0.6,45.0,74.0,1.0,70.0,245.0,0.06,0.3,,3784.0,0.04,0.04,1.0,7125.0,18.0
+DP021,"Carrot, steamed",Vegetables,Processed/Products,89.5,37.0,1.0,0.6,8.3,1.1,0.6,44.0,30.0,0.6,43.0,122.5,0.11,0.3,0.0,3994.0,0.02,0.03,0.8,7150.0,14.0
+ER034,"Cashew apple, fresh",Fruits,Raw,82.6,64.0,0.7,0.6,15.8,1.2,0.3,4.0,13.0,0.5,12.0,107.8,,,,1604.0,0.02,0.0,2.0,25.0,197.0
+CR028,"Cashew nut, fresh",Grains and Legumes,Raw,4.6,616.0,16.3,48.4,28.7,0.9,2.0,26.0,521.0,3.8,26.0,692.0,4.7,4.1,,5.0,0.64,0.03,0.0,,
+CP010,"Cashew nut, fried",Grains and Legumes,Processed/Products,1.0,629.0,20.4,56.3,19.8,1.1,2.5,502.0,493.0,8.0,13.0,641.7,4.7,5.4,,5.0,0.37,0.22,1.8,,
+DP008,"Cassava leaves, boiled",Vegetables,Processed/Products,90.5,31.0,3.7,0.6,4.8,1.6,0.4,160.0,50.0,2.6,13.0,14.0,0.1,2.0,,3897.0,0.02,0.1,1.7,4150.0,34.0
+DR071,"Cassava leaves,fresh",Vegetables,Raw,84.4,50.0,6.2,1.1,7.1,2.4,1.2,166.0,99.0,1.3,17.0,23.1,0.1,2.0,0.0,3204.0,0.04,0.1,1.8,7052.0,103.0
+BP025,"Cassava, ceriping getuk",Starchy Roots & Tubers,Processed/Products,7.2,462.0,1.2,20.7,67.7,0.6,3.2,1248.0,172.0,8.8,,,,,0.0,,0.29,0.02,0.5,152.0,0.0
+BP037,"Cassava, chips",Starchy Roots & Tubers,Processed/Products,4.2,478.0,0.9,20.7,72.0,2.0,2.2,189.0,101.0,1.9,,,,,0.0,0.0,0.24,,,0.0,0.0
+BP038,"Cassava, chips, seasoned",Starchy Roots & Tubers,Processed/Products,2.2,481.0,2.2,19.7,73.6,1.6,2.3,156.0,103.0,1.6,,,,,0.0,,0.31,,,80.0,0.0
+BR016,"Cassava, fresh",Starchy Roots & Tubers,Raw,61.4,154.0,1.0,0.3,36.8,0.9,0.5,77.0,24.0,1.1,2.0,394.0,0.3,0.4,0.0,0.0,0.06,0.1,0.5,0.0,31.0
+BP029,"Cassava, getuk",Starchy Roots & Tubers,Processed/Products,49.8,204.0,0.5,1.4,47.4,0.8,1.1,97.0,52.0,1.5,,,,,0.0,,0.08,,0.1,208.0,0.0
+BP033,"Cassava, kecimpring, fried",Starchy Roots & Tubers,Processed/Products,3.7,464.0,1.2,18.6,73.0,1.3,3.5,82.0,52.0,3.4,,,,,,,0.34,,,3320.0,0.0
+BP066,"Cassava, sliced, dried, flour",Starchy Roots & Tubers,Processed/Products,13.0,345.0,2.4,0.4,83.1,6.7,1.1,18.0,95.0,1.5,6.0,55.0,0.4,1.2,,1.0,0.3,0.2,0.1,0.0,0.0
+BP008,"Cassava, steamed",Starchy Roots & Tubers,Processed/Products,61.5,153.0,1.2,0.3,36.4,1.3,0.6,56.0,22.0,0.4,2.0,345.3,0.3,0.1,0.0,0.0,0.0,0.0,0.3,0.0,20.0
+BP063,"Cassava, tapai",Starchy Roots & Tubers,Processed/Products,57.4,169.0,1.4,0.3,40.2,2.0,0.7,21.0,34.0,0.8,,,,,0.0,0.0,0.0,,,0.0,9.0
+BP024,Cassavastick,Starchy Roots & Tubers,Processed/Products,5.6,460.0,0.8,18.7,17.2,1.6,2.7,144.0,58.0,7.5,,,,,0.0,,0.19,0.07,0.1,107.0,0.0
+CR004,"Castor bean, fresh",Grains and Legumes,Raw,72.1,118.0,4.4,1.5,21.6,,0.4,50.0,50.0,1.7,10.0,40.0,0.3,1.0,,,0.43,,,,
+GP084,"Catfish pencok, dish",Fish and Other Seafood,Processed/Products,47.5,372.0,7.8,36.3,3.5,0.0,4.9,289.0,295.0,5.3,,,,,64.0,0.0,0.12,,,12070.0,0.0
+GR045,"Catfish, fresh",Fish and Other Seafood,Raw,75.0,115.0,15.3,4.0,4.4,0.0,1.3,60.0,190.0,1.6,120.0,240.0,0.2,1.0,,,0.2,0.1,0.1,,
+GR055,"Catfish, fresh",Fish and Other Seafood,Raw,81.1,76.0,14.4,1.1,2.2,,1.2,28.0,166.0,0.0,,325.0,0.1,0.6,,,0.31,0.11,,,
+DR113,"Cauli flower, fresh",Vegetables,Raw,91.7,25.0,2.4,0.2,4.9,1.6,0.8,22.0,72.0,1.1,47.0,187.0,0.04,0.3,,24.0,0.11,0.09,0.6,90.0,69.0
+DR034,"Ceara rubber leaves, fresh",Vegetables,Raw,80.3,92.0,4.0,3.6,10.9,5.8,1.2,140.0,70.0,1.6,70.0,90.0,0.3,1.1,,9999.0,0.1,0.2,0.1,,74.0
+ER057,"Cedar bay mango, fresh",Fruits,Raw,82.2,63.0,0.5,0.2,16.7,2.3,0.4,14.0,10.0,0.7,3.0,118.1,0.05,0.1,,160.0,0.08,0.02,0.4,3715.0,65.0
+DR147,"Celery, fresh",Vegetables,Raw,93.0,23.0,1.0,0.1,4.6,2.0,1.3,50.0,40.0,1.0,64.0,258.8,0.08,0.4,,63.0,0.03,0.07,0.4,130.0,11.0
+ER021,"Cempedak (Artocarpus integer), fresh",Fruits,Raw,67.0,116.0,3.0,0.4,28.6,3.4,1.0,20.0,30.0,1.5,25.0,243.7,,,,79.0,0.0,,0.5,200.0,15.0
+DR028,"Chasew leaves, unripe, fresh",Vegetables,Raw,78.0,78.0,4.6,0.5,16.2,3.0,0.7,33.0,64.0,8.9,14.0,670.5,,,,4484.0,0.02,1.12,1.1,2689.0,65.0
+DR046,"Chayote leaves, fresh",Vegetables,Raw,89.7,34.0,4.0,0.4,4.7,3.5,1.2,58.0,70.0,2.5,16.0,630.7,0.2,0.3,,4773.0,0.08,0.4,1.7,2025.0,16.0
+DR123,"Chayote, fresh",Vegetables,Raw,92.3,30.0,0.6,0.1,6.7,6.2,0.3,14.0,25.0,0.5,3.0,167.1,0.16,1.0,,48.0,0.02,0.0,0.6,20.0,18.0
+JP003,Cheese,Milk and Dairy Products,Processed/Products,38.5,326.0,22.8,20.3,13.1,0.0,5.3,777.0,338.0,1.5,1410.0,82.7,0.03,3.1,227.0,128.0,0.01,0.37,0.1,,1.0
+HP001,"Chicken egg, omelette, dish",Eggs,Processed/Products,61.9,251.0,16.3,19.4,1.4,0.0,1.0,62.0,250.0,2.5,,,,,36.0,,0.21,0.0,,221.0,0.0
+FP041,"Chicken teriyaki, dish",Meat and Poultry,Processed/Products,68.2,168.0,13.0,9.6,7.5,0.8,1.7,137.0,106.0,3.1,959.0,,,,68.0,,0.65,,,2200.0,0.0
+FR006,"Chicken, black pudding/blood, fresh",Meat and Poultry,Raw,82.0,75.0,13.8,1.9,0.7,0.0,1.6,15.0,9.0,1.3,337.0,234.0,,,15.0,,0.02,,0.6,,0.0
+FP001,"Chicken, gizzard, fried",Meat and Poultry,Processed/Products,4.8,270.0,32.3,11.2,9.9,0.0,1.8,129.0,314.0,4.9,980.0,,0.12,3.3,56.0,,0.21,,4.7,0.0,0.0
+FP002,"Chicken, intestine, fried",Meat and Poultry,Processed/Products,4.6,473.0,45.2,26.3,13.9,0.0,10.1,1407.0,458.0,8.4,,,,,6.0,,0.57,,0.0,224.0,
+FR007,"Chicken, liver, fresh",Meat and Poultry,Raw,53.4,261.0,27.4,16.1,1.6,0.0,1.5,118.0,373.0,15.8,1068.0,22.9,0.84,0.0,4957.0,169.0,0.64,4.38,4.1,28000.0,0.0
+FR005,"Chicken, meat, fresh",Meat and Poultry,Raw,55.9,298.0,18.2,25.0,0.0,0.0,0.9,14.0,200.0,1.5,109.0,385.9,0.11,0.6,245.0,0.0,0.08,0.14,10.4,,0.0
+CR001,"Chickpea, dried",Grains and Legumes,Raw,11.6,330.0,23.8,1.4,60.2,17.4,3.0,57.0,388.0,4.7,24.0,874.3,0.85,3.4,,40.0,0.77,0.21,1.5,140.0,2.0
+FP042,"Chikiniku, dish",Meat and Poultry,Processed/Products,65.4,143.0,9.8,1.4,22.8,0.4,0.6,301.0,63.0,2.0,531.0,,,,27.0,,0.73,,,1280.0,0.0
+DR032,"Chinese Motherwort leaves, fresh",Vegetables,Raw,89.1,36.0,2.9,0.6,6.8,1.8,0.6,64.0,220.0,2.2,7.0,485.3,0.2,0.3,,2893.0,0.04,0.18,1.2,4377.0,4.0
+BR032,Chinese yam,Starchy Roots & Tubers,Raw,72.5,108.0,0.5,0.4,25.6,4.2,1.0,30.0,40.0,0.5,1.0,1.0,0.1,0.2,0.0,13.0,0.09,0.06,0.6,0.0,24.0
+BP012,"Chinese yam, steamed",Starchy Roots & Tubers,Processed/Products,58.5,165.0,0.9,0.2,39.8,1.1,0.6,20.0,23.0,0.8,1.0,0.9,0.1,0.2,0.0,0.0,0.02,0.1,0.5,0.0,0.0
+DR016,"Choy sum, fresh",Vegetables,Raw,93.6,20.0,1.7,0.4,3.4,1.2,0.9,123.0,40.0,1.9,18.0,358.2,0.05,1.4,,1675.0,0.04,0.19,0.6,4188.0,3.0
+GR005,"Chub mackerel, fresh",Fish and Other Seafood,Raw,76.5,107.0,16.5,3.9,1.5,0.0,1.5,54.0,202.0,2.0,86.0,253.4,0.5,1.0,25.0,0.0,0.05,0.1,2.5,0.0,0.0
+FP021,"Church's texas fried chicken, breast",Meat and Poultry,Processed/Products,42.2,338.0,35.2,20.6,0.4,0.0,1.5,79.0,221.0,5.6,800.0,369.5,0.16,1.1,16.0,,0.52,0.16,12.1,80.0,0.0
+FP022,"Church's texas fried chicken, thigh",Meat and Poultry,Processed/Products,50.3,287.0,31.0,15.7,1.7,0.0,1.3,99.0,176.0,4.1,723.0,257.0,0.17,1.5,22.0,,0.66,0.2,5.3,30.0,0.0
+FP023,"Church's texas fried chicken, wings",Meat and Poultry,Processed/Products,47.2,295.0,34.0,16.0,1.5,0.0,1.3,81.0,179.0,3.0,771.0,237.2,0.16,1.2,13.0,,0.44,0.13,6.2,50.0,0.0
+GR039,"Clam, fresh",Fish and Other Seafood,Raw,74.0,109.0,22.0,1.7,0.0,0.0,2.3,50.0,150.0,2.0,,,,,45.0,0.0,0.05,,,,0.0
+GP045,"Clam, jerky, raw",Fish and Other Seafood,Processed/Products,9.3,393.0,38.9,13.3,29.4,,9.1,420.0,410.0,8.5,160.0,50.0,0.6,3.7,,,0.3,1.7,0.2,,
+GP044,"Clam, smoked, raw",Fish and Other Seafood,Processed/Products,5.2,347.0,48.8,6.4,19.6,0.0,20.0,4608.0,1200.0,18.6,,,,,61.0,0.0,1.12,,,130.0,0.0
+NR016,"Clove, dried",Herbs and Spices,Raw,23.3,330.0,5.2,8.9,57.4,10.0,5.2,740.0,100.0,4.9,282.0,961.0,0.3,0.0,,265.0,200.0,0.0,0.0,,
+MP004,Cocoa powder,Convectionery,Processed/Products,3.9,311.0,8.0,4.0,48.9,32.6,15.4,125.0,715.0,11.6,,,,,,,0.12,,0.6,30.0,
+AP069,Coconut cookie,Cereals,Processed/Products,3.3,591.0,5.6,42.1,47.5,,1.5,32.0,180.0,1.6,33.0,443.0,0.5,1.1,,,,,,,
+KP003,Coconut milk (with water),Fat and Oil,Processed/Products,80.0,122.0,2.0,10.0,7.6,1.4,0.4,25.0,30.0,0.1,9.0,162.4,0.16,0.4,0.0,,0.02,0.0,0.5,,2.0
+KR011,Coconut oil,Fat and Oil,Raw,0.0,870.0,1.0,98.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+MP006,Coconut palm sugar,Convectionery,Processed/Products,10.0,386.0,3.0,10.0,76.0,0.0,1.0,76.0,37.0,2.6,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.34,0.5,,0.0
+DP054,Coconut umbut soup,Vegetables,Processed/Products,85.5,67.0,5.2,2.9,5.1,1.4,1.3,48.0,81.0,3.2,313.0,108.0,0.2,1.1,,21.0,0.2,,,,5.0
+DR164,"Coconut umbut, fresh",Vegetables,Raw,89.3,39.0,2.0,0.2,7.2,2.5,1.3,57.0,49.0,,4.0,447.0,0.2,1.4,,16.0,0.1,0.1,,,8.0
+CP022,"Coconut, bungkil",Grains and Legumes,Processed/Products,16.0,368.0,23.0,15.0,40.0,,38.0,137.0,433.0,41.5,,,,,0.0,,0.0,0.46,8.9,,
+ER032,Common guava,Fruits,Raw,82.8,61.0,0.9,0.3,15.4,4.5,0.6,31.0,41.0,0.2,20.0,103.0,0.04,0.5,,53.0,1.02,0.06,1.3,18.0,116.0
+DR025,"Common purslane leaves, fresh",Vegetables,Raw,90.3,30.0,1.3,0.7,5.8,1.3,1.9,350.0,210.0,11.9,5.0,333.3,0.31,1.2,0.0,4701.0,0.01,0.14,0.7,1954.0,1.0
+ER080,"Cooking plantain, fresh",Fruits,Raw,74.4,100.0,1.4,0.5,23.6,2.6,0.6,15.0,0.0,0.1,1.0,493.0,0.08,0.3,,3.0,0.1,0.0,0.6,,11.0
+NR020,"Coriander, dried",Herbs and Spices,Raw,11.2,418.0,14.1,16.1,54.2,12.3,4.4,630.0,370.0,17.9,91.0,1787.0,0.95,4.6,,75.0,0.2,0.35,1.8,1570.0,0.0
+AP051,Corn gerontol,Cereals,Processed/Products,61.7,156.0,2.7,1.3,33.3,1.0,0.8,51.0,105.0,1.2,,,,,0.0,,0.08,0.0,0.0,162.0,0.0
+AP009,Corn rice,Cereals,Processed/Products,11.0,357.0,8.8,0.5,79.5,6.2,0.3,5.0,43.0,0.6,2.0,30.4,0.1,0.3,,0.0,0.3,0.02,0.1,0.0,0.0
+AR006,"Corn rice, white, dried, raw",Cereals,Raw,22.5,307.0,4.8,0.1,71.8,10.0,0.8,17.0,78.0,1.2,1.0,70.0,0.1,3.5,,301.0,0.15,0.07,0.9,,0.0
+AR005,"Corn rice, yellow, dried, raw",Cereals,Raw,10.8,358.0,5.5,0.1,82.7,10.0,0.9,20.0,90.0,1.4,1.0,80.0,0.1,4.1,,641.0,0.12,0.08,1.0,,3.0
+AP052,Corn titi,Cereals,Processed/Products,9.2,374.0,9.4,2.2,79.1,0.8,0.1,14.0,142.0,2.9,,,9.0,,,,0.2,,,11507.0,
+AP008,"Corn vermicelli, raw",Cereals,Processed/Products,11.3,354.0,0.5,0.3,87.4,3.0,0.5,13.0,111.0,0.6,49.0,1.4,0.4,0.0,,0.0,0.02,0.02,0.3,0.0,0.0
+AR017,"Corn, shelled, variant harapan, dried",Cereals,Raw,11.3,367.0,6.2,5.1,76.2,2.6,1.2,7.0,354.0,2.8,1.0,79.6,0.1,4.1,,637.0,0.19,0.08,1.0,385.0,0.0
+AR018,"Corn, shelled, variant metro, dried",Cereals,Raw,10.6,368.0,5.5,4.6,78.0,2.9,1.3,7.0,300.0,2.4,1.0,80.2,0.1,4.1,,642.0,0.16,0.08,1.0,554.0,0.0
+AP013,"Corn, white, flour",Cereals,Processed/Products,12.0,355.0,9.2,3.9,73.7,7.2,1.2,10.0,256.0,2.4,11.0,24.4,0.23,1.7,,0.0,0.38,0.02,0.3,0.0,
+AP011,"Corn, yellow, flour",Cereals,Processed/Products,12.0,355.0,9.2,3.9,73.7,7.2,1.2,10.0,256.0,2.4,11.0,24.4,0.23,1.7,,0.0,0.38,0.02,0.3,510.0,
+AP012,"Corn, yellow, shelled, boiled",Cereals,Processed/Products,63.7,154.0,3.8,3.5,28.4,0.7,0.6,7.0,171.0,0.5,5.0,56.4,0.1,4.4,,818.0,0.08,0.1,1.7,234.0,0.0
+AR016,"Corn, yellow, shelled, dried, raw",Cereals,Raw,11.5,366.0,9.8,7.3,69.1,2.2,2.4,30.0,538.0,2.3,5.0,79.4,0.1,4.1,,636.0,0.12,0.12,1.8,641.0,3.0
+AP010,"Corn, young, boiled",Cereals,Processed/Products,53.2,142.0,5.0,0.7,30.3,0.8,0.8,5.0,105.0,0.8,5.0,24.3,0.2,0.9,,145.0,0.15,0.0,0.7,225.0,0.0
+AP019,Cornstarch,Cereals,Processed/Products,14.0,341.0,0.3,0.0,85.0,7.0,0.7,20.0,30.0,1.5,6.0,9.0,0.22,1.6,0.0,0.0,0.0,0.09,1.3,0.0,0.0
+DR040,"Cosmos leaves, fresh",Vegetables,Raw,87.6,45.0,3.7,0.5,6.6,5.8,1.7,328.0,65.0,2.7,6.0,431.0,0.1,0.6,,30200.0,0.5,0.3,4.5,12.0,0.0
+FP044,"Coto mangkasara, beef, dish",Meat and Poultry,Processed/Products,85.9,84.0,6.0,6.0,1.4,,0.7,8.0,104.0,4.0,90.0,25.0,0.3,0.6,,,0.16,0.14,10.3,,
+FP043,"Coto mangkasara, horse, dish",Meat and Poultry,Processed/Products,83.5,96.0,6.8,5.9,3.8,,0.9,11.0,106.0,2.3,96.0,31.0,0.1,1.0,,,0.23,0.14,4.2,,
+JR006,"Cow milk, fresh",Milk and Dairy Products,Raw,88.3,61.0,3.2,3.5,4.3,0.0,0.7,143.0,60.0,1.7,36.0,149.0,0.02,0.3,39.0,12.0,0.03,0.18,0.2,,1.0
+GR038,"Crab, fresh",Fish and Other Seafood,Raw,65.0,161.0,11.9,11.5,2.4,0.0,9.2,70.0,237.0,0.0,,,,,0.0,,0.05,,,0.0,0.0
+JR001,"Cream, fresh",Milk and Dairy Products,Raw,72.5,204.0,2.6,20.0,4.0,0.0,0.9,97.0,77.0,0.1,,,,,252.0,191.0,0.03,0.2,0.1,,1.0
+FP004,"Crocodile, meat, jerked meat, raw",Meat and Poultry,Processed/Products,12.3,365.0,49.6,4.8,30.8,,2.5,60.0,130.0,4.3,500.0,680.0,0.2,11.6,,0.0,,,0.2,,
+DR110,"Cucumber (krai), fresh",Vegetables,Raw,96.8,10.0,0.5,0.2,2.0,0.6,0.5,20.0,98.0,1.0,10.0,82.1,0.03,0.1,0.0,19.0,0.02,0.03,0.1,21.0,3.0
+DR109,"Cucumber, fresh",Vegetables,Raw,97.9,8.0,0.2,0.2,1.4,0.3,0.3,29.0,95.0,0.8,2.0,57.1,0.02,0.1,0.0,18.0,0.01,0.02,0.1,314.0,1.0
+HP006,"Cucuru bayau, dish",Eggs,Processed/Products,35.0,349.0,6.8,18.7,38.3,,1.2,,,,,,,,,123.0,0.06,0.25,0.0,,
+GR015,"Cyprinid fish, fresh",Fish and Other Seafood,Raw,79.1,90.0,14.9,2.5,2.1,0.0,1.4,125.0,265.0,1.0,35.0,207.0,0.4,0.6,,,0.36,0.03,2.9,,
+GR032,"Cyprinid freshwater fish, fresh",Fish and Other Seafood,Raw,80.3,77.0,16.4,0.7,1.3,0.0,1.3,182.0,248.0,0.9,40.0,334.0,0.7,0.8,,,0.16,0.15,1.9,,
+FP010,"Deer, meat, jerked meat, raw",Meat and Poultry,Processed/Products,18.3,536.0,40.5,41.5,0.0,,2.5,90.0,420.0,13.4,130.0,690.0,0.3,10.7,285.0,,,,0.2,,
+DR069,"Dillenia leaves, fresh",Vegetables,Raw,86.2,53.0,3.2,2.5,7.6,1.6,0.9,228.0,194.0,3.5,,,,,0.0,,0.02,,,3346.0,5.0
+DR093,"Djenkol, fresh",Vegetables,Raw,52.7,192.0,5.4,0.3,40.7,1.5,0.9,4.0,150.0,0.7,60.0,241.0,0.3,0.6,,,0.05,0.2,0.5,,31.0
+FP045,"Djibokum, dish",Meat and Poultry,Processed/Products,43.4,248.0,10.0,2.3,40.9,0.1,3.4,116.0,110.0,2.8,401.0,,,,52.0,,0.75,,,1920.0,0.0
+NP012,Dobo belachan,Herbs and Spices,Processed/Products,58.4,191.0,33.1,3.6,6.6,1.6,11.5,2250.0,1130.0,22.9,650.0,1260.0,2.9,5.0,,0.0,3.74,0.22,2.0,,
+CP023,Dodol (taffy) banjarmasin,Grains and Legumes,Processed/Products,17.3,368.0,2.6,8.6,70.0,0.5,1.5,51.0,180.0,3.3,48.0,96.0,0.4,2.6,0.0,0.0,0.04,0.07,2.3,0.0,0.0
+AP043,Dodol bali,Cereals,Processed/Products,26.5,298.0,3.7,2.1,65.9,0.4,1.8,70.0,76.0,2.5,,,,,0.0,0.0,0.28,,2.5,496.0,0.0
+AP044,Dodol galamai,Cereals,Processed/Products,16.5,348.0,0.4,3.8,76.1,0.5,1.2,41.0,144.0,2.6,38.0,76.0,0.3,2.1,0.0,0.0,0.03,0.06,1.8,0.0,0.0
+AP045,Dodol kedondong,Cereals,Processed/Products,26.4,331.0,1.9,7.6,63.8,1.0,0.4,90.0,55.0,2.3,,,,,0.0,,0.11,,0.8,408.0,5.0
+AP046,Dodol manado,Cereals,Processed/Products,26.1,373.0,4.3,16.5,51.9,0.4,1.2,41.0,142.0,2.4,35.0,72.0,0.3,2.1,0.0,0.0,0.04,0.06,2.1,0.0,0.0
+HR008,"Domestic duck egg, fresh",Eggs,Raw,67.7,187.0,10.9,12.4,7.9,0.0,1.1,64.0,295.0,5.4,209.0,146.0,0.4,1.8,378.0,471.0,1.62,0.03,0.1,375.0,
+EP011,Dried banana,Fruits,Processed/Products,28.9,281.0,2.4,0.7,66.1,1.0,2.0,41.0,64.0,1.2,,,,,,,0.1,,,272.0,0.0
+EP012,"Dried banana, cilacap",Fruits,Processed/Products,27.1,295.0,2.3,2.1,66.9,1.3,1.7,47.0,97.0,2.8,,,,,,,0.14,,,296.0,
+MP017,Dried black tea leaves,Convectionery,Processed/Products,8.0,293.0,24.5,2.8,58.8,8.7,5.9,327.0,313.0,24.3,50.0,5854.8,0.0,0.0,0.0,2700.0,0.07,0.8,7.6,,9.0
+MP016,Dried green tea leaves,Convectionery,Processed/Products,7.7,300.0,28.3,4.8,53.6,9.6,5.6,245.0,415.0,18.9,60.0,5873.9,0.5,0.0,,8400.0,0.38,1.24,4.6,,230.0
+MP018,Dried jasmine tea leaves,Convectionery,Processed/Products,8.1,299.0,24.1,3.5,59.0,9.7,5.3,320.0,185.0,31.6,70.0,5848.4,0.53,0.0,0.0,8400.0,0.07,0.79,7.3,,85.0
+EP010,Dried persimmon,Fruits,Processed/Products,25.0,296.0,1.1,0.6,71.4,,1.8,,,,,,,,,,,,,,3.0
+NP007,Dried shrimp paste,Herbs and Spices,Processed/Products,8.3,345.0,23.8,1.4,59.3,0.0,7.1,221.0,397.0,3.8,11998.0,462.8,0.75,1.9,,0.0,1.02,0.4,2.2,232.0,0.0
+GP051,"Dried shrimp, raw",Fish and Other Seafood,Processed/Products,14.9,278.0,62.6,4.1,2.2,,16.2,760.0,510.0,5.2,540.0,360.0,2.4,3.2,39.0,,,,0.1,,
+FR013,"Duck (alabio), meat, fresh",Meat and Poultry,Raw,57.0,303.0,11.3,27.0,3.7,0.0,1.0,20.0,293.0,4.8,50.0,260.0,0.7,2.0,,0.0,0.36,0.04,4.1,,
+FP006,"Duck (alabio), meat, jerked meat, raw",Meat and Poultry,Processed/Products,12.7,496.0,30.3,33.5,18.4,,5.1,135.0,370.0,12.5,1081.0,478.0,0.7,0.3,,0.0,,,,,
+HP003,"Duck egg, omelette, dish",Eggs,Processed/Products,55.1,301.0,20.0,23.7,0.0,0.0,1.2,71.0,600.0,9.2,,,,,122.0,,0.35,,,613.0,0.0
+HP002,"Duck egg, salted, raw",Eggs,Processed/Products,66.5,179.0,13.6,13.3,4.4,0.0,2.2,120.0,157.0,1.8,483.0,140.1,,,253.0,13.0,0.28,0.98,0.6,,0.0
+HR007,"Duck egg, white (albumen), fresh",Eggs,Raw,88.0,54.0,11.0,0.0,0.8,0.0,0.2,21.0,20.0,0.1,184.0,150.2,0.13,0.1,0.0,0.0,0.01,0.02,0.1,,0.0
+HR006,"Duck egg, yolk, fresh",Eggs,Raw,47.0,386.0,17.0,35.0,0.8,0.0,0.2,150.0,400.0,7.0,106.0,90.7,0.09,2.5,870.0,747.0,0.6,0.68,1.4,,0.0
+FR012,"Duck, meat, fresh",Meat and Poultry,Raw,54.3,321.0,16.0,28.6,0.0,0.0,1.1,15.0,188.0,1.8,54.0,199.0,0.21,1.2,273.0,0.0,0.1,0.28,4.3,,0.0
+FP003,"Duck, meat, fried",Meat and Poultry,Processed/Products,48.8,300.0,24.0,20.7,4.5,0.0,2.0,170.0,170.0,4.1,34.0,6.0,0.4,3.0,,0.0,0.1,0.4,10.6,,
+ER023,"Durian, fresh",Fruits,Raw,65.0,134.0,2.5,3.0,28.0,3.5,8.0,7.0,44.0,1.3,1.0,601.0,0.12,0.3,,146.0,0.1,0.19,136.5,175.0,53.0
+DR156,"Dutch eggplant, fresh",Vegetables,Raw,87.3,52.0,2.1,1.1,8.6,1.4,1.0,16.0,40.0,1.1,,,,,0.0,,0.42,0.06,0.0,8048.0,12.0
+AP075,Eclairs,Cereals,Processed/Products,56.6,221.0,7.5,10.2,24.8,,0.9,105.0,85.0,2.5,,,,,26.0,,0.12,,,1300.0,0.0
+CR016,"Edible-podded pea, fresh",Grains and Legumes,Raw,74.3,98.0,6.7,0.4,17.7,6.2,0.9,22.0,122.0,1.9,6.0,296.6,0.21,1.5,,,0.34,0.16,2.5,680.0,26.0
+DR102,"Edible-podded pea, unripe, fresh",Vegetables,Raw,86.8,45.0,3.3,0.2,9.0,1.8,0.7,51.0,85.0,1.0,2.0,118.4,0.09,0.7,,72.0,0.2,0.1,0.9,440.0,49.0
+GP059,"Eel jerky, fried",Fish and Other Seafood,Processed/Products,8.2,382.0,55.7,14.1,8.0,0.0,14.0,1069.0,654.0,15.4,,,,,28.0,,0.48,,,1480.0,0.0
+GP002,"Eel, fried",Fish and Other Seafood,Processed/Products,11.2,417.0,25.9,19.4,32.0,0.0,11.5,840.0,872.0,4.9,71.0,217.7,0.3,1.8,0.0,,0.0,0.2,10.5,0.0,0.0
+GR012,"Eel, saltwater, fresh",Fish and Other Seafood,Raw,78.0,91.0,19.0,1.7,0.0,0.0,1.3,20.0,150.0,2.0,129.0,233.3,0.1,0.3,45.0,0.0,0.05,0.1,1.8,,0.0
+HP007,"Egg kalio, dish",Eggs,Processed/Products,79.0,193.0,10.6,12.4,9.7,,1.4,148.0,246.0,3.8,540.0,,,,160.0,,0.44,,,3600.0,0.0
+GP082,Egg pempek,Fish and Other Seafood,Processed/Products,62.4,156.0,4.7,2.7,28.3,,1.9,13.0,83.0,1.3,448.0,48.0,0.1,0.6,,,0.2,0.05,1.1,,
+CP063,Egg tofu,Grains and Legumes,Processed/Products,41.8,328.0,12.6,19.9,24.6,0.4,1.1,492.0,238.0,4.9,755.0,,,,73.0,,0.42,,,1860.0,0.0
+DR154,"Eggplant, fresh",Vegetables,Raw,92.7,28.0,1.1,0.2,5.5,2.1,0.5,15.0,37.0,0.4,9.0,187.0,0.1,0.1,,46.0,0.04,0.03,0.5,30.0,5.0
+AP082,Egyptian martabak,Cereals,Processed/Products,40.2,278.0,5.1,8.6,45.0,,1.1,49.0,168.0,3.4,193.0,123.0,0.2,0.9,,,,,,,
+BR024,"Elephant foot, yam, fresh",Starchy Roots & Tubers,Raw,80.1,74.0,1.4,0.1,17.2,1.4,1.2,42.0,46.0,1.3,7.0,400.0,0.1,0.1,0.0,24.0,0.04,0.0,0.4,254.0,2.0
+BP009,"Elephant foot, yam, steamed",Starchy Roots & Tubers,Processed/Products,75.5,93.0,1.5,0.1,21.9,0.9,1.0,50.0,58.0,0.8,6.0,350.3,0.1,0.1,0.0,0.0,0.09,0.0,0.3,283.0,0.0
+FP046,"Empal (meat), Fried, dish",Meat and Poultry,Processed/Products,43.9,248.0,36.2,6.9,10.1,,2.0,131.0,235.0,6.4,848.0,,,,112.0,,0.55,,,620.0,0.0
+CP024,Emping (melinjo chips),Grains and Legumes,Processed/Products,13.0,345.0,12.0,1.5,71.5,,28.0,100.0,400.0,5.0,,,,,,,0.2,,,,0.0
+DR086,Encik mushroom,Vegetables,Raw,24.8,296.0,9.4,1.1,62.0,,2.7,5.0,277.0,5.3,2.0,0.0,0.2,3.1,,,1.1,0.1,,,
+DR004,"Endive, fresh",Vegetables,Raw,91.8,226.0,1.6,0.2,5.3,4.1,1.1,33.0,66.0,1.0,29.0,414.6,0.13,1.0,,1717.0,0.14,0.09,0.5,,10.0
+CP026,"Enting-enting gepuk, brand hello kity",Grains and Legumes,Processed/Products,2.4,538.0,13.6,30.3,52.6,0.2,1.0,81.0,248.0,1.6,,,,,0.0,,1.0,,,202.0,0.0
+CP027,"Enting-enting gepuk, peanut",Grains and Legumes,Processed/Products,4.2,524.0,13.3,29.2,52.0,0.2,1.4,76.0,248.0,1.4,,,,,0.0,,0.62,,,272.0,0.0
+CP028,"Enting-enting, sesame",Grains and Legumes,Processed/Products,3.7,565.0,18.2,38.4,36.8,1.9,3.0,251.0,502.0,10.9,,,,,0.0,,0.92,,,240.0,0.0
+GR054,"European carp, fresh",Fish and Other Seafood,Raw,68.3,147.0,22.5,5.2,2.6,,1.4,80.0,230.0,1.3,,380.0,0.2,0.7,89.0,,,,,,
+GP078,Featherback pempek,Fish and Other Seafood,Processed/Products,61.4,156.0,4.2,1.4,31.6,0.2,1.4,100.0,55.0,3.3,,,,,0.0,,0.03,,,0.0,0.0
+NP001,Fermented baby shrimp / Balichong,Herbs and Spices,Processed/Products,59.9,152.0,13.2,0.8,22.9,1.5,3.6,380.0,210.0,2.9,120.0,310.0,0.8,1.1,34.0,0.0,0.01,0.08,0.2,,
+NP002,Fermented fish / Bekasam,Herbs and Spices,Processed/Products,65.5,116.0,11.9,4.9,6.1,3.5,11.6,704.0,757.0,7.5,711.0,176.0,0.8,1.9,,0.0,0.0,0.03,2.1,,
+DP033,Fern curry,Vegetables,Processed/Products,76.1,143.0,4.0,11.4,6.0,1.4,2.6,548.0,124.0,1.7,,,,,11.0,,0.35,,,9802.0,1.0
+DR059,"Fern leaves, fresh",Vegetables,Raw,86.8,39.0,4.5,0.4,6.9,2.0,1.4,136.0,159.0,2.3,20.0,201.9,0.2,0.3,0.0,1625.0,0.02,0.1,0.5,3292.0,3.0
+AR009,"Field rice, raw",Cereals,Raw,9.8,376.0,7.5,3.8,78.0,5.9,0.9,20.0,110.0,0.8,10.0,70.0,0.1,1.4,0.0,0.0,0.2,0.2,5.1,,0.0
+GP061,Fillet o-fish,Fish and Other Seafood,Processed/Products,51.0,270.0,12.3,15.9,19.3,0.2,1.5,239.0,272.0,1.8,439.0,,,,34.0,,0.59,,,580.0,0.0
+NR009,"Fingerroot, fresh",Herbs and Spices,Raw,90.0,40.0,1.0,0.8,7.2,1.0,1.0,50.0,50.0,2.0,33.0,480.0,0.02,0.3,,0.0,0.08,0.68,1.7,5000.0,50.0
+HP004,"Fish egg, salted, raw",Eggs,Processed/Products,37.8,358.0,20.7,26.4,9.4,0.0,5.7,48.0,311.0,15.1,2684.0,59.0,0.4,3.0,1866.0,0.0,0.21,0.54,2.1,,
+KR005,Fish fat,Fat and Oil,Raw,43.3,372.0,12.0,29.4,14.4,0.0,0.3,20.0,230.0,32.7,60.0,52.0,0.4,1.1,,,0.49,0.13,,,
+GP065,"Fish gulai, dish",Fish and Other Seafood,Processed/Products,75.7,106.0,16.5,3.3,2.5,,2.0,306.0,196.0,4.8,743.0,,,,86.0,,0.32,,,2760.0,0.0
+KR008,Fish oil,Fat and Oil,Raw,0.0,902.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24242.0,0.0,0.0,0.0,0.0,,0.0
+NP006,Fish paste (petis),Herbs and Spices,Processed/Products,56.0,165.0,20.0,0.2,20.8,,3.0,37.0,36.0,2.8,,,,,,,0.01,0.2,0.8,0.0,0.0
+GP038,"Fish, ground, raw",Fish and Other Seafood,Processed/Products,34.7,199.0,34.1,3.8,7.1,,20.3,94.0,92.0,2.2,377.0,57.0,0.1,3.2,2481.0,,1.5,0.13,7.2,,
+GR077,"Flying fish, fresh",Fish and Other Seafood,Raw,79.9,87.0,16.0,2.2,1.0,0.0,0.9,75.0,136.0,1.0,,,,,6.0,,0.04,,,0.0,0.0
+DR063,"Football fruit leaves, fresh",Vegetables,Raw,76.1,104.0,3.9,0.6,17.9,8.3,1.5,256.0,22.0,1.8,4.0,266.0,1.7,0.5,,55.0,0.4,0.1,0.1,,23.0
+BP057,Forno sago,Starchy Roots & Tubers,Processed/Products,31.5,291.0,0.5,4.0,63.4,,0.6,10.0,20.0,0.8,40.0,50.0,0.1,0.2,0.0,0.0,,,,0.0,0.0
+HR001,"Free-range egg, fresh",Eggs,Raw,73.1,174.0,10.8,14.0,1.2,0.0,0.9,68.0,268.0,4.9,190.0,141.0,0.6,1.5,203.0,23.0,0.78,0.62,0.2,125.0,
+GP070,Fried pangasius,Fish and Other Seafood,Processed/Products,13.4,286.0,48.5,9.2,2.3,,26.6,207.0,457.0,3.3,,,,,109.0,,0.4,,3.1,160.0,0.0
+GP020,Fried tilapia,Fish and Other Seafood,Processed/Products,44.7,416.0,46.9,23.9,0.0,0.0,2.2,346.0,654.0,0.9,54.0,278.9,0.0,0.2,12.0,3.0,0.12,0.1,2.2,8.0,0.0
+GR042,"Frog, fresh",Fish and Other Seafood,Raw,76.0,112.0,20.0,3.0,0.0,0.0,1.0,20.0,100.0,1.0,,,,,30.0,0.0,0.05,,,,0.0
+BR007,"Gadeng/Gadung, dried",Starchy Roots & Tubers,Raw,20.2,322.0,2.4,0.6,76.6,,0.2,39.0,22.0,2.2,5.0,2.0,0.5,0.2,0.0,0.0,0.45,0.02,1.0,0.0,0.0
+DP031,Gado-gado,Vegetables,Processed/Products,68.5,137.0,6.1,3.2,21.0,1.1,1.5,301.0,135.0,7.5,,,,,3.0,,0.1,,,5929.0,1.0
+BP035,"Gadung, chips",Starchy Roots & Tubers,Processed/Products,4.0,446.0,2.8,14.5,76.0,1.7,2.8,147.0,52.0,1.9,,,,,0.0,0.0,0.95,,,0.0,0.0
+BR008,"Gadung, yam, fresh",Starchy Roots & Tubers,Raw,74.4,100.0,0.9,0.3,23.5,2.1,0.9,79.0,66.0,0.9,8.0,687.2,0.2,0.2,0.0,0.0,0.23,0.0,0.5,0.0,2.0
+BP006,"Gadung, yam, steamed",Starchy Roots & Tubers,Processed/Products,77.4,88.0,0.6,0.3,20.9,0.9,0.8,26.0,47.0,0.4,6.0,584.0,0.2,0.2,0.0,0.0,0.03,0.0,0.4,0.0,0.0
+NR010,"Galangal, fresh",Herbs and Spices,Raw,93.0,26.0,1.0,0.3,4.7,1.1,1.0,50.0,50.0,2.0,24.0,137.1,0.07,0.3,,5.0,0.08,0.06,0.3,5000.0,50.0
+CR009,"Galing nut, fresh",Grains and Legumes,Raw,12.0,336.0,23.1,1.7,59.5,,3.8,80.0,400.0,5.0,,,,,0.0,,0.6,,,,0.0
+DR022,"Gandiaria leaves, fresh",Vegetables,Raw,81.0,63.0,3.1,0.3,14.0,2.1,1.6,40.0,45.0,4.7,3.0,127.7,,,,503.0,0.04,0.04,0.2,600.0,61.0
+BP007,"Ganyong, boiled",Starchy Roots & Tubers,Processed/Products,74.1,100.0,0.8,0.2,23.8,0.9,1.1,15.0,65.0,0.9,,,,,0.0,0.0,0.04,,,0.0,6.0
+BP065,"Ganyong, flour",Starchy Roots & Tubers,Processed/Products,13.6,353.0,0.8,1.7,83.6,0.7,0.3,4.0,31.0,3.3,3.0,63.5,0.1,0.3,,0.0,0.02,0.0,0.9,0.0,1.0
+BR009,"Ganyong, fresh",Starchy Roots & Tubers,Raw,79.9,77.0,0.6,0.2,18.4,0.8,0.9,15.0,67.0,1.0,,,,,0.0,0.0,0.1,,,0.0,9.0
+ER077,"Gapi banana, fresh",Fruits,Raw,66.3,131.0,1.6,0.1,31.1,11.7,1.0,58.0,40.0,0.3,6.0,392.0,0.13,0.3,,13.0,0.18,0.02,0.3,,13.0
+DR117,"Garlic chieves, fresh",Vegetables,Raw,86.3,45.0,2.2,0.3,10.3,4.8,0.9,52.0,50.0,1.1,21.0,439.5,0.11,0.5,,2685.0,0.11,0.2,1.8,40.0,17.0
+DR118,"Garlic chieves, unripe, fresh",Vegetables,Raw,86.0,42.0,3.8,0.6,7.8,4.9,1.8,76.0,91.0,2.5,22.0,449.1,0.11,0.5,,2744.0,0.11,0.2,1.8,500.0,59.0
+NR008,"Garlic, fresh",Herbs and Spices,Raw,71.0,112.0,4.5,0.2,23.1,0.6,1.8,42.0,134.0,1.0,46.0,665.7,0.09,0.4,,0.0,0.22,0.07,0.3,,15.0
+DP049,Garu soup,Vegetables,Processed/Products,70.8,178.0,2.6,13.9,10.6,8.4,2.1,30.0,130.0,0.9,20.0,120.0,0.1,0.3,,,0.2,0.1,,,9.0
+BP026,Gatot,Starchy Roots & Tubers,Processed/Products,12.8,347.0,1.3,0.7,83.8,5.8,1.4,78.0,44.0,17.1,28.0,242.0,0.2,0.7,,0.0,0.02,0.1,0.4,0.0,0.0
+BP027,Geblek,Starchy Roots & Tubers,Processed/Products,52.1,195.0,0.4,1.7,44.4,3.6,1.4,35.0,13.0,0.6,353.0,125.0,0.3,0.3,,0.0,0.02,0.0,0.1,0.0,0.0
+ER056,"Gedung mango, fresh",Fruits,Raw,87.4,44.0,0.7,0.2,11.2,1.6,0.5,13.0,10.0,0.2,2.0,83.6,0.04,0.1,,113.0,0.08,0.01,0.3,16400.0,30.0
+AP048,Gemblong,Cereals,Processed/Products,36.2,274.0,1.7,5.4,55.5,2.2,1.2,69.0,55.0,3.3,,,,,0.0,0.0,0.0,,,0.0,0.0
+AP049,"Gendar, fried",Cereals,Processed/Products,30.4,407.0,6.4,28.2,32.0,0.1,3.0,216.0,62.0,1.6,,,,,0.0,,0.16,0.0,0.6,184.0,0.0
+CP029,Geplak,Grains and Legumes,Processed/Products,29.6,350.0,1.4,14.4,53.6,1.8,1.0,151.0,43.0,2.1,,,,,0.0,,0.12,0.02,0.8,120.0,0.0
+CP030,Geplak jahe (Ginger taffy),Grains and Legumes,Processed/Products,12.4,462.0,3.1,24.4,57.7,3.3,2.5,212.0,161.0,6.6,,,,,0.0,,0.12,0.0,0.1,272.0,0.0
+EP003,Getuk pisang,Fruits,Processed/Products,63.7,144.0,1.1,0.4,34.1,0.4,0.7,48.0,32.0,1.0,,,,,,,0.55,,,1240.0,0.0
+BP028,"Getuk, fried",Starchy Roots & Tubers,Processed/Products,16.5,360.0,1.3,6.4,74.3,0.8,1.5,59.0,81.0,3.2,,,,,0.0,0.0,0.21,,0.1,0.0,0.0
+GR083,"Giant freshwater prawn, fresh",Fish and Other Seafood,Raw,85.5,56.0,11.4,0.6,1.2,0.0,1.3,30.0,20.0,0.3,190.0,210.0,0.4,0.8,,0.0,0.14,0.0,0.1,,
+GR071,"Giant snakehead, fresh",Fish and Other Seafood,Raw,76.9,96.0,19.2,2.0,0.2,,2.1,340.0,340.0,0.8,370.0,300.0,0.1,2.0,26.0,,,,,,
+BP069,"Giant taro, flour",Starchy Roots & Tubers,Processed/Products,15.3,326.0,4.0,0.4,76.7,8.5,3.6,41.0,141.0,3.5,14.0,1602.0,0.4,1.4,,0.0,0.02,0.2,7.7,0.0,0.0
+BR023,"Giant taro, taro, fresh",Starchy Roots & Tubers,Raw,14.0,353.0,0.7,0.2,84.7,6.6,0.4,11.0,13.0,1.5,30.0,694.6,0.6,2.2,,41.0,0.05,0.2,2.8,,5.0
+GR016,"Giant trevally, fresh",Fish and Other Seafood,Raw,68.3,88.0,14.2,0.7,6.2,0.0,10.6,27.0,1760.0,1.5,217.0,202.0,0.0,4.1,,0.0,0.72,0.09,2.7,,
+AP068,Ginger cookie,Cereals,Processed/Products,3.7,425.0,1.6,8.8,84.6,1.2,1.3,155.0,61.0,4.0,,,,,,,0.2,,,0.0,0.0
+NR018,"Ginger, fresh",Herbs and Spices,Raw,55.0,51.0,1.5,1.0,10.1,12.0,1.2,21.0,39.0,1.6,12.0,441.7,0.48,0.7,,0.0,0.02,0.17,3.3,9.0,4.0
+AP107,Glutinous rice srikaya,Cereals,Processed/Products,41.0,265.0,2.7,6.4,49.1,,0.8,,,,,,,,,,,,,,
+AP015,"Glutinous rice, black, cooked",Cereals,Processed/Products,56.9,181.0,4.0,1.2,37.3,0.3,0.6,9.0,144.0,1.7,9.0,18.4,0.1,0.7,0.0,0.0,0.06,0.0,0.5,0.0,0.0
+AR007,"Glutinous rice, black, mashed, raw",Cereals,Raw,13.7,360.0,8.0,2.3,74.5,1.0,1.5,10.0,347.0,6.2,11.0,288.0,0.28,2.2,0.0,0.0,0.24,0.1,2.0,0.0,0.0
+AP016,"Glutinous rice, black, tapai",Cereals,Processed/Products,50.2,166.0,3.8,1.0,34.4,0.3,0.6,8.0,106.0,1.6,5.0,12.0,,,,,0.02,,,0.0,0.0
+AP014,"Glutinous rice, ketupat",Cereals,Processed/Products,52.0,212.0,4.0,4.6,38.6,0.2,0.9,8.0,46.0,1.0,,,,,0.0,0.0,0.07,,0.2,0.0,0.0
+AP079,"Glutinous rice, lupis",Cereals,Processed/Products,61.0,164.0,1.8,2.1,34.5,0.7,0.6,119.0,31.0,1.5,,,,,0.0,,0.09,0.0,0.2,0.0,0.0
+AP017,"Glutinous rice, white, cooked",Cereals,Processed/Products,60.7,163.0,3.0,0.4,35.7,0.2,0.2,4.0,55.0,0.7,8.0,16.8,0.1,0.7,0.0,0.0,0.07,0.0,0.5,0.0,0.0
+AR008,"Glutinous rice, white, mashed, raw",Cereals,Raw,12.9,361.0,7.4,0.8,78.4,0.4,0.5,13.0,157.0,3.4,3.0,282.0,0.28,2.2,0.0,0.0,0.28,0.0,1.4,0.0,0.0
+AP018,"Glutinous rice, white, tapai",Cereals,Processed/Products,58.9,172.0,3.0,0.5,37.5,0.6,0.1,6.0,35.0,0.5,1.0,,,,0.0,0.0,0.04,0.0,0.2,0.0,0.0
+FP047,Goat curry,Meat and Poultry,Processed/Products,78.4,126.0,4.2,9.4,6.2,,1.8,45.0,73.0,1.3,302.0,138.0,0.2,1.1,151.0,,0.13,0.01,,,
+JR003,"Goat milk, fresh",Milk and Dairy Products,Raw,85.9,64.0,4.3,2.3,6.6,0.0,0.9,98.0,78.0,2.7,35.0,160.0,0.33,0.1,38.0,0.0,0.06,0.45,0.3,,1.0
+FP071,"Goat soup, dish",Meat and Poultry,Processed/Products,91.6,34.0,5.5,0.8,1.1,,1.0,145.0,37.0,1.6,348.0,,,,48.0,,0.57,,,80.0,0.0
+FR019,"Goat, meat, fresh",Meat and Poultry,Raw,70.3,149.0,16.6,9.2,0.0,0.0,3.9,11.0,124.0,1.0,96.0,268.7,0.31,4.9,0.0,0.0,0.09,0.23,5.0,,0.0
+GR075,"Goldstripe sardinella, fresh",Fish and Other Seafood,Raw,81.9,73.0,16.4,0.3,0.0,0.0,1.4,18.0,147.0,1.1,,,,,0.0,,0.14,,,,0.0
+FR004,"Goose, meat, fresh",Meat and Poultry,Raw,51.1,349.0,16.4,31.5,0.0,0.0,1.0,15.0,188.0,1.8,71.0,299.2,0.26,1.7,273.0,0.0,0.1,0.24,7.1,,0.0
+ER078,"Goroho banana, fresh",Fruits,Raw,69.4,119.0,1.5,0.2,27.9,4.6,1.0,2.0,30.0,0.2,36.0,359.0,0.13,0.3,,11.0,0.15,0.02,1.1,,10.0
+ER065,"Granadilla, fresh",Fruits,Raw,64.7,144.0,3.5,1.2,29.8,11.4,0.8,27.0,203.0,1.4,37.0,453.8,0.11,0.1,0.0,969.0,0.02,0.17,2.0,691.0,10.0
+ER027,"Granadilla, fresh",Fruits,Raw,80.0,70.0,0.6,0.0,18.9,7.7,0.5,11.0,50.0,1.1,21.0,257.1,0.06,0.1,,549.0,0.0,0.1,1.1,10.0,16.0
+ER079,"Green Banana, fresh",Fruits,Raw,68.9,121.0,1.0,0.1,28.9,0.4,1.1,9.0,37.0,0.9,31.0,529.4,0.28,0.6,,48.0,0.13,0.06,0.0,1000.0,13.0
+NR012,"Green chili, fresh",Herbs and Spices,Raw,93.4,26.0,0.7,0.3,5.2,2.6,0.4,14.0,23.0,0.4,7.0,151.0,0.08,0.2,,44.0,0.05,0.06,0.4,260.0,84.0
+CR008,"Green pea, fresh",Grains and Legumes,Raw,67.6,129.0,12.4,0.7,18.3,28.6,1.0,40.0,130.0,2.3,4.0,310.0,0.3,2.1,,212.0,0.29,0.05,2.7,,
+GP015,"Green snapper, salted",Fish and Other Seafood,Processed/Products,44.7,162.0,31.7,2.8,0.3,0.0,15.5,279.0,609.0,4.6,4393.0,342.2,2.8,,0.0,,0.09,,,0.0,0.0
+DR162,"Green tomato, fresh",Vegetables,Raw,93.0,24.0,2.0,0.7,3.3,1.8,2.0,5.0,27.0,0.5,10.0,210.0,0.07,0.2,,384.0,0.07,0.04,0.7,320.0,30.0
+GP017,Grilled catfish,Fish and Other Seafood,Processed/Products,69.4,147.0,17.5,6.5,5.4,,1.2,54.0,194.0,0.1,142.0,209.0,,0.5,,,,,,,
+GP007,Grilled Indonesian featherback,Fish and Other Seafood,Processed/Products,68.2,128.0,18.0,3.0,7.2,0.0,3.6,58.0,134.0,0.0,293.0,198.0,0.1,0.4,,0.0,1.8,0.17,1.5,,
+ER031,Guava,Fruits,Raw,86.0,49.0,0.9,0.3,12.2,2.4,0.6,14.0,28.0,1.1,10.0,52.8,0.02,0.3,,27.0,0.02,0.03,0.8,25.0,87.0
+DP032,"Gudeg, vegetables",Vegetables,Processed/Products,69.2,160.0,3.3,9.2,16.0,2.3,2.1,62.0,55.0,12.8,,,,,0.0,,0.15,,,166.0,0.0
+GP063,"Gulai asam keueung, dish",Fish and Other Seafood,Processed/Products,86.0,52.0,10.0,0.5,1.8,,1.7,62.0,102.0,0.3,332.0,141.0,0.0,1.0,,,0.18,0.34,,,
+GP064,"Gulai ikan paya, dish",Fish and Other Seafood,Processed/Products,72.1,148.0,10.0,9.8,5.0,,3.1,103.0,82.0,0.7,525.0,256.0,0.1,0.9,,,0.26,0.02,,,
+GP066,"Gulai keumamah, dish",Fish and Other Seafood,Processed/Products,81.4,110.0,5.9,8.2,3.2,,1.3,32.0,96.0,1.0,335.0,121.0,0.2,0.9,,,0.33,0.04,,,
+BP030,Gurandil,Starchy Roots & Tubers,Processed/Products,47.5,218.0,0.5,2.5,48.5,3.1,1.0,50.0,25.0,2.8,,,,,,,0.19,,,0.0,0.0
+FP005,Ham,Meat and Poultry,Processed/Products,42.0,384.0,16.9,35.0,0.3,0.0,5.8,10.0,136.0,2.5,112.0,819.3,0.11,0.4,0.0,,0.7,0.95,9.7,,0.0
+JP002,Hangop,Milk and Dairy Products,Processed/Products,84.0,65.0,10.0,1.0,3.5,0.0,1.5,180.0,190.0,0.2,126.0,374.4,0.0,,,22.0,0.03,0.43,0.2,,
+GP033,"Hara fish, dish",Fish and Other Seafood,Processed/Products,33.6,284.0,34.1,9.9,14.6,0.0,7.8,1426.0,1103.0,9.5,1767.0,263.0,1.3,18.7,,,0.49,0.03,,,
+ER058,"Harumanis/arumanis mango,fresh",Fruits,Raw,86.6,46.0,0.4,0.2,11.9,1.7,0.8,15.0,9.0,0.2,2.0,88.9,0.04,0.1,,120.0,0.08,0.01,0.3,1200.0,6.0
+GR008,"Hemibagrus catfish, fresh",Fish and Other Seafood,Raw,73.5,111.0,19.4,0.9,4.8,0.0,1.4,68.0,278.0,7.3,99.0,338.7,0.2,0.6,0.0,62.0,0.03,0.2,7.3,0.0,0.0
+GP006,"Hemibagrus catfish, grilled",Fish and Other Seafood,Processed/Products,69.8,144.0,17.8,5.8,5.2,,1.4,18.0,169.0,0.0,168.0,236.0,0.1,0.7,,,0.0,0.0,1.3,,
+GR017,"Herring, fresh",Fish and Other Seafood,Raw,75.5,100.0,14.7,2.4,4.9,,1.6,90.0,90.0,0.4,390.0,390.0,0.7,0.8,,,,,,,
+GR026,"Heu fish, fresh",Fish and Other Seafood,Raw,75.6,81.0,10.0,1.6,6.6,,6.2,1910.0,990.0,2.1,240.0,210.0,0.1,2.7,,,0.87,,0.2,,
+DR158,"Hintaro eggplant, fresh",Vegetables,Raw,89.2,45.0,1.9,0.8,7.5,5.1,0.6,19.0,268.0,1.0,167.0,142.0,0.6,0.2,,552.0,0.2,0.4,,,4.0
+BR011,"Hofa/wild tuber, fresh",Starchy Roots & Tubers,Raw,67.9,127.0,1.2,0.5,29.5,3.4,0.9,30.0,8.0,0.7,3.0,4.0,0.1,0.2,0.0,0.0,0.3,0.05,0.6,0.0,0.0
+MP010,Honey,Convectionery,Processed/Products,20.0,294.0,0.3,0.0,79.5,0.2,0.2,5.0,16.0,0.9,6.0,26.9,0.04,0.2,0.0,0.0,0.0,0.04,0.1,,4.0
+JR005,"Horse milk, fresh",Milk and Dairy Products,Raw,91.0,40.0,2.0,1.1,5.4,0.0,0.4,,,,,37.4,0.0,0.0,,1.0,0.0,0.2,0.2,,
+FR022,"Horse, meat, fresh",Meat and Poultry,Raw,76.0,113.0,18.1,4.1,0.9,0.0,0.9,10.0,150.0,2.7,46.0,315.7,0.13,2.5,0.0,,0.07,0.07,3.0,,0.0
+CP084,"Hunkwe, flour (Mungbean starch)",Grains and Legumes,Processed/Products,10.0,364.0,4.5,1.0,83.5,16.1,1.0,50.0,100.0,1.0,15.0,1232.9,0.93,2.7,0.0,,0.0,0.23,2.2,,0.0
+DR112,Hyacinth bean,Vegetables,Raw,74.3,99.0,3.3,0.1,21.2,10.3,1.1,50.0,99.0,13.1,15.0,567.0,0.2,0.6,,5.0,0.2,0.19,0.1,,
+DR045,"Hyacinth bean leaves, fresh",Vegetables,Raw,95.2,14.0,1.3,0.3,2.3,0.9,0.9,90.0,59.0,2.7,2.0,36.5,0.1,0.3,,1274.0,0.01,0.0,0.5,2961.0,3.0
+CR040,"Hyacinth bean, andong, dried",Grains and Legumes,Raw,10.8,356.0,20.5,4.1,61.6,7.0,3.0,150.0,272.0,6.2,18.0,301.8,0.73,2.8,,0.0,0.29,0.02,1.4,,1.0
+CR041,"Hyacinth bean, benguk, seeds, dried",Grains and Legumes,Raw,15.0,332.0,24.0,3.0,55.0,5.6,3.0,30.0,200.0,2.0,42.0,389.2,1.25,8.7,,0.0,0.3,0.12,1.7,70.0,0.0
+CP025,"Hyacinth bean, emping",Grains and Legumes,Processed/Products,14.2,355.0,17.8,4.6,60.7,,2.7,87.0,304.0,4.3,24.0,1233.0,1.0,2.3,,0.0,,,0.6,,
+CR020,"Hyacinth bean, fresh",Grains and Legumes,Raw,20.9,327.0,16.4,4.3,55.8,0.5,2.6,74.0,282.0,4.0,22.0,1137.0,0.9,2.1,,,0.99,0.12,0.1,,
+CR042,"Hyacinth bean, kerupuk, seeds, fresh",Grains and Legumes,Raw,67.2,125.0,8.3,0.7,22.1,2.2,1.7,17.0,12.0,2.7,16.0,150.3,0.48,3.4,,0.0,0.11,0.04,1.1,80.0,31.0
+CR043,"Hyacinth bean, loke, seeds, fresh",Grains and Legumes,Raw,88.6,33.0,2.7,0.2,7.9,3.5,0.6,60.0,40.0,2.0,2.0,38.6,0.09,0.4,,0.0,0.1,0.0,0.2,40.0,0.0
+CR039,"Hyacinth bean, pod, fresh",Grains and Legumes,Raw,74.3,99.0,3.3,0.1,21.2,10.3,1.1,50.0,99.0,13.1,15.0,567.0,0.2,0.6,,5.0,0.13,0.03,0.2,,
+CR044,"Hyacinth bean, roay, dried",Grains and Legumes,Raw,13.0,344.0,12.5,2.1,69.4,7.5,3.0,70.0,103.0,4.4,18.0,294.3,0.72,2.7,,0.0,0.11,0.21,1.4,28.0,1.0
+DR116,"Hyacinth bean, seeds, dried",Vegetables,Raw,88.0,46.0,3.0,0.3,7.9,3.3,0.8,56.0,47.0,1.1,2.0,249.3,0.09,0.4,,66.0,0.09,0.09,0.5,870.0,17.0
+CR045,"Hyacinth bean, wedus, seeds, dried",Grains and Legumes,Raw,11.8,338.0,22.2,1.5,61.0,5.8,3.5,88.0,395.0,3.5,43.0,403.8,1.3,9.1,0.0,0.0,0.62,0.12,1.8,,0.0
+ER053,"Ice apple, fresh",Fruits,Raw,93.0,27.0,0.4,0.2,6.0,1.6,0.4,91.0,243.0,0.5,,,,,,,0.03,,,,
+JP001,Ice cream,Milk and Dairy Products,Processed/Products,62.1,210.0,4.0,12.5,20.6,0.0,0.8,123.0,99.0,0.1,78.0,193.4,0.0,0.7,158.0,0.0,0.04,0.23,0.1,,1.0
+GP013,"Ikan gete, fried",Fish and Other Seafood,Processed/Products,44.7,267.0,23.1,19.4,0.2,,12.6,2340.0,1240.0,0.8,590.0,440.0,0.1,1.9,,,,,0.2,,
+GP010,"Ikan peda, raw",Fish and Other Seafood,Processed/Products,71.3,81.0,11.4,1.9,3.8,0.0,11.6,743.0,174.0,22.6,,,,,15.0,,0.0,,,0.0,0.0
+GP028,"Ikan pindang benggol, raw",Fish and Other Seafood,Processed/Products,57.0,170.0,31.0,4.2,0.0,0.0,7.8,50.0,100.0,1.0,,,,,45.0,,0.1,,,,0.0
+DR021,"Indian camphorweed, leaves",Vegetables,Raw,86.0,44.0,1.8,0.5,9.4,,2.3,256.0,49.0,5.6,,,,,,,0.02,,,3980.0,30.0
+DR029,"Indian goosegrass, leaves",Vegetables,Raw,88.9,34.0,3.8,0.5,5.3,1.4,1.5,21.0,245.0,1.0,,,,,0.0,,0.03,,,4357.0,3.0
+ER010,"Indian jujube, fresh",Fruits,Raw,33.7,264.0,4.0,1.1,59.6,9.0,1.7,306.0,92.0,0.8,,,,,0.0,,0.11,,0.0,400.0,9.0
+GR048,"Indian mackerel, fresh",Fish and Other Seafood,Raw,79.7,89.0,18.7,1.0,0.0,0.0,1.1,96.0,209.0,1.5,51.0,265.8,0.0,0.2,6.0,3.0,0.03,0.1,2.0,5.0,0.0
+GR036,"Indian mackerel, mackerel, fresh",Fish and Other Seafood,Raw,77.2,93.0,16.5,2.1,0.8,0.0,3.4,65.0,217.0,2.4,137.0,255.3,0.34,0.7,0.0,,0.01,0.09,1.6,0.0,0.0
+AP081,Indian martabak,Cereals,Processed/Products,65.8,153.0,4.5,4.2,24.3,,1.2,14.0,108.0,2.4,240.0,112.0,0.4,0.5,,,,,,,
+DR056,"Indian mulberry leaves, fresh",Vegetables,Raw,80.9,65.0,4.0,1.7,11.4,3.9,2.0,296.0,40.0,6.9,,,,,0.0,2.0,0.01,0.1,5.7,4958.0,35.0
+DP007,"Indian mulberry, steamed",Vegetables,Processed/Products,81.6,63.0,3.8,1.5,11.5,2.4,1.6,300.0,43.0,6.0,,,,,,2.0,0.08,0.1,5.2,4900.0,11.0
+DR042,"Indian mustard leaves, fresh",Vegetables,Raw,93.1,22.0,2.1,0.5,3.6,0.9,0.7,200.0,92.0,3.2,19.0,386.2,0.1,0.2,0.0,1806.0,0.03,0.2,0.6,2177.0,3.0
+ER017,"Indian plum, fresh",Fruits,Raw,71.3,113.0,0.8,0.3,26.8,7.7,0.8,108.0,52.0,1.2,2.0,219.0,0.3,0.9,,17.0,0.06,0.01,,,20.0
+GR046,"Indian scad, fresh",Fish and Other Seafood,Raw,80.0,86.0,16.0,2.0,0.0,0.0,2.0,20.0,150.0,2.0,65.0,276.7,0.1,1.1,45.0,8.0,0.05,0.1,2.6,,0.0
+GR010,"Indonesian featherback, fresh",Fish and Other Seafood,Raw,75.7,115.0,14.5,4.6,4.2,0.0,1.1,,207.0,0.0,42.0,361.0,0.2,0.9,,0.0,1.2,0.04,1.1,,
+DR095,"Indonesian kabau, fresh",Vegetables,Raw,67.2,130.0,6.7,0.3,25.2,2.9,0.6,4.0,204.0,0.5,1.0,397.8,0.2,0.5,,165.0,0.8,0.1,0.3,,16.0
+ER059,"Indramayu mango, fresh",Fruits,Raw,80.2,72.0,0.8,0.2,18.7,2.5,0.1,13.0,10.0,1.9,3.0,131.4,0.06,0.1,,178.0,0.06,0.02,0.5,2900.0,16.0
+MP009,Instant coffee powder,Convectionery,Processed/Products,2.6,129.0,12.3,0.5,35.0,0.0,9.7,179.0,383.0,5.6,72.0,3256.0,0.14,0.0,,0.0,0.0,0.21,30.6,0.0,0.0
+CR050,"Jackfruit, seeds, fresh",Grains and Legumes,Raw,57.7,165.0,4.2,0.1,36.7,1.8,1.3,33.0,200.0,1.0,69.0,179.0,0.12,0.2,0.0,0.0,0.2,0.03,1.4,,10.0
+DR130,"Jackfruit, unripe, fresh",Vegetables,Raw,85.4,57.0,2.0,0.4,11.3,8.3,0.9,45.0,29.0,0.5,1.0,246.5,0.04,0.1,,21.0,0.07,0.06,0.7,25.0,9.0
+BP022,"Jackfruit/snakefruit, seeds",Starchy Roots & Tubers,Processed/Products,40.5,262.0,2.3,5.4,51.1,8.0,0.7,60.0,80.0,0.8,10.0,2.0,0.6,2.0,0.0,1667.0,0.1,1.0,,,10.0
+CP085,"Jalejo, flour",Grains and Legumes,Processed/Products,10.0,388.0,19.0,7.5,61.2,5.8,2.3,101.0,663.0,2.0,3.0,712.0,0.6,1.9,,1000.0,0.02,0.7,1.6,0.0,9.0
+MP008,Jam,Convectionery,Processed/Products,34.0,239.0,0.5,0.6,64.5,1.0,0.4,20.0,20.0,1.0,30.0,73.1,0.09,0.0,0.0,0.0,0.01,0.07,0.0,,0.0
+AR021,"Jampang huma, raw",Cereals,Raw,11.7,350.0,6.2,1.4,78.2,1.7,2.5,329.0,254.0,5.3,53.0,396.7,0.7,1.6,,33.0,0.51,0.3,0.7,,0.0
+FP048,"Jangang bintatoeng, dish",Meat and Poultry,Processed/Products,73.6,107.0,5.3,2.2,16.5,,2.4,64.0,61.0,2.5,482.0,406.0,0.2,0.8,,,0.18,0.02,3.4,,
+AP053,Japilus,Cereals,Processed/Products,3.8,500.0,1.2,25.1,67.3,0.4,2.7,186.0,29.0,4.9,,,,,0.0,,0.17,0.03,0.4,0.0,0.0
+GR001,"Java barb, fresh",Fish and Other Seafood,Raw,81.5,70.0,14.6,0.8,1.0,0.0,2.1,49.0,155.0,1.5,55.0,169.0,0.2,1.2,,0.0,0.22,0.12,7.7,,
+ER024,"Java plum, fresh",Fruits,Raw,80.2,80.0,0.5,0.6,18.2,0.9,0.5,33.0,138.0,1.3,16.0,92.7,191.28,0.3,0.0,329.0,0.02,0.01,2.5,0.0,130.0
+DR030,"Jawaw leaf seluang, fresh",Vegetables,Raw,77.2,93.0,5.0,1.3,15.3,3.9,1.2,146.0,103.0,5.3,2.0,434.0,0.5,1.5,,,0.1,0.7,,,9.0
+DP057,Jengkol stew,Vegetables,Processed/Products,52.7,212.0,6.0,10.0,29.1,,2.2,77.0,99.0,1.0,,,,,,,0.14,,,81.0,4.0
+BR005,"Jicama, fresh",Starchy Roots & Tubers,Raw,85.1,59.0,1.4,0.2,12.8,1.0,0.5,15.0,18.0,0.6,2.0,244.3,0.1,0.3,,0.0,0.04,0.1,0.2,,20.0
+GP071,"Jukku pallu kaloa, dish",Fish and Other Seafood,Processed/Products,69.4,15.0,15.2,4.3,8.8,,2.3,40.0,170.0,1.1,605.0,153.0,0.6,1.1,,,0.3,0.14,7.5,,
+BR012,"Kaburan, tuber, fresh",Starchy Roots & Tubers,Raw,66.5,133.0,1.0,0.2,32.2,0.7,0.5,65.0,50.0,0.6,10.0,899.2,0.2,0.2,0.0,0.0,0.01,0.0,0.3,0.0,0.0
+BP031,Kabuto,Starchy Roots & Tubers,Processed/Products,58.9,250.0,2.6,2.5,35.4,1.8,0.6,35.0,49.0,1.1,2.0,218.0,,,,0.0,0.1,0.1,0.6,0.0,
+CP031,Kacang atom,Grains and Legumes,Processed/Products,3.1,533.0,27.8,38.1,28.8,2.5,2.2,87.0,423.0,3.0,,,,,,,0.06,,,0.0,0.0
+CP032,Kacang goyang,Grains and Legumes,Processed/Products,8.3,516.0,14.7,31.1,44.4,,1.5,34.0,230.0,0.7,2.0,365.0,0.6,1.7,,,,,,,
+CP033,Kacang negara,Grains and Legumes,Processed/Products,3.1,480.0,18.4,19.1,58.5,11.7,0.9,34.0,404.0,10.3,1010.0,385.0,2.5,7.1,,,0.63,0.05,2.6,,
+CP034,Kacang sukro,Grains and Legumes,Processed/Products,4.7,484.0,8.8,26.1,57.7,1.8,2.7,49.0,194.0,2.5,,,,,,,0.06,,,0.0,0.0
+CP035,Kacang tanah sari,Grains and Legumes,Processed/Products,2.1,561.0,25.5,43.8,26.0,2.2,2.6,50.0,324.0,3.1,,,,,,,0.08,,,0.0,0.0
+DP035,Kadada katembe,Vegetables,Processed/Products,80.0,110.0,4.5,6.9,7.1,3.9,1.5,26.0,77.0,0.0,178.0,131.0,0.2,0.7,,46.0,0.1,,3.7,,23.0
+GP072,"Kaholeo, dish",Fish and Other Seafood,Processed/Products,11.2,413.0,28.7,19.8,29.8,,10.5,909.0,1291.0,0.0,0.0,1171.0,0.1,3.1,4236.0,,1.34,0.03,5.7,,
+AP054,Kakicak,Cereals,Processed/Products,43.9,296.0,3.4,15.1,36.7,,0.9,,,,,,,,,,,,,,
+DR099,"Kalakai, fresh",Vegetables,Raw,89.9,38.0,2.4,0.2,6.6,5.8,0.9,18.0,90.0,1.1,7.0,443.0,0.4,0.9,,44.0,0.3,0.1,,,8.0
+FP024,"Kalasan fried chicken, thigh",Meat and Poultry,Processed/Products,46.2,275.0,37.4,12.2,1.3,0.0,2.9,116.0,237.0,5.8,176.0,321.9,0.16,1.5,10.0,0.0,0.1,,,50.0,0.0
+FP052,"Kalio brain, dish",Meat and Poultry,Processed/Products,70.3,157.0,8.1,8.8,11.4,,1.4,212.0,69.0,3.3,604.0,,,,32.0,,0.45,,,1040.0,0.0
+FP049,"Kalio chicken, dish",Meat and Poultry,Processed/Products,64.7,203.0,16.0,13.5,4.4,,1.4,278.0,177.0,4.2,534.0,,,,105.0,,0.35,,,3780.0,0.0
+FP051,"Kalio kikil (tunjang), dish",Meat and Poultry,Processed/Products,75.3,122.0,13.8,5.7,3.9,,1.3,154.0,59.0,3.4,519.0,,,,36.0,,0.38,,,1440.0,0.0
+FP050,"Kalio offal, dish",Meat and Poultry,Processed/Products,68.9,163.0,16.5,9.0,4.1,,1.5,102.0,268.0,7.1,570.0,,,,298.0,,0.7,,,1960.0,0.0
+AP055,Kambose,Cereals,Processed/Products,61.5,164.0,3.0,2.4,32.6,4.3,0.7,16.0,36.0,0.7,0.0,32.0,0.1,1.6,0.0,256.0,0.1,0.1,0.4,,
+GR033,"Kamera fish, fresh",Fish and Other Seafood,Raw,78.5,86.0,19.7,0.8,0.0,0.0,1.3,50.0,170.0,0.3,90.0,290.0,0.3,0.1,26.0,,,0.08,0.1,,
+DP036,"Kaparende, vegetables",Vegetables,Processed/Products,91.7,38.0,2.4,2.0,2.6,1.5,1.3,126.0,68.0,0.0,170.0,43.0,0.0,0.3,,40.0,0.1,,3.7,,22.0
+BP032,Kapurung,Starchy Roots & Tubers,Processed/Products,79.6,41.0,2.0,0.3,7.8,2.0,0.6,34.0,12.0,0.3,185.0,566.0,0.1,0.3,0.0,213.0,0.12,0.25,2.7,,15.0
+AP056,Kapusa,Cereals,Processed/Products,63.5,158.0,4.4,3.2,27.8,5.3,1.0,79.0,115.0,1.2,104.0,149.0,0.5,1.1,0.0,1374.0,0.06,0.05,0.1,,0.0
+DP037,"Karedok, vegetables",Vegetables,Processed/Products,79.0,92.0,2.2,3.3,14.1,1.4,1.4,174.0,85.0,2.4,,,,,0.0,,0.08,,,1.0,3.0
+AP057,Keddo bodong,Cereals,Processed/Products,33.9,290.0,4.6,5.7,55.2,,0.6,,,,,,,,,,,,,,
+ER095,"Keffir lime, fresh",Fruits,Raw,81.1,76.0,4.1,1.1,15.2,1.7,1.4,30.0,76.0,0.6,10.0,285.2,,,,27.0,0.01,0.11,0.0,93.0,0.0
+ER009,"Kelenting fruit, fresh",Fruits,Raw,73.9,110.0,1.4,2.1,21.4,,1.2,8.0,102.0,1.1,2.0,0.0,0.3,0.9,,,0.2,0.1,,,6.0
+AP058,"Kelepon, kue",Cereals,Processed/Products,49.6,215.0,3.7,3.7,41.8,1.0,1.2,232.0,45.0,3.3,,,,,0.0,,0.09,0.07,0.2,872.0,0.0
+DR039,"Kemang leaves, fresh",Vegetables,Raw,85.0,43.0,5.5,0.3,7.5,8.4,1.7,35.0,106.0,1.0,10.0,457.1,,,,1282.0,0.06,0.1,1.2,1017.0,30.0
+ER047,"Kemang, fresh",Fruits,Raw,86.5,48.0,1.0,0.2,11.9,1.7,0.4,10.0,24.0,0.1,2.0,88.6,0.04,0.1,,318.0,0.08,0.01,0.3,6.0,58.0
+BP041,"Kemplang (fish), chips, raw",Starchy Roots & Tubers,Processed/Products,14.2,325.0,1.8,0.4,78.5,4.5,5.1,59.0,268.0,2.3,1123.0,273.0,0.2,0.5,32.0,0.0,0.6,0.1,2.3,,0.0
+BP042,"Kemplang, chips, fried",Starchy Roots & Tubers,Processed/Products,5.8,504.0,5.6,28.1,57.1,0.3,3.4,50.0,94.0,2.9,,,,,6.0,,0.31,,,280.0,0.0
+BP043,"Kemplang, chips, roasted",Starchy Roots & Tubers,Processed/Products,9.4,356.0,9.7,1.1,76.9,1.0,3.0,62.0,129.0,2.9,,,,,7.0,,0.36,,,280.0,0.0
+FP025,"Kentucky fried chicken, breast",Meat and Poultry,Processed/Products,46.5,298.0,34.2,16.8,0.1,0.0,2.5,90.0,284.0,5.5,741.0,342.0,0.07,1.0,36.0,,0.19,0.0,0.0,50.0,0.0
+FP026,"Kentucky fried chicken, thigh",Meat and Poultry,Processed/Products,48.7,286.0,32.1,16.1,1.1,0.0,2.0,89.0,248.0,6.9,746.0,265.2,0.09,2.3,31.0,,0.5,0.21,5.5,20.0,0.0
+FP027,"Kentucky fried chicken, wings",Meat and Poultry,Processed/Products,44.7,297.0,35.9,15.2,1.6,0.0,2.6,103.0,227.0,4.4,807.0,248.4,0.06,1.4,22.0,,0.73,0.14,6.5,70.0,0.0
+BP034,Keremes,Starchy Roots & Tubers,Processed/Products,6.7,475.0,1.6,25.2,64.4,2.1,2.1,153.0,88.0,1.0,,,,,0.0,,0.0,,,1000.0,0.0
+AP059,Kereput,Cereals,Processed/Products,3.5,580.0,4.8,39.6,51.1,,1.0,,,,,,,,,,,,,,
+BR015,"Keribang, tuber, fresh",Starchy Roots & Tubers,Raw,67.0,137.0,1.3,1.1,29.8,0.6,0.8,45.0,56.0,0.8,10.0,885.8,0.2,0.3,0.0,0.0,0.0,0.0,0.7,0.0,0.0
+FP007,Kerupuk urat,Meat and Poultry,Processed/Products,3.6,588.0,53.7,40.9,1.2,,0.6,36.0,15.0,1.3,1024.0,37.0,0.1,0.2,2802.0,,,,,,
+ER082,"Ketip banana, fresh",Fruits,Raw,63.4,145.0,1.1,0.3,34.5,6.6,0.7,5.0,54.0,0.1,4.0,726.0,0.15,0.5,,3.0,0.13,0.02,0.8,,95.0
+AP060,Ketoprak,Cereals,Processed/Products,69.1,153.0,7.9,7.7,13.0,2.9,2.6,153.0,134.0,3.4,,,,,3.0,,0.05,,,435.0,0.0
+AP061,Ketupat kandangan,Cereals,Processed/Products,78.5,109.0,2.2,5.2,13.4,,0.7,,,,,,,,,,,,,,
+GP016,"Keumamah, dried",Fish and Other Seafood,Processed/Products,23.1,302.0,70.7,1.9,0.4,0.0,3.9,313.0,22.0,4.1,345.0,1045.0,,1.8,,,1.4,0.04,20.0,,
+CR024,"Kidney bean (Banda), dried",Grains and Legumes,Raw,13.0,350.0,13.9,3.0,66.9,26.3,3.2,84.0,242.0,6.8,19.0,1127.0,0.0,42.0,,137.0,0.15,0.76,0.3,,
+CR025,"Kidney bean, dark red, dried",Grains and Legumes,Raw,12.3,280.0,16.7,1.6,63.2,4.6,6.2,209.0,335.0,6.4,19.0,1348.5,0.69,2.8,,,0.1,0.08,2.0,,6.0
+CR026,"Kidney bean, dried",Grains and Legumes,Raw,17.7,314.0,22.1,1.1,56.2,4.0,2.9,502.0,429.0,10.3,11.0,1265.5,0.65,2.6,,129.0,0.4,0.72,2.2,,
+CP008,"Kidney bean, dried, boiled",Grains and Legumes,Processed/Products,59.6,158.0,10.3,0.9,28.2,2.6,1.0,160.0,149.0,3.7,6.0,311.0,0.27,1.5,,,0.2,0.09,0.8,,
+CR027,"Kidney bean, fresh",Grains and Legumes,Raw,57.2,171.0,11.0,2.2,28.0,2.1,1.7,293.0,134.0,3.7,7.0,360.7,0.34,1.4,,0.0,0.15,0.15,1.1,10.0,
+CP009,"Kidney bean, fresh, boiled",Grains and Legumes,Processed/Products,63.1,144.0,10.0,1.0,24.7,3.5,1.2,144.0,150.0,2.8,6.0,311.0,0.27,1.5,,0.0,0.1,0.08,0.7,,
+CR019,"Kincai nut, dried",Grains and Legumes,Raw,4.2,444.0,19.9,16.0,55.0,,4.9,26.0,,,,,,,,,0.1,0.1,1.9,,
+GR014,"Kissing gourami, fresh",Fish and Other Seafood,Raw,70.0,109.0,17.0,4.0,0.0,0.0,9.0,500.0,500.0,1.0,109.0,323.5,0.6,1.3,45.0,,0.05,0.1,2.6,,0.0
+NR021,Kluwek,Herbs and Spices,Raw,51.0,310.0,10.0,24.0,13.5,,1.5,40.0,100.0,2.0,,,,,,,0.15,,,0.0,30.0
+DP050,Kohu-kohu soup,Vegetables,Processed/Products,72.8,133.0,7.3,6.6,11.2,1.2,2.1,40.0,120.0,0.2,20.0,50.0,0.1,0.3,,944.0,0.2,0.2,,,9.0
+FP072,"Konro soup, dish",Meat and Poultry,Processed/Products,85.0,71.0,7.4,2.6,4.5,,0.5,17.0,60.0,4.6,184.0,25.0,0.3,1.3,,,0.12,0.02,10.9,,0.0
+DR074,"Kopang cassava leaves, fresh",Vegetables,Raw,81.1,74.0,6.3,0.7,10.7,4.6,1.2,142.0,115.0,1.7,32.0,382.0,0.2,1.5,,3882.0,0.5,0.5,1.9,,211.0
+ER060,"Kopek mango,fresh",Fruits,Raw,84.5,56.0,0.4,0.2,14.6,2.0,0.3,16.0,10.0,1.7,2.0,102.9,0.04,0.1,,139.0,0.03,0.01,0.4,6520.0,27.0
+DR115,"Koro crackers, pods",Vegetables,Raw,67.2,128.0,8.3,0.7,22.1,,1.7,17.0,12.0,2.7,,,,,,,0.11,,,80.0,31.0
+DR043,"Koro leaves, fresh",Vegetables,Raw,91.0,23.0,3.0,0.3,3.7,,2.0,134.0,81.0,6.2,4.0,68.4,0.2,0.5,,2386.0,0.28,0.2,1.3,5240.0,29.0
+DP039,Kotiu hinela tawang nggole,Vegetables,Processed/Products,88.4,46.0,2.2,1.5,6.0,3.8,1.9,64.0,44.0,0.0,316.0,103.0,1.6,0.8,,75.0,0.3,,9.7,,7.0
+AP062,Koya,Cereals,Processed/Products,13.2,366.0,4.2,4.3,77.5,0.8,0.8,153.0,222.0,7.0,,,,,0.0,,,,,,0.0
+AP063,Koya mirasa,Cereals,Processed/Products,7.2,370.0,8.0,1.0,82.2,0.4,1.6,83.0,110.0,17.0,,,,,3.0,,0.19,0.45,2.6,144.0,0.0
+AP064,Koyabu,Cereals,Processed/Products,44.2,241.0,3.4,4.3,47.2,,0.9,,,,,,,,,,,,,,
+AP065,Kue ali,Cereals,Processed/Products,12.8,440.0,3.8,18.5,64.5,0.3,0.4,27.0,47.0,2.5,,,,,0.0,,0.13,0.09,0.0,0.0,0.0
+AP066,Kue bangen,Cereals,Processed/Products,5.6,442.0,3.3,14.7,74.2,,2.2,,,,,,,,,,,,,,
+AP067,Kue gelang,Cereals,Processed/Products,7.1,448.0,5.8,16.1,70.0,,1.0,,,,,,,,,,,,,,
+AP070,Kue koa,Cereals,Processed/Products,14.5,340.0,4.8,0.4,79.3,,1.0,,,,,,,,,,,,,,
+AP071,Kue ku temu,Cereals,Processed/Products,46.2,214.0,3.5,0.2,49.6,,0.5,,,,,,,,,,,,,,
+AP072,Kue lumpur,Cereals,Processed/Products,40.1,291.0,3.6,11.1,44.1,,1.1,96.0,60.0,2.3,,,,,20.0,,0.24,,,400.0,
+AP073,Kue pelita,Cereals,Processed/Products,71.0,141.0,5.3,5.5,17.6,,0.6,,,,,,,,,,,,,,
+AP074,Kue putu cangkir,Cereals,Processed/Products,32.6,304.0,5.3,7.0,54.9,0.9,0.2,18.0,193.0,4.0,,,,,0.0,,0.06,,,0.0,0.0
+AP076,Kue thipan,Cereals,Processed/Products,43.0,247.0,2.9,4.2,49.5,,0.4,16.0,107.0,1.8,95.0,56.0,1.3,0.8,,,0.17,,,,
+CP046,Kwaci (dried sunflower seeds),Grains and Legumes,Processed/Products,9.9,515.0,30.6,42.1,13.8,13.6,3.7,54.0,312.0,6.2,124.0,448.6,0.65,9.7,0.0,,0.02,0.19,0.3,,0.0
+ER061,"Kweni mango, fresh",Fruits,Raw,78.6,86.0,0.7,0.5,19.8,6.5,0.4,11.0,11.0,0.2,1.0,16.0,0.1,0.1,,932.0,0.15,0.02,0.5,,18.0
+ER087,"Lady finger banana, fresh",Fruits,Raw,64.2,127.0,1.4,0.2,33.6,1.4,0.6,7.0,25.0,0.8,42.0,392.0,195.78,0.5,,17.0,0.09,0.08,4.5,79.0,2.0
+AP077,Laksa/Putu mayang,Cereals,Processed/Products,73.2,121.0,1.7,3.4,21.1,,0.6,,,,,,,,,,,,,,
+FR018,"Lamb, kidney, fresh",Meat and Poultry,Raw,77.8,100.0,16.6,3.3,1.0,0.0,1.3,13.0,237.0,9.2,155.0,276.0,0.48,2.4,348.0,515.0,0.51,2.35,7.5,,13.0
+FR016,"Lamb, meat, fat, fresh",Meat and Poultry,Raw,55.8,317.0,15.7,27.7,0.0,0.0,0.8,9.0,157.0,2.4,64.0,242.1,0.11,3.7,0.0,0.0,0.14,0.23,6.5,,0.0
+FR017,"Lamb, meat, lean, fresh",Meat and Poultry,Raw,66.3,202.0,17.1,14.8,0.0,0.0,1.8,10.0,191.0,2.6,90.0,355.0,0.08,2.8,0.0,0.0,0.15,0.26,5.7,,0.0
+EP004,Lampung cracker,Fruits,Processed/Products,5.0,485.0,1.7,22.2,69.7,0.6,1.5,43.0,65.0,0.8,,,,,,,0.34,,,1464.0,0.0
+DP027,Lamtoro wrapped in banana leaves,Vegetables,Processed/Products,63.9,186.0,11.7,9.7,13.0,2.1,2.2,771.0,322.0,26.0,,,,,18.0,,0.27,,,179.0,2.0
+ER049,"Langsat, fresh",Fruits,Raw,85.0,86.0,1.6,0.2,13.0,1.4,0.2,22.0,38.0,1.3,2.0,118.3,0.08,0.2,,0.0,0.04,0.04,1.5,20.0,3.0
+ER051,"Langsat, fresh",Fruits,Raw,84.1,56.0,0.9,0.2,14.3,1.4,0.5,17.0,24.0,1.1,1.0,232.0,0.09,0.2,,,0.07,0.0,0.8,0.0,9.0
+ER022,"Langsat, fresh",Fruits,Raw,82.0,63.0,1.0,0.2,16.1,4.3,0.7,18.0,9.0,0.9,2.0,149.0,0.09,0.2,,0.0,0.05,0.15,1.5,0.0,9.0
+DR125,"Lantar, fresh",Vegetables,Raw,91.2,34.0,2.2,0.3,5.5,2.9,0.8,10.0,58.0,0.4,3.0,155.0,0.2,0.4,,38.0,0.3,0.07,0.4,,4.0
+BP048,Lanting getuk,Starchy Roots & Tubers,Processed/Products,4.2,422.0,0.9,10.8,80.4,1.4,3.8,206.0,104.0,3.6,,,,,0.0,,0.43,,,0.0,0.0
+AP078,Lapis legit,Cereals,Processed/Products,21.3,389.0,6.6,15.7,55.5,0.5,0.9,16.0,136.0,1.9,,,,,41.0,,0.26,0.09,3.0,1032.0,0.0
+GR041,"Large saltwater clam, fresh",Fish and Other Seafood,Raw,77.6,90.0,20.4,0.9,0.0,,1.1,88.0,270.0,0.7,56.0,281.0,0.3,0.9,1047.0,,0.32,0.03,0.2,,
+GR047,"Largehead hairtail, fresh",Fish and Other Seafood,Raw,78.2,97.0,17.9,2.0,0.4,0.0,1.5,40.0,100.0,2.5,,,,,21.0,,0.1,,,0.0,0.0
+ER088,"Latundan banana, fresh",Fruits,Raw,69.3,108.0,1.3,0.3,28.2,0.7,1.0,16.0,38.0,0.1,31.0,522.6,0.27,0.6,,48.0,0.02,0.08,1.1,480.0,2.0
+FP055,"Lawara jangang, dish",Meat and Poultry,Processed/Products,72.4,159.0,5.0,10.9,10.1,,1.6,57.0,107.0,1.5,400.0,2368.0,0.1,1.0,14.0,,0.25,0.16,,,
+GP073,"Lawara penjah, dish",Fish and Other Seafood,Processed/Products,64.5,207.0,7.4,15.4,9.6,,2.9,114.0,219.0,5.9,683.0,117.0,0.5,0.7,0.0,38.0,0.19,0.04,,,14.0
+GR023,"Leaf fish, fresh",Fish and Other Seafood,Raw,78.6,101.0,11.5,4.1,4.6,0.0,1.2,80.0,210.0,0.8,120.0,270.0,0.1,0.9,0.0,,0.08,0.07,0.1,,0.0
+EP005,Ledre pisang,Fruits,Processed/Products,3.6,405.0,4.8,5.1,84.9,0.4,1.6,59.0,124.0,2.6,,,,,,4.0,0.41,,,7330.0,0.0
+DR049,"Leilem leaves, fresh",Vegetables,Raw,79.4,76.0,2.8,0.2,15.8,3.1,1.8,296.0,22.0,3.4,6.0,46.0,0.5,1.1,,753.0,0.3,0.1,2.5,,22.0
+DP040,Lema/ Bamboo shoots sour,Vegetables,Processed/Products,96.3,15.0,1.0,0.4,1.9,,0.4,17.0,230.0,2.9,3.0,156.0,0.1,0.7,,,0.3,0.0,,,
+ER052,"Lemon, fresh",Fruits,Raw,92.2,34.0,0.5,0.8,6.2,0.1,0.3,23.0,20.0,0.3,31.0,140.0,0.1,0.2,,0.0,0.09,0.12,0.3,,50.0
+EP006,Lempog durian,Fruits,Processed/Products,25.2,320.0,3.5,5.7,63.7,4.9,1.9,190.0,93.0,2.5,,,,,,,0.05,0.04,,,
+CR021,"Lentils, yellow, dried",Grains and Legumes,Raw,11.7,355.0,17.0,2.5,66.0,15.1,2.8,140.0,220.0,5.8,1.0,0.0,0.7,3.2,,58.0,0.47,0.08,1.9,,
+GR070,"Leopard coral grouper, fresh",Fish and Other Seafood,Raw,74.7,100.0,13.7,1.5,8.0,0.0,2.1,92.0,606.0,1.7,202.0,227.0,0.2,1.6,181.0,0.0,0.35,0.03,6.6,,
+GP037,"Leopard coral grouper, salted, raw",Fish and Other Seafood,Processed/Products,30.0,289.0,38.0,14.0,0.0,0.0,18.0,40.0,100.0,0.7,,,,,0.0,0.0,0.0,,,,0.0
+BR017,Lepok/Nut-grass tuber,Starchy Roots & Tubers,Raw,55.3,181.0,2.8,1.2,39.8,10.7,0.9,7.0,50.0,3.1,116.0,306.0,1.6,0.9,0.0,0.0,0.28,0.05,1.5,0.0,0.0
+BR010,"Lesser yam, tuber, fresh",Starchy Roots & Tubers,Raw,66.4,131.0,1.1,0.2,31.3,1.1,1.0,14.0,56.0,0.6,10.0,200.0,0.2,0.3,0.0,0.0,0.08,0.0,0.9,0.0,4.0
+DP016,"Lettuce, boiled",Vegetables,Processed/Products,93.5,19.0,2.7,0.2,2.9,0.7,0.7,83.0,74.0,1.4,24.0,160.7,0.05,0.2,,2499.0,0.08,0.2,0.6,3700.0,27.0
+DR145,"Lettuce, fresh",Vegetables,Raw,94.8,18.0,1.2,0.2,2.9,1.8,0.9,22.0,25.0,0.5,19.0,186.4,0.03,0.2,,1526.0,0.04,0.13,0.4,540.0,8.0
+DR031,"Lilac tasselflower leaves, fresh",Vegetables,Raw,91.4,27.0,2.1,0.7,4.4,2.0,1.4,253.0,192.0,9.5,,,,,0.0,,0.01,,,5057.0,1.0
+DP041,Lilin bungkus gedi,Vegetables,Processed/Products,84.8,79.0,2.3,5.2,5.8,2.5,1.9,170.0,70.0,0.9,170.0,50.0,0.2,0.8,,,0.2,0.1,0.0,,18.0
+ER040,"Lime, fresh",Fruits,Raw,88.9,44.0,0.5,0.2,10.0,0.4,0.4,18.0,22.0,0.2,3.0,108.9,0.06,0.1,,23.0,0.01,0.03,0.2,4.0,20.0
+DR108,"Little hogweed, fresh",Vegetables,Raw,93.0,26.0,1.7,0.4,3.8,1.0,1.1,103.0,39.0,3.6,4.0,240.5,0.23,0.9,,0.0,0.03,0.09,0.2,2550.0,25.0
+EP007,Loka anjoro,Fruits,Processed/Products,63.3,163.0,1.1,4.3,30.0,,1.3,,,,,,,,,,,,,,
+DP004,"long beans leaves, boiled",Vegetables,Processed/Products,87.2,40.0,3.7,0.3,8.0,1.8,0.8,111.0,66.0,3.7,6.0,419.5,0.2,0.3,0.0,2645.0,0.15,0.2,0.9,5781.0,11.0
+DP019,"Long eggpalnt, steamed",Vegetables,Processed/Products,92.7,23.0,1.8,0.1,4.9,0.4,0.5,40.0,13.0,0.5,9.0,57.0,67.1,0.2,0.0,99.0,0.0,0.07,0.7,20.0,1.0
+DR159,Long eggplant,Vegetables,Raw,91.8,25.0,2.1,0.1,5.3,0.5,0.7,38.0,24.0,0.7,9.0,53.7,0.09,0.2,0.0,83.0,0.15,0.06,0.7,24.0,8.0
+DR060,"Longgiho fern leaves, fresh",Vegetables,Raw,89.5,54.0,2.2,3.6,3.1,2.1,1.6,40.0,80.0,0.7,70.0,500.0,0.4,0.1,,168.0,0.4,0.3,0.2,,8.0
+ER007,"Loquat, fresh",Fruits,Raw,87.1,51.0,0.3,0.1,12.1,0.7,0.5,220.0,14.0,0.8,1.0,258.6,0.04,0.0,0.0,,0.1,0.02,0.0,12256.0,4.0
+DR001,"Lotus root, fresh",Vegetables,Raw,86.7,45.0,1.1,0.4,10.8,1.2,1.0,72.0,125.0,1.3,96.0,1147.1,0.02,0.2,0.0,83.0,0.02,0.03,1.9,90.0,2.0
+AP020,"Macaroni, raw",Cereals,Processed/Products,11.7,353.0,8.7,0.4,78.7,4.9,2.5,20.0,80.0,0.3,5.0,0.0,0.28,1.4,,,0.1,0.13,2.2,0.0,0.0
+GR052,"Mackerel scad, fresh",Fish and Other Seafood,Raw,75.0,120.0,14.3,4.9,4.6,0.0,1.2,329.0,436.0,1.5,240.0,169.0,0.8,1.1,,0.0,0.0,0.05,3.1,,
+GR080,"Mackerel tuna, fresh",Fish and Other Seafood,Raw,79.0,81.0,16.2,1.2,0.7,0.0,2.9,757.0,292.0,2.2,169.0,202.9,0.7,1.2,18.0,0.0,0.04,0.1,2.4,,0.0
+GR035,"Mackerel tuna, fresh",Fish and Other Seafood,Raw,76.1,110.0,12.6,4.2,5.4,,1.7,80.0,300.0,1.5,340.0,300.0,0.2,1.4,146.0,,,,0.2,,
+DR111,"Madura cucumber, fresh",Vegetables,Raw,97.1,9.0,0.5,0.1,1.9,0.7,0.4,15.0,102.0,0.6,2.0,78.9,0.02,0.1,0.0,25.0,0.02,0.02,0.1,0.0,5.0
+DR085,"Maize, unripe, fresh",Vegetables,Raw,89.5,35.0,2.2,0.1,7.4,1.9,0.8,7.0,100.0,0.5,353.0,230.2,0.1,0.8,0.0,23.0,0.08,0.16,0.9,200.0,8.0
+ER003,"Malang apple, fresh",Fruits,Raw,85.9,57.0,0.5,0.4,12.8,0.8,0.3,9.0,18.0,0.6,4.0,175.4,110.16,0.0,,26.0,0.05,0.03,0.1,2240.0,5.0
+ER033,"Malay apple, fresh",Fruits,Raw,87.1,49.0,2.3,0.2,9.6,3.5,0.8,8.0,8.0,0.3,1.0,14.0,0.0,0.0,,92.0,0.13,0.01,0.5,,22.0
+GR034,"Malay combtail, fresh",Fish and Other Seafood,Raw,74.2,132.0,17.0,6.7,0.8,0.0,1.3,151.0,272.0,1.2,78.0,229.0,0.9,0.7,,,0.07,0.03,,,
+HR009,"Maleo egg, fresh",Eggs,Raw,36.0,436.0,26.5,36.3,0.4,,0.8,154.0,120.0,4.3,77.0,333.0,0.4,2.9,3987.0,,,1.0,0.2,,
+ER062,"Manalagi mango, fresh",Fruits,Raw,66.5,133.0,1.0,0.1,32.1,11.8,0.3,20.0,23.0,1.0,70.0,161.0,0.0,0.0,0.0,4.0,0.07,0.0,0.6,,61.0
+AP080,Manan samin,Cereals,Processed/Products,27.1,379.0,3.4,18.1,50.6,,0.8,,,,,,,,,,,,,,
+ER037,Mandarin orange,Fruits,Raw,87.3,44.0,0.8,0.3,10.9,1.6,0.7,33.0,23.0,0.4,5.0,518.1,169.3,0.2,,0.0,0.07,0.03,0.2,420.0,31.0
+ER054,"Mango, fresh",Fruits,Raw,86.6,52.0,0.7,0.0,12.3,1.6,0.2,20.0,16.0,1.0,3.0,140.0,0.33,0.0,,316.0,0.03,0.01,0.3,,12.0
+ER064,"Mangosteen, fresh",Fruits,Raw,83.0,63.0,0.6,0.6,15.6,1.5,0.2,8.0,12.0,0.8,10.0,61.9,0.1,0.1,,0.0,0.03,0.03,0.3,0.0,5.0
+GR051,"Mangrove clam, fresh",Fish and Other Seafood,Raw,58.0,303.0,14.0,27.0,0.0,0.0,1.0,20.0,200.0,1.0,43.0,,,,485.0,0.0,0.1,,,,2.0
+ER050,"Manila tamarind, fresh",Fruits,Raw,20.1,315.0,2.1,1.4,73.5,3.6,2.9,160.0,120.0,3.7,,,,,,,0.02,,,,
+KP001,Margarine,Fat and Oil,Processed/Products,15.5,720.0,0.6,81.0,0.4,0.0,2.5,20.0,16.0,0.0,760.0,25.9,0.0,0.0,606.0,633.0,0.0,0.0,0.0,,0.0
+MP011,Markisa squash,Convectionery,Processed/Products,46.7,217.0,2.5,1.0,49.6,,0.2,6.0,83.0,0.6,14.0,65.0,0.0,0.1,,23.0,0.07,0.02,0.0,75.0,14.0
+MP012,"Markisa squash, BD",Convectionery,Processed/Products,74.4,104.0,1.2,0.5,23.7,,0.2,1.0,88.0,0.5,40.0,40.0,0.0,0.1,,7.0,0.2,0.02,0.0,40.0,12.0
+GR002,"Maroon clownfish, fresh",Fish and Other Seafood,Raw,79.5,93.0,12.8,1.5,6.1,0.0,4.1,60.0,199.0,3.0,33.0,175.9,0.1,1.0,51.0,3.0,0.06,0.0,2.7,71.0,
+ER085,"Mas bali ampenan banana, fresh",Fruits,Raw,76.8,92.0,1.4,0.2,21.0,3.7,0.5,7.0,29.0,1.2,32.0,272.0,0.18,0.4,,14.0,0.09,0.03,0.6,,11.0
+ER086,"Mas bali kopang banana, fresh",Fruits,Raw,64.2,127.0,1.4,0.2,31.8,3.7,2.4,10.0,0.0,0.1,43.0,616.0,0.12,0.4,,21.0,0.21,0.05,0.9,,17.0
+AP083,Masekat,Cereals,Processed/Products,15.6,369.0,2.1,7.0,74.1,4.0,0.8,17.0,52.0,0.8,141.0,12.0,0.4,0.3,155.0,,,,,,
+ER066,"Matoa, fresh",Fruits,Raw,76.5,90.0,1.2,0.1,21.1,0.5,1.1,20.0,40.0,0.6,10.0,190.0,0.3,0.6,,2.0,0.18,0.09,0.5,,54.0
+FP028,"Mbok Berek Fried chicken, breast",Meat and Poultry,Processed/Products,43.4,295.0,39.2,13.6,1.0,0.0,2.8,114.0,278.0,5.4,,,,,8.0,,0.19,,,50.0,0.0
+DR096,"Mecca bean, peas, fresh",Vegetables,Raw,93.6,22.0,1.1,1.0,3.4,1.1,0.9,63.0,296.0,1.0,2.0,69.2,0.3,,0.0,197.0,0.02,,0.4,116.0,0.0
+CP048,"Melinjo, emping, thick, fried, savory",Grains and Legumes,Processed/Products,8.0,431.0,11.1,16.2,63.0,,1.6,77.0,,,,,,,,,0.08,,,0.0,0.0
+CP047,"Melinjo, emping, thick, fried, sweet",Grains and Legumes,Processed/Products,5.6,439.0,10.0,16.4,65.7,,2.3,66.0,225.0,,,,,,,,0.1,,,0.0,0.0
+CP049,"Melinjo, emping, thin, fried",Grains and Legumes,Processed/Products,3.3,485.0,11.5,24.5,59.1,,1.5,85.0,218.0,,,,,,,,0.11,,,0.0,0.0
+ER067,"Melon, fresh",Fruits,Raw,90.8,37.0,0.6,0.4,7.8,1.0,0.5,12.0,14.0,0.4,27.0,167.0,0.3,0.1,,1.0,0.02,0.1,0.0,0.0,0.0
+FP008,"Menjangan, meat, jerked meat, raw",Meat and Poultry,Processed/Products,14.3,322.0,55.8,2.0,22.7,,5.3,55.0,310.0,2.1,765.0,1282.0,1.7,3.2,3391.0,26.0,,,,,
+ER068,"Menteng, fresh",Fruits,Raw,79.0,65.0,1.7,0.3,16.1,,2.9,13.0,20.0,0.8,,,,,,,0.0,,,0.0,
+DR017,"Mexican mint, fresh",Vegetables,Raw,92.5,27.0,1.3,0.6,4.0,1.0,1.6,279.0,40.0,13.6,4.0,144.0,,,,1489.0,0.16,0.1,0.0,13288.0,5.0
+AP084,"Mie aceh, boiled",Cereals,Processed/Products,74.6,113.0,3.0,3.2,18.1,,1.1,22.0,44.0,1.4,191.0,36.0,0.2,0.3,0.0,0.0,0.0,0.0,0.0,,0.0
+AP085,Mie ayam,Cereals,Processed/Products,78.6,102.0,6.2,3.9,10.5,,0.8,262.0,51.0,1.8,279.0,,,,39.0,,0.85,,0.0,166.0,0.0
+AP086,Mie bakso,Cereals,Processed/Products,74.5,114.0,5.3,3.0,16.4,0.1,0.8,286.0,53.0,1.9,760.0,,,,17.0,,0.16,,,180.0,0.0
+AP087,Mie celon,Cereals,Processed/Products,75.9,102.0,3.0,2.1,17.8,,1.2,12.0,84.0,1.4,451.0,112.0,0.1,0.5,0.0,0.0,0.0,0.0,0.0,,0.0
+AP088,"Mie pangsit, wet",Cereals,Processed/Products,79.2,105.0,5.9,4.9,9.4,,0.7,208.0,48.0,2.0,530.0,,,,25.0,,0.46,,,620.0,0.0
+MP003,"Milk chocolate, bar",Convectionery,Processed/Products,1.0,565.0,9.0,35.0,53.6,3.4,1.4,200.0,200.0,2.0,100.0,405.5,0.49,2.3,,54.0,0.08,0.45,0.5,30.0,0.0
+GR004,"Milkfish, fresh",Fish and Other Seafood,Raw,66.0,193.0,19.0,13.0,0.0,0.0,2.0,48.0,150.0,0.4,118.0,264.9,0.1,0.2,45.0,0.0,0.01,0.1,4.1,,0.0
+AR020,"Millet, raw",Cereals,Raw,11.9,364.0,9.7,3.5,73.4,8.2,1.5,28.0,311.0,5.3,7.0,255.1,0.45,1.5,,33.0,0.33,0.28,4.5,,
+AP023,Misua,Cereals,Processed/Products,10.0,345.0,8.5,2.2,78.0,0.5,1.3,52.0,120.0,8.7,3064.0,44.0,0.08,0.0,0.0,0.0,0.0,0.02,0.2,0.0,0.0
+BP068,Mocaf (Modified cassava flour),Starchy Roots & Tubers,Processed/Products,11.9,350.0,1.2,0.6,85.0,6.0,1.3,60.0,64.0,15.8,8.0,403.0,0.1,0.6,,0.0,0.02,0.02,0.7,0.0,2.0
+GP074,"Model, dish",Fish and Other Seafood,Processed/Products,83.9,79.0,2.2,4.0,8.6,,1.3,8.0,33.0,0.8,147.0,34.0,0.1,0.5,,,0.16,0.02,,,
+MP013,Molasses,Convectionery,Processed/Products,21.2,276.0,,0.1,71.0,0.0,7.7,6.0,83.0,0.6,14.0,,0.0,0.3,0.0,0.0,0.04,,,,0.0
+CP050,Moon tofu,Grains and Legumes,Processed/Products,79.9,128.0,8.0,10.0,1.3,0.2,0.8,205.0,92.0,2.5,393.0,,,,131.0,,0.46,,,5300.0,0.0
+DR011,Moringa fruit,Vegetables,Raw,89.5,38.0,1.5,0.2,7.5,3.2,1.3,30.0,54.0,0.0,48.0,216.0,0.0,0.2,,31.0,0.1,0.1,4.1,,25.0
+DP006,"Moringa leaves, boiled",Vegetables,Processed/Products,80.3,61.0,6.1,0.9,10.0,0.9,2.6,255.0,36.0,2.1,45.0,181.2,0.1,0.6,,3972.0,0.1,0.1,4.0,6071.0,13.0
+DR038,"Moringa leaves, fresh",Vegetables,Raw,75.5,92.0,5.1,1.6,14.3,8.2,3.5,1077.0,76.0,6.0,61.0,298.0,0.1,0.6,,3266.0,0.3,0.1,4.2,,22.0
+CP005,"Mungbean, boiled",Grains and Legumes,Processed/Products,71.3,109.0,8.7,0.5,18.3,1.5,1.2,95.0,149.0,1.5,447.0,657.8,1.4,2.8,,18.0,0.12,0.04,0.4,120.0,3.0
+CP015,"Mungbean, dregs",Grains and Legumes,Processed/Products,70.6,96.0,3.7,0.6,19.1,2.7,0.6,133.0,150.0,1.3,,,,,,,0.05,,,,
+CR014,"Mungbean, dried",Grains and Legumes,Raw,15.5,323.0,22.9,1.5,56.8,7.5,3.3,223.0,319.0,7.5,42.0,815.7,1.9,2.9,,156.0,0.46,0.15,1.5,223.0,10.0
+CR012,"Mungbean, variant bakti, dried",Grains and Legumes,Raw,7.4,350.0,17.1,1.8,70.7,5.7,3.1,94.0,315.0,4.9,46.0,893.9,1.52,3.1,,171.0,0.4,0.27,2.6,235.0,11.0
+CR013,"Mungbean, variant siwalik, dried",Grains and Legumes,Raw,8.8,339.0,20.8,2.1,64.6,7.4,3.7,122.0,136.0,4.9,45.0,880.4,1.5,3.1,,168.0,0.45,0.27,2.6,321.0,
+DR129,Mustard Greens,Vegetables,Raw,91.4,33.0,2.3,0.5,4.7,1.8,1.1,60.0,30.0,3.1,20.0,100.0,0.1,0.4,,1575.0,0.2,0.1,0.1,,12.0
+DR144,"Mustard greens, fresh",Vegetables,Raw,94.9,19.0,1.3,0.2,2.9,2.2,1.0,92.0,45.0,1.2,17.0,145.0,0.1,0.4,,815.0,0.2,0.1,0.1,,36.0
+DR141,"Mustard greens, fresh",Vegetables,Raw,92.2,28.0,2.3,0.3,4.0,2.5,1.2,220.0,38.0,2.9,22.0,436.5,0.12,0.2,,2042.0,0.09,0.23,0.7,6460.0,102.0
+FP056,"Naan maran cow, dish",Meat and Poultry,Processed/Products,14.8,478.0,38.3,33.9,5.1,,7.9,30.0,390.0,11.8,220.0,320.0,0.6,3.9,33.0,,,,0.2,,
+DR142,"Napa cabbage, fresh",Vegetables,Raw,96.6,9.0,1.0,0.1,1.7,0.8,0.6,56.0,42.0,1.1,5.0,193.1,0.05,0.1,0.0,862.0,0.05,0.18,0.4,832.0,3.0
+AP089,Nasi gemuk,Cereals,Processed/Products,61.4,192.0,3.8,8.8,24.4,0.7,1.6,15.0,74.0,1.0,355.0,63.0,0.2,1.4,0.0,0.0,0.19,0.05,2.0,,0.0
+AP090,Nasi gurih,Cereals,Processed/Products,60.5,190.0,4.7,7.5,26.0,0.7,1.3,12.0,62.0,0.8,296.0,52.0,0.2,1.2,0.0,0.0,0.11,0.06,2.1,,0.0
+AP091,Nasi minyak,Cereals,Processed/Products,53.3,207.0,3.5,5.0,37.1,0.8,1.1,26.0,100.0,1.5,74.0,174.0,0.2,2.2,0.0,0.0,0.14,0.07,2.6,,0.0
+AP092,Nasi rames,Cereals,Processed/Products,65.8,155.0,10.3,4.2,19.1,,0.6,239.0,62.0,1.8,265.0,,,,96.0,,0.59,0.0,,3140.0,
+FP057,"Nasu likku, dish",Meat and Poultry,Processed/Products,59.0,196.0,14.5,8.3,15.9,,2.3,69.0,157.0,1.0,386.0,470.0,0.3,2.0,,,0.2,0.24,1.5,,
+GR057,"Nasu metti fish, fresh",Fish and Other Seafood,Raw,72.7,109.0,19.9,1.8,3.4,0.0,2.2,95.0,597.0,1.3,266.0,227.0,0.3,2.0,195.0,0.0,0.26,0.03,4.4,,
+DR057,"Ndusuk leaves, fresh",Vegetables,Raw,56.0,166.0,1.7,0.5,38.8,10.7,3.0,40.0,20.0,1.8,40.0,310.0,0.2,0.7,,14457.0,0.4,0.1,0.1,,30.0
+DP052,Ndusuk soup,Vegetables,Processed/Products,87.5,49.0,3.1,2.5,3.6,,3.1,11.0,6.0,0.5,1011.0,88.0,,0.2,,,0.2,0.1,,,15.0
+GR029,"Neddlefish, fresh",Fish and Other Seafood,Raw,80.7,77.0,15.6,0.9,1.6,0.0,1.2,94.0,170.0,1.7,,,,,18.0,,0.07,,,0.0,0.0
+BP050,"Noodle, bendo",Starchy Roots & Tubers,Processed/Products,11.5,353.0,0.3,0.0,88.0,2.4,0.2,28.0,14.0,2.8,9.0,49.2,0.5,0.1,,2.0,0.02,0.0,0.1,0.0,0.0
+AP022,"Noodle, dried",Cereals,Processed/Products,10.6,339.0,10.0,1.7,6.3,0.4,1.4,31.0,143.0,3.9,760.0,83.0,0.29,1.9,,,0.0,0.08,2.2,0.0,0.0
+BP049,"Noodle, golosor",Starchy Roots & Tubers,Processed/Products,82.9,71.0,0.2,0.8,15.9,0.1,0.2,117.0,5.0,0.2,,,,,0.0,,0.05,0.02,0.0,112.0,0.0
+BP051,"Noodle, sago",Starchy Roots & Tubers,Processed/Products,52.8,190.0,0.2,0.4,46.5,1.4,0.1,8.0,7.0,0.3,10.0,2.6,0.1,0.0,,2.0,0.0,0.4,0.0,0.0,0.0
+AP021,"Noodle, wet",Cereals,Processed/Products,80.0,88.0,0.6,3.3,14.0,0.1,2.1,14.0,13.0,6.8,63.0,13.5,0.06,0.4,,0.0,0.0,0.0,0.0,,0.0
+AP093,Nopia special,Cereals,Processed/Products,11.5,387.0,5.3,7.6,74.3,0.3,1.3,903.0,133.0,4.2,,,,,,,0.17,,,512.0,0.0
+ER072,"Nutmeg, meat, fresh",Fruits,Raw,88.1,42.0,0.3,0.2,10.9,0.5,0.5,32.0,24.0,1.5,,,,,,,,,,29.0,22.0
+NR024,"Nutmeg, seed, dried",Herbs and Spices,Raw,14.3,518.0,7.5,36.4,40.1,3.5,1.7,120.0,240.0,4.6,2.0,78.7,0.94,2.0,,7.0,0.2,0.02,0.5,,0.0
+GP087,"Octopus saboko, dish",Fish and Other Seafood,Processed/Products,76.2,87.0,15.7,1.5,2.6,,4.1,60.0,14.0,2.1,200.0,180.0,0.9,4.0,38.0,,,,,,
+FP077,"Offal soto, dish",Meat and Poultry,Processed/Products,81.4,92.0,11.8,4.3,1.4,,1.1,218.0,48.0,1.9,363.0,,,,85.0,,0.36,,,440.0,0.0
+DP042,Olah-olah,Vegetables,Processed/Products,83.9,9.0,2.1,6.0,7.1,4.4,0.9,26.0,3.0,1.2,289.0,266.0,0.3,0.6,,36.0,0.2,0.1,0.4,,
+KR014,Olive oil,Fat and Oil,Raw,0.0,884.0,0.0,100.0,0.0,0.0,0.0,14.0,0.0,1.2,7.0,0.0,0.0,0.0,,0.0,0.0,0.0,5.0,,
+CP051,Oncom,Grains and Legumes,Processed/Products,57.0,187.0,13.0,6.0,22.6,,1.4,96.0,115.0,27.0,,,,,0.0,,0.09,0.0,1.6,,0.0
+CP039,"Oncom, chips",Grains and Legumes,Processed/Products,3.0,598.0,8.3,43.8,42.6,3.3,2.2,85.0,153.0,27.0,,,,,,,1.13,,,1608.0,0.0
+CP053,"Oncom, mungbean + cassava",Grains and Legumes,Processed/Products,16.5,351.0,11.0,5.3,65.9,9.0,1.3,164.0,113.0,7.8,,,,,,,0.01,,,,
+CP052,"Oncom, mungbean, dregs",Grains and Legumes,Processed/Products,13.4,376.0,14.9,6.0,65.7,12.3,1.7,199.0,110.0,10.9,,,,,,,0.03,,,,
+CP054,"Oncom, peanut, pepes",Grains and Legumes,Processed/Products,65.0,132.0,12.7,3.8,13.7,3.1,4.8,133.0,355.0,34.4,,,,,,,0.08,0.2,0.7,10.0,0.0
+AP094,Onde-onde,Cereals,Processed/Products,27.7,336.0,4.0,9.8,57.9,,0.6,,,,,,,,,,,,,,
+DR007,"Onion, fresh",Vegetables,Raw,87.5,43.0,1.4,0.2,10.3,2.0,0.6,32.0,44.0,0.5,12.0,9.6,0.1,0.3,,788.0,0.03,0.21,0.4,50.0,9.0
+FP058,"Oramu ninahu ndawa olaho, dish",Meat and Poultry,Processed/Products,74.9,117.0,13.7,5.0,4.3,,0.1,964.0,804.0,2.0,,727.0,0.3,1.5,4095.0,,0.77,0.04,1.7,,
+FP068,"Oxtail soup, dish",Meat and Poultry,Processed/Products,86.1,71.0,7.5,3.6,2.2,,0.6,286.0,38.0,3.2,490.0,,,,119.0,,0.14,,,2900.0,0.0
+BP053,Oyek,Starchy Roots & Tubers,Processed/Products,12.6,351.0,0.9,0.9,84.9,4.3,0.7,60.0,36.0,2.1,5.0,229.0,0.1,0.5,,0.0,0.02,0.02,0.5,0.0,0.0
+GP067,"Oyster gulai, dish",Fish and Other Seafood,Processed/Products,73.1,132.0,9.0,7.2,7.8,,2.9,53.0,134.0,3.7,285.0,133.0,1.1,0.7,389.0,,0.29,0.12,,,
+DR090,"Oyster mushroom, fresh",Vegetables,Raw,92.5,30.0,1.9,0.1,5.5,3.6,0.6,9.0,83.0,0.7,22.0,226.0,0.0,0.8,,0.0,0.3,0.2,1.0,0.0,0.0
+AP095,Padamaran,Cereals,Processed/Products,67.6,171.0,3.9,8.9,18.8,,0.8,,,,,,,,,,,,,,
+DP043,Paku hinela wulelenggapaya,Vegetables,Processed/Products,83.4,77.0,3.5,4.6,5.4,3.6,3.1,63.0,85.0,0.0,469.0,37.0,0.3,0.7,,55.0,0.8,0.1,0.2,,4.0
+ER069,"Palembang pineapple, fresh",Fruits,Raw,85.5,58.0,0.7,0.2,13.3,1.6,0.3,29.0,15.0,0.6,7.0,117.0,0.03,0.1,,17.0,0.26,0.03,0.2,,11.0
+GR058,"Paling fish, fresh",Fish and Other Seafood,Raw,75.4,100.0,18.8,2.2,0.0,0.0,3.6,40.0,179.0,0.5,43.0,392.6,0.1,0.3,45.0,0.0,0.37,0.2,3.4,,0.0
+KR012,Palm oil,Fat and Oil,Raw,0.0,884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,18181.0,0.0,0.0,0.0,,0.0
+MP005,Palm sugar,Convectionery,Processed/Products,7.0,368.0,0.0,0.0,92.0,0.0,1.0,75.0,35.0,3.0,15.0,390.4,0.04,26.4,0.0,0.0,0.0,0.01,0.5,,0.0
+GR060,"Pangasius fish, fresh",Fish and Other Seafood,Raw,71.3,81.0,11.4,1.9,3.8,0.0,11.6,118.0,174.0,3.0,46.0,245.9,0.0,1.5,15.0,0.0,0.0,0.4,3.2,0.0,0.0
+GP024,"Pangasius, grilled",Fish and Other Seafood,Processed/Products,70.3,144.0,17.5,6.3,4.3,,1.6,191.0,232.0,1.4,379.0,230.0,0.1,0.7,,,,,,,
+DR094,Panicled Spot Flower,Vegetables,Raw,89.0,34.0,1.9,0.3,7.1,3.5,1.7,162.0,41.0,4.0,59.0,388.5,0.3,1.2,,2.0,0.03,,0.4,3918.0,20.0
+FP059,"Paniki cooked with coconut milk, dish",Meat and Poultry,Processed/Products,25.4,460.0,28.5,35.2,7.2,,3.7,188.0,357.0,5.5,2002.0,532.0,0.4,2.5,954.0,,0.27,0.19,,,
+DP048,Papaya flower soup,Vegetables,Processed/Products,83.4,49.0,1.7,0.3,9.8,2.7,2.1,220.0,220.0,1.3,90.0,350.0,0.1,0.1,,372.0,,0.1,0.0,,0.0
+DR014,"Papaya flower, fresh",Vegetables,Raw,87.3,45.0,2.6,0.3,8.1,1.6,1.7,290.0,113.0,4.2,2.0,478.3,0.08,0.8,,2792.0,0.01,0.28,1.0,5.0,23.0
+DR065,"Papaya leaves, fresh",Vegetables,Raw,75.4,87.0,8.0,2.0,11.9,1.5,2.7,353.0,63.0,0.8,4.0,926.6,0.2,1.5,,5409.0,0.15,0.5,1.9,18250.0,140.0
+ER020,"Papaya, fresh",Fruits,Raw,93.4,24.0,1.9,0.2,3.7,1.0,0.9,51.0,33.0,1.8,,,,,0.0,0.0,0.32,0.07,0.0,1000.0,85.0
+ER073,"Papaya, fresh",Fruits,Raw,86.7,46.0,0.5,0.1,12.2,1.6,0.6,23.0,12.0,1.7,4.0,221.0,0.02,0.3,,1038.0,0.04,0.06,0.4,365.0,78.0
+DR133,"Papaya, unripe, fresh",Vegetables,Raw,92.3,29.0,2.1,0.1,4.9,2.1,0.6,50.0,16.0,0.4,22.0,211.2,0.01,0.0,,0.0,0.02,0.03,0.3,50.0,19.0
+BP054,Papeda,Starchy Roots & Tubers,Processed/Products,84.8,61.0,0.2,0.1,14.9,0.5,0.1,3.0,1.0,0.2,4.0,20.0,0.1,0.1,0.0,0.0,0.06,0.0,0.0,0.0,0.0
+GP076,"Parede baleh, dish",Fish and Other Seafood,Processed/Products,80.0,87.0,10.5,2.5,5.5,,1.5,35.0,215.0,0.9,416.0,59.0,0.1,0.2,,,0.24,0.0,0.7,,
+ER008,"Parinari, fresh",Fruits,Raw,92.0,23.0,0.8,0.2,5.2,,1.8,30.0,50.0,4.6,,,,,,,0.29,,,0.0,38.0
+GR031,"Parrot fish, fresh",Fish and Other Seafood,Raw,79.7,82.0,11.4,1.2,6.4,,1.3,20.0,160.0,0.4,90.0,300.0,0.1,0.3,18.0,,,,0.2,,
+DR135,"Parsley, fresh",Vegetables,Raw,83.9,53.0,3.7,1.0,9.0,0.0,2.4,193.0,84.0,4.3,18.0,1125.6,0.2,1.4,,2940.0,0.11,0.29,0.7,8230.0,193.0
+ER014,"Passion fruit, fresh",Fruits,Raw,85.7,55.0,1.2,0.1,12.2,5.2,0.8,30.0,40.0,0.2,10.0,0.0,0.1,0.3,,460.0,0.33,0.03,0.1,,9.0
+AP096,Pastel,Cereals,Processed/Products,38.3,307.0,4.5,13.3,42.4,,1.5,296.0,53.0,2.5,,,,,0.0,,0.15,,,5360.0,0.0
+FP029,"Pasundan fried chicken, breast",Meat and Poultry,Processed/Products,50.1,246.0,37.9,9.0,0.7,0.0,2.3,90.0,260.0,7.5,,,,,6.0,,0.16,,0.0,70.0,
+FP030,"Pasundan fried chicken, thigh",Meat and Poultry,Processed/Products,52.8,245.0,33.1,11.4,0.3,0.0,2.5,90.0,283.0,7.3,,,,,8.0,,0.37,,0.0,40.0,
+DR153,"Pea eggplants, dried",Vegetables,Raw,12.3,302.0,8.3,1.7,72.6,21.2,8.1,370.0,180.0,22.2,9.0,0.0,1044.2,1.0,,187.0,0.4,0.17,5.1,750.0,0.0
+DR152,"Pea eggplants, fresh",Vegetables,Raw,89.0,34.0,2.0,0.1,7.9,4.9,1.0,50.0,30.0,2.0,3.0,333.3,0.12,0.2,,23.0,0.08,0.05,0.9,750.0,8.0
+CP036,Peanut butter,Grains and Legumes,Processed/Products,3.0,590.0,27.0,49.0,20.9,1.6,0.1,60.0,360.0,2.0,355.0,492.4,0.57,2.7,0.0,0.0,0.3,0.2,16.2,,0.0
+KR009,Peanut oil,Fat and Oil,Raw,0.0,902.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+CP013,"Peanut, boiled",Grains and Legumes,Processed/Products,62.1,220.0,10.6,18.0,8.0,1.0,1.3,89.0,273.0,1.9,36.0,536.2,1.78,2.2,,,0.1,,,,0.0
+CP011,"Peanut, boiled, with shells",Grains and Legumes,Processed/Products,40.2,360.0,13.5,31.2,12.8,,2.3,42.0,177.0,1.4,32.0,483.0,1.6,2.0,0.0,,0.44,0.13,9.0,,5.0
+CP021,"Peanut, bungkil",Grains and Legumes,Processed/Products,14.0,336.0,37.4,13.0,30.5,,33.1,730.0,470.0,30.7,,,,,0.0,,0.04,,,,
+CR032,"Peanut, dried",Grains and Legumes,Raw,9.6,525.0,27.9,42.7,17.4,2.4,2.4,316.0,456.0,5.7,31.0,466.5,1.55,1.9,,0.0,0.44,0.27,1.4,30.0,
+CP012,"Peanut, fried",Grains and Legumes,Processed/Products,2.5,564.0,25.5,44.4,25.5,2.8,2.8,106.0,390.0,4.1,,,,,,,0.4,,,,
+CR030,"Peanut, seeds",Grains and Legumes,Raw,1.2,560.0,29.5,43.0,24.1,2.9,2.2,107.0,366.0,4.1,34.0,509.8,1.69,2.1,,0.0,0.31,0.3,15.5,,
+CR031,"Peanut, seeds, without husk",Grains and Legumes,Raw,2.6,559.0,26.9,44.2,23.6,2.6,2.7,74.0,393.0,1.9,33.0,202.3,520.4,1.7,0.0,0.0,0.3,29.47,8.0,,0.0
+FP060,"Pelolah manuk, dish",Meat and Poultry,Processed/Products,60.0,219.0,19.7,13.6,4.4,,2.3,33.0,160.0,1.6,577.0,,,,137.0,,0.42,,,1940.0,0.0
+GP077,Pempek adaan (fish ball),Fish and Other Seafood,Processed/Products,62.6,162.0,4.9,3.0,27.8,,1.7,26.0,116.0,1.0,488.0,119.0,0.1,0.2,,,0.3,0.03,1.0,,
+GP079,Pempek kapal selam,Fish and Other Seafood,Processed/Products,63.4,152.0,4.5,2.3,28.2,,1.6,19.0,115.0,1.6,628.0,91.0,0.1,0.2,,,0.2,0.03,1.0,,
+GP080,Pempek kelesan,Fish and Other Seafood,Processed/Products,53.0,211.0,12.3,6.1,26.6,0.4,2.0,840.0,176.0,1.8,,,,,14.0,,0.25,,,888.0,0.0
+FP066,"Penyu, serapah, masakan",Meat and Poultry,Processed/Products,71.3,174.0,13.1,12.2,2.2,0.0,1.2,72.0,186.0,9.5,,507.0,0.8,2.4,1302.0,,,,,,
+GP019,Pepes carp,Fish and Other Seafood,Processed/Products,57.5,209.0,15.2,11.3,11.8,0.5,4.3,686.0,530.0,6.1,74.0,276.7,0.1,1.9,3.0,,0.13,0.1,2.4,315.0,0.0
+GP021,pepes tilapia,Fish and Other Seafood,Processed/Products,73.7,121.0,21.7,2.8,0.8,0.0,1.0,83.0,248.0,1.6,58.0,265.8,0.0,0.3,8.0,,0.0,0.1,1.9,6.0,0.0
+NR023,"Pepper, dried",Herbs and Spices,Raw,12.9,365.0,11.5,6.8,64.4,1.0,4.4,460.0,200.0,16.4,4.0,99.7,0.89,1.1,,0.0,0.2,0.1,2.5,,
+ER048,"Persimmon, fresh",Fruits,Raw,78.2,78.0,0.8,0.4,20.0,0.6,0.6,6.0,26.0,0.3,0.0,34.5,0.13,0.1,,109.0,0.05,0.0,0.1,2710.0,11.0
+CP004,"Pigeon pea, boiled",Grains and Legumes,Processed/Products,61.5,147.0,9.0,0.5,27.5,3.4,1.5,50.0,175.0,2.0,14.0,1126.0,0.8,2.7,,12.0,0.1,0.07,13.2,,
+CR034,"Pigeon pea, dried",Grains and Legumes,Raw,10.5,351.0,12.2,1.2,72.9,29.5,3.2,120.0,220.0,6.9,1.0,0.0,1.4,2.9,,,0.57,0.13,2.5,,
+CR022,"Pigeon pea, dried",Grains and Legumes,Raw,11.8,346.0,16.5,1.5,66.6,37.3,3.6,144.0,368.0,3.4,17.0,1225.0,1.5,3.3,,64.0,0.62,0.2,0.0,,
+CR010,"Pigeon pea, seeds, dried",Grains and Legumes,Raw,16.1,316.0,20.7,1.0,58.0,4.6,4.2,146.0,445.0,4.7,16.0,1306.2,0.99,2.7,,19.0,0.3,0.19,2.4,,
+CR011,"Pigeon pea, seeds, fresh",Grains and Legumes,Raw,70.3,114.0,7.0,0.6,20.8,4.4,2.3,3.0,122.0,1.5,4.0,480.5,0.12,0.9,,,0.37,0.07,0.8,70.0,43.0
+FP009,"Pigeon, meat, fried",Meat and Poultry,Processed/Products,54.5,224.0,26.2,11.3,4.4,,3.6,362.0,362.0,3.1,2.0,19.0,0.3,1.6,,,,,,,
+DR066,"Pilea leaves, fresh",Vegetables,Raw,87.4,37.0,2.5,0.8,6.9,2.6,2.4,744.0,80.0,5.9,,,,,0.0,,0.03,,,7378.0,5.0
+CR037,"Pili nut (Banda), dried",Grains and Legumes,Raw,13.0,616.0,13.9,56.2,13.7,,3.2,0.0,380.0,1.4,11.0,460.0,1.1,3.2,,90.0,0.83,0.08,0.5,,
+CR038,"Pili nut, dried",Grains and Legumes,Raw,3.0,657.0,15.0,66.0,13.0,,3.0,92.0,691.0,7.7,3.0,505.8,0.97,3.0,0.0,,0.42,0.09,0.5,,0.0
+GP085,"Pinda, dish",Fish and Other Seafood,Processed/Products,71.0,107.0,15.9,0.6,0.4,,3.1,375.0,336.0,1.9,526.0,330.0,0.2,1.0,896.0,,0.89,0.05,0.5,,
+GP027,"Pindang banjar fish, raw",Fish and Other Seafood,Processed/Products,59.0,157.0,28.0,4.2,1.8,0.0,7.0,50.0,100.0,1.0,,,,,45.0,,0.1,,,,0.0
+GP030,"Pindang blackbanded trevally, raw",Fish and Other Seafood,Processed/Products,60.0,142.0,27.0,3.0,0.0,0.0,10.0,60.0,200.0,3.0,,,,,61.0,,0.07,,,,0.0
+GP029,"Pindang Indian scad, raw",Fish and Other Seafood,Processed/Products,60.0,153.0,30.0,2.8,0.0,0.0,7.2,60.0,200.0,3.0,,,,,61.0,,0.07,,,,0.0
+GP086,"Pindang kenari, dish",Fish and Other Seafood,Processed/Products,80.1,124.0,9.5,9.6,0.0,,2.8,120.0,220.0,1.3,370.0,270.0,0.3,1.2,18.0,381.0,,,0.1,,
+EP002,Pineapple dodol,Fruits,Processed/Products,16.1,338.0,1.5,1.2,80.3,,0.9,,,,,,,,,,0.3,,,,8.0
+ER070,"Pineapple, fresh",Fruits,Raw,88.9,40.0,0.6,0.3,9.9,0.6,0.3,22.0,14.0,0.9,18.0,111.0,0.03,0.1,0.0,17.0,0.02,0.04,0.2,90.0,22.0
+FP031,"Pioneer fried chicken, breast",Meat and Poultry,Processed/Products,44.5,295.0,37.4,14.7,0.6,0.0,2.7,108.0,236.0,6.8,,,,,16.0,,0.1,,0.0,80.0,
+MP015,Pirous syrup,Convectionery,Processed/Products,43.3,228.0,0.2,0.4,55.9,0.0,0.2,470.0,93.0,29.5,3.0,4.2,,,,0.0,0.0,0.0,0.0,0.0,8.0
+ER089,"Plantain, fresh",Fruits,Raw,65.8,120.0,1.2,0.2,31.8,5.3,1.0,10.0,22.0,0.8,35.0,582.2,0.31,0.7,,53.0,0.06,0.14,1.2,950.0,10.0
+DP034,Pliek curry,Vegetables,Processed/Products,71.9,176.0,7.3,14.9,3.2,,2.7,39.0,54.0,1.4,257.0,285.0,0.3,0.6,,,,,,,
+ER035,"Pomelo, fresh",Fruits,Raw,86.3,48.0,0.6,0.2,12.4,0.8,0.5,23.0,27.0,0.5,21.0,366.1,171.25,0.1,,33.0,0.04,0.0,0.4,20.0,43.0
+GR061,"Pomo fish, fresh",Fish and Other Seafood,Raw,75.5,111.0,13.3,3.4,6.7,,1.1,86.0,174.0,1.2,91.0,197.0,0.0,0.6,309.0,,1.03,0.1,0.2,,
+GP026,"Ponyfish, raw",Fish and Other Seafood,Processed/Products,33.0,176.0,32.0,4.4,2.0,0.0,28.6,120.0,200.0,1.0,79.0,1.0,,,15.0,,0.05,0.1,2.4,,0.0
+KR004,Pork fat (bacon),Fat and Oil,Raw,20.0,626.0,9.1,65.0,1.1,0.0,4.8,13.0,108.0,0.8,0.0,0.0,0.0,0.9,0.0,0.0,0.38,0.0,0.0,,0.0
+KR003,Pork fat (lard),Fat and Oil,Raw,0.0,902.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.1,0.0,0.0,0.0,0.0,0.0,,0.0
+FP053,"Pork Lawar, dish",Meat and Poultry,Processed/Products,68.8,174.0,17.0,10.0,3.0,0.0,1.2,61.0,141.0,3.0,,,,0.0,,0.0,0.1,,0.0,,
+FR010,"Pork, kidney, fresh",Meat and Poultry,Raw,77.1,110.0,16.3,4.6,0.8,0.0,1.2,11.0,246.0,8.0,139.0,390.0,0.71,3.2,39.0,10.0,0.58,1.59,9.1,,13.0
+FR011,"Pork, liver, fresh",Meat and Poultry,Raw,72.3,129.0,19.7,4.8,1.7,0.0,1.5,10.0,362.0,18.0,110.0,447.0,0.58,0.1,4303.0,6.0,0.4,1.16,5.7,,23.0
+FR008,"Pork, meat, fat, fresh",Meat and Poultry,Raw,42.0,453.0,11.9,45.0,0.0,0.0,1.1,7.0,117.0,1.8,112.0,819.3,0.22,0.4,0.0,0.0,0.58,0.59,5.9,,0.0
+FR009,"Pork, meat, lean, fresh",Meat and Poultry,Raw,50.0,371.0,14.1,35.0,0.0,0.0,0.9,8.0,151.0,2.1,97.0,706.3,0.19,0.4,0.0,0.0,0.67,0.33,5.4,,0.0
+BP036,"Potato, chips",Starchy Roots & Tubers,Processed/Products,7.8,448.0,2.7,18.8,67.1,3.8,3.6,25.0,130.0,1.2,712.0,406.0,1.1,,,15.0,0.1,0.05,2.8,,0.0
+BP067,"Potato, flour, dried",Starchy Roots & Tubers,Processed/Products,13.0,347.0,0.3,0.1,85.6,0.4,1.0,20.0,30.0,0.5,51.0,156.3,0.2,0.5,,0.0,0.04,0.0,0.4,0.0,0.0
+BR013,"Potato, fresh",Starchy Roots & Tubers,Raw,83.4,62.0,2.1,0.2,13.5,0.5,0.8,63.0,58.0,0.7,7.0,396.0,0.4,0.3,0.0,0.0,0.09,0.1,1.0,0.0,21.0
+BR014,"Potato, shetland black, fresh",Starchy Roots & Tubers,Raw,64.0,142.0,0.9,0.4,33.7,5.4,1.0,34.0,75.0,0.2,22.0,890.3,0.9,0.6,,0.0,0.02,0.1,2.2,,38.0
+JP006,Powdered milk,Milk and Dairy Products,Processed/Products,3.5,513.0,24.6,30.0,36.2,0.0,5.7,904.0,694.0,0.6,380.0,1330.0,0.02,4.1,476.0,118.0,0.29,1.39,1.6,,6.0
+GR084,"Prawn, fresh",Fish and Other Seafood,Raw,75.0,91.0,21.0,0.2,0.1,0.0,3.7,136.0,170.0,8.0,178.0,222.4,0.3,1.3,18.0,4.0,0.01,0.4,3.7,,0.0
+DR019,"Premna leaves, fresh",Vegetables,Raw,87.9,41.0,2.7,1.0,7.3,2.1,1.1,29.0,245.0,1.5,,,,,0.0,,0.01,,,3099.0,3.0
+GP005,"Presto milkfish, dish",Fish and Other Seafood,Processed/Products,45.3,296.0,17.1,20.3,11.3,0.0,6.0,1422.0,659.0,1.9,,,,,6.0,0.0,0.14,,,400.0,69.0
+GR040,"Pufferfish, fresh",Fish and Other Seafood,Raw,80.1,82.0,18.0,1.0,0.4,0.0,0.5,48.0,229.0,2.2,,,,,4.0,,0.04,,,0.0,0.0
+AP097,Pulut,Cereals,Processed/Products,49.1,216.0,2.6,3.1,44.4,,0.8,6.0,70.0,3.8,100.0,22.0,0.4,1.3,0.0,0.0,0.14,,,,
+DR047,"Pumpkin leaves, fresh",Vegetables,Raw,89.7,34.0,3.6,0.6,4.5,2.9,1.6,138.0,99.0,3.7,16.0,630.7,0.2,0.3,,1258.0,0.14,0.2,1.3,2750.0,36.0
+DR122,"Pumpkin, yellow, fresh",Vegetables,Raw,86.6,51.0,1.7,0.5,10.0,2.7,1.2,40.0,180.0,0.7,280.0,220.0,0.35,1.5,,1569.0,0.2,0.0,0.1,,2.0
+KP004,Pure coconut milk,Fat and Oil,Processed/Products,54.9,324.0,4.2,34.3,5.6,0.0,1.0,14.0,45.0,1.9,18.0,514.1,0.37,0.9,0.0,0.0,0.02,0.0,0.5,,2.0
+DR081,"Purple sweet potato leaves, fresh",Vegetables,Raw,85.1,55.0,1.7,0.1,11.9,7.6,1.2,120.0,40.0,0.6,10.0,0.0,0.2,0.5,,516.0,0.2,0.0,0.0,,7.0
+BR033,"Purple yam, fresh",Starchy Roots & Tubers,Raw,69.7,120.0,2.8,0.5,82.3,2.6,0.9,9.0,42.0,1.3,12.0,412.0,0.3,0.6,,0.0,0.02,0.5,0.2,0.0,4.0
+DP045,Purundawa,Vegetables,Processed/Products,91.8,25.0,1.5,0.5,3.6,1.7,2.6,147.0,39.0,0.0,239.0,201.0,0.1,0.6,,55.0,0.1,0.1,11.6,,2.0
+FP065,"Pusut satay, dish",Meat and Poultry,Processed/Products,52.1,274.0,12.9,18.6,13.6,,2.8,63.0,190.0,2.7,609.0,,,,133.0,0.0,0.06,,0.0,,
+AP99,Putri hijau,Cereals,Processed/Products,,,,,,,,,,,,,,,,,,,,,
+AP100,Putri selat,Cereals,Processed/Products,66.6,163.0,2.2,6.5,23.8,,0.9,72.0,3.0,4.0,6.0,68.0,,,0.0,0.0,,,,,
+BP047,"Putu singkong, kue",Starchy Roots & Tubers,Processed/Products,44.2,217.0,1.2,0.5,53.2,2.4,0.9,48.0,68.0,1.5,3.0,305.0,,,,0.0,0.1,0.1,0.8,0.0,
+AP101,Putu sopa,Cereals,Processed/Products,50.7,215.0,3.3,4.1,41.1,,0.8,,,,,,,,,,,,,,
+HR011,"Quail egg, fresh",Eggs,Raw,79.8,116.0,10.7,7.0,1.6,0.0,0.9,65.0,191.0,3.5,111.0,11.0,0.05,1.2,95.0,80.0,0.13,0.65,0.1,,0.0
+JP004,Quark,Milk and Dairy Products,Processed/Products,59.0,242.0,19.0,17.0,3.0,0.0,2.0,300.0,350.0,0.5,37.0,72.7,0.01,0.2,173.0,0.0,0.03,0.38,0.0,,
+FR020,"Rabbit, meat, fresh",Meat and Poultry,Raw,74.3,142.0,16.9,7.8,0.0,0.0,1.0,7.0,350.0,1.0,49.0,371.1,,,0.0,0.0,0.11,0.11,6.8,0.0,
+DR051,"Radish leaves, fresh",Vegetables,Raw,90.0,30.0,2.3,0.4,5.8,3.2,1.4,140.0,33.0,3.7,16.0,747.4,0.2,0.2,,5039.0,0.07,1.1,6.5,1000.0,109.0
+DR126,"Radish, fresh",Vegetables,Raw,94.1,21.0,0.9,0.1,4.2,1.4,0.7,35.0,26.0,0.6,49.0,109.3,0.03,0.2,,0.0,0.03,0.04,0.3,10.0,32.0
+ER041,"Ragi orange, fresh",Fruits,Raw,87.6,49.0,0.7,0.2,11.1,0.5,0.4,36.0,67.0,0.7,4.0,457.3,155.0,0.2,,0.0,0.03,0.03,0.2,68.0,30.0
+ER096,"Rambutan binjai, fresh",Fruits,Raw,81.0,76.0,0.5,0.2,18.0,3.8,0.3,15.0,22.0,1.2,22.0,120.0,0.2,0.2,,0.0,0.19,0.01,0.4,,13.0
+ER097,"Rambutan, fresh",Fruits,Raw,80.5,69.0,0.9,0.1,18.1,0.8,0.4,16.0,16.0,0.5,16.0,104.2,0.17,0.1,,0.0,0.0,0.07,0.5,0.0,58.0
+DR098,Ranti peas beans,Vegetables,Raw,88.5,37.0,3.1,0.2,7.9,2.5,0.3,103.0,126.0,0.8,,,,,,,0.02,,,2312.0,6.0
+BP055,Rasbi (Sweet potato rice),Starchy Roots & Tubers,Processed/Products,11.1,394.0,2.2,8.8,76.6,6.8,1.3,68.0,76.0,1.6,165.0,388.0,0.4,0.4,,0.0,0.02,0.3,1.2,0.0,0.0
+BP056,Rasi (Cassava rice),Starchy Roots & Tubers,Processed/Products,12.6,350.0,0.9,0.4,85.7,14.4,0.5,42.0,21.0,1.5,8.0,14.0,0.3,0.5,,0.0,0.02,0.02,0.4,0.0,0.0
+ER005,"Raspberry, fresh",Fruits,Raw,89.9,37.0,0.8,0.5,8.3,,0.5,28.0,27.0,0.8,2.0,43.0,63.52,18.9,,2.0,0.03,0.0,0.1,60.0,60.0
+FP087,"Rat rica, dish",Meat and Poultry,Processed/Products,54.9,257.0,18.8,18.5,3.8,,4.0,232.0,293.0,6.5,1724.0,308.0,0.5,2.3,674.0,,0.28,0.38,,,
+DR151,"Ratoon sugarcane, fresh",Vegetables,Raw,91.0,30.0,4.6,0.4,3.0,0.8,1.0,40.0,80.0,2.0,699.0,,0.2,1.1,,12.0,0.08,0.2,1.2,0.0,50.0
+ER090,"Rattan banana, fresh",Fruits,Raw,76.1,98.0,1.3,1.2,20.5,1.0,0.9,17.0,51.0,1.1,24.0,406.9,0.21,0.5,,37.0,0.01,0.1,0.9,697.0,2.0
+DP055,Rattan umbut soup,Vegetables,Processed/Products,87.6,57.0,5.4,2.6,3.1,1.6,1.3,184.0,135.0,1.2,256.0,81.0,0.2,0.9,,18.0,0.2,,,0.0,6.0
+DR165,"Rattan, unripe shoot",Vegetables,Raw,90.5,34.0,2.4,0.3,5.5,2.2,1.3,89.0,79.0,1.3,8.0,552.0,0.2,1.9,,14.0,0.2,,,,9.0
+FP061,"Rawon, dish",Meat and Poultry,Processed/Products,86.0,60.0,5.4,2.5,4.0,,2.1,272.0,153.0,3.3,,,,,10.0,,0.09,,,1235.0,0.0
+GR064,"Rebon, small shrimp, fresh",Fish and Other Seafood,Raw,75.3,95.0,15.8,0.7,6.5,0.0,1.7,503.0,354.0,0.2,58.0,294.0,1.6,1.2,,,0.18,0.02,1.9,,
+GP047,"Rebung laut, raw",Fish and Other Seafood,Processed/Products,21.6,299.0,59.4,3.6,3.2,0.0,12.2,2306.0,625.0,21.4,,,,,0.0,0.0,0.06,,,,0.0
+ER083,"Red banana, fresh",Fruits,Raw,75.4,96.0,1.0,0.2,22.5,0.6,0.9,87.0,173.0,0.6,6.0,418.8,0.22,0.5,,38.0,0.04,0.1,0.9,58.0,2.0
+NP013,Red belachan,Herbs and Spices,Processed/Products,40.0,174.0,30.0,3.5,5.6,2.2,20.4,100.0,150.0,3.1,7850.0,302.8,0.49,1.2,,0.0,0.0,0.12,1.7,0.0,0.0
+DR114,"Red cabbage, cabbage",Vegetables,Raw,92.4,29.0,1.4,0.2,5.3,1.9,0.9,46.0,31.0,0.5,28.0,236.8,0.29,0.3,,46.0,0.06,0.07,0.3,80.0,50.0
+NR011,"Red capsicum, fresh",Herbs and Spices,Raw,90.8,38.0,1.6,0.8,6.3,1.6,0.6,49.0,41.0,1.1,7.0,275.3,0.12,0.2,,5897.0,0.21,0.12,0.0,3240.0,16.0
+NR013,"Red chili, dried",Herbs and Spices,Raw,10.0,367.0,15.9,6.2,61.8,26.9,6.1,160.0,370.0,2.3,25.0,181.5,1.2,1.8,,10955.0,0.4,1.36,4.4,576.0,50.0
+NR014,"Red chili, fresh",Herbs and Spices,Raw,90.9,36.0,1.0,0.3,7.3,1.4,0.5,29.0,24.0,0.5,23.0,272.4,0.12,0.2,,5833.0,0.05,0.09,3.0,470.0,18.0
+ER012,"Red dragon fruit, fresh",Fruits,Raw,85.7,71.0,1.7,3.1,9.1,3.2,0.4,13.0,14.0,0.4,10.0,128.0,0.0,0.4,,0.0,0.5,0.3,0.5,0.0,1.0
+DR012,Red fruit,Vegetables,Raw,81.2,87.0,2.6,2.7,13.1,4.0,0.4,30.0,1.0,1.1,110.0,140.0,0.1,0.3,0.0,0.0,1.5,0.1,0.2,,15.0
+GR053,"Red mamar fish, fresh",Fish and Other Seafood,Raw,74.4,132.0,17.0,6.6,1.1,0.0,0.9,31.0,173.0,1.6,77.0,346.0,0.7,0.8,,7.0,0.2,0.03,1.7,,
+AP005,Red rice,Cereals,Processed/Products,64.0,149.0,2.8,0.4,32.5,0.3,0.3,6.0,63.0,0.8,5.0,91.4,0.2,0.9,0.0,0.0,0.06,0.0,1.6,0.0,0.0
+CR051,"Red saga, peeled, raw",Grains and Legumes,Raw,8.1,449.0,30.6,25.5,31.9,3.5,3.9,1062.0,161.0,14.2,66.0,1496.5,0.07,5.7,,,0.09,1.5,10.9,107.0,7.0
+GP069,"Red smoked fish, dish",Fish and Other Seafood,Processed/Products,69.2,146.0,17.7,5.9,5.6,,1.6,100.0,240.0,4.0,170.0,310.0,0.3,1.4,224.0,0.0,,,,,
+DR009,"Red spinach, fresh",Vegetables,Raw,88.5,41.0,2.2,0.8,6.3,2.2,2.2,520.0,80.0,7.0,20.0,60.0,0.2,0.8,0.0,7325.0,0.2,0.1,0.1,,62.0
+DR079,"Red sweet potato leaves, fresh",Vegetables,Raw,84.4,48.0,3.0,0.3,10.8,1.4,1.5,80.0,81.0,6.4,33.0,517.3,0.0,0.4,0.0,5453.0,0.1,0.2,1.2,4697.0,27.0
+DP010,"Red sweet potato, steamed",Vegetables,Processed/Products,82.5,56.0,3.1,0.3,13.0,1.5,1.1,78.0,52.0,4.3,28.0,472.8,0.1,0.4,,5277.0,0.0,0.2,1.1,5397.0,14.0
+DR161,"Red tomato, fresh",Vegetables,Raw,92.9,24.0,1.3,0.5,4.7,1.5,0.6,8.0,77.0,0.6,10.0,164.9,0.14,0.2,,575.0,0.06,0.07,0.4,2083.0,34.0
+CP056,"Rempeyek, with black-eyed pea",Grains and Legumes,Processed/Products,6.1,451.0,11.2,20.2,59.7,1.8,2.8,156.0,221.0,4.6,,,,,,,0.02,,,0.0,0.0
+CP055,"Rempeyek, with peanut",Grains and Legumes,Processed/Products,3.9,513.0,17.5,32.5,44.3,1.7,1.8,65.0,202.0,2.6,,,,,,,0.1,,,0.0,0.0
+CP057,"Rempeyek, with ricebean",Grains and Legumes,Processed/Products,4.0,497.0,17.0,27.6,50.8,2.4,3.4,166.0,89.0,6.7,,,,,,,0.05,,,0.0,0.0
+AP102,"Renggi, fried",Cereals,Processed/Products,8.8,471.0,4.7,21.8,64.1,6.4,0.6,4.0,80.0,1.1,126.0,29.0,0.9,1.3,0.0,0.0,0.53,0.05,8.2,0.0,0.0
+EP008,Rica-rica taipa,Fruits,Processed/Products,86.7,49.0,1.6,0.3,10.0,,1.4,11.0,48.0,3.0,426.0,42.0,0.5,0.5,,13.0,0.18,,,,15.0
+AP001,Rice,Cereals,Processed/Products,56.7,180.0,3.0,0.3,39.8,0.2,0.2,25.0,27.0,0.4,1.0,38.0,0.1,0.6,0.0,0.0,0.05,0.1,2.6,,0.0
+AP050,"Rice crust, fried",Cereals,Processed/Products,6.5,474.0,7.6,21.6,62.3,1.2,2.0,36.0,64.0,2.5,0.0,38.0,0.05,0.5,,0.0,0.25,0.03,0.8,200.0,0.0
+AP047,Rice emping,Cereals,Processed/Products,13.6,403.0,10.6,2.2,85.3,0.2,1.9,11.0,240.0,0.3,1.0,113.0,0.3,2.4,,,0.0,0.16,,0.0,0.0
+AP098,Rice pundut,Cereals,Processed/Products,77.8,104.0,1.9,4.1,15.1,0.4,1.1,26.0,100.0,1.5,74.0,174.0,0.0,0.0,,,,,,,
+BP019,"Rice, ""Cerdas""",Starchy Roots & Tubers,Processed/Products,11.3,350.0,2.7,1.1,82.3,6.2,2.6,28.0,351.0,2.9,358.0,568.0,0.2,0.9,,0.0,0.02,0.2,0.3,0.0,0.0
+AR004,"Rice, black, raw",Cereals,Raw,12.9,351.0,8.0,1.3,76.9,20.1,0.9,6.0,198.0,0.1,15.0,105.0,0.1,1.6,0.0,0.0,0.21,0.06,0.0,0.0,0.0
+AP004,"Rice, flour, raw",Cereals,Processed/Products,12.0,353.0,7.0,0.5,80.0,2.4,0.5,5.0,140.0,0.8,5.0,241.0,0.1,0.8,0.0,0.0,0.12,0.1,1.2,0.0,0.0
+BP020,"Rice, ganyong",Starchy Roots & Tubers,Processed/Products,9.3,364.0,3.4,0.7,86.3,4.7,0.5,4.0,47.0,5.0,4.0,72.2,0.2,0.6,,1.0,0.02,0.02,0.3,0.0,0.0
+AR012,"Rice, mashed, raw",Cereals,Raw,11.5,354.0,7.8,0.4,79.9,3.8,0.4,3.0,112.0,0.6,5.0,85.0,0.5,1.5,0.0,0.0,0.25,0.22,5.1,,0.0
+AR001,"Rice, milled, raw",Cereals,Raw,,357.0,8.4,1.7,77.1,0.2,0.8,147.0,81.0,1.8,27.0,71.0,0.1,0.5,0.0,0.0,0.2,0.08,2.6,0.0,0.0
+AR002,"Rice, milled, variant pelita, raw",Cereals,Raw,,369.0,9.5,1.4,77.1,0.4,0.6,68.0,171.0,1.4,34.0,0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.0,0.0
+AR003,"Rice, milled, variant rojolele, raw",Cereals,Raw,12.0,357.0,8.4,1.7,77.1,0.2,0.8,147.0,81.0,1.8,34.0,112.9,0.14,0.1,,0.0,0.2,0.02,1.5,80.0,0.0
+AR011,"Rice, parboiled",Cereals,Raw,10.0,353.0,6.8,0.6,80.0,0.5,2.5,5.0,142.0,0.8,2.0,46.0,0.28,1.0,0.0,0.0,0.22,0.11,3.4,,0.0
+AR013,"Rice, red, mashed, raw",Cereals,Raw,14.6,352.0,7.3,0.9,76.2,0.8,1.0,15.0,257.0,4.2,10.0,202.0,0.36,1.9,0.0,0.0,0.34,0.0,3.3,0.0,0.0
+BP021,"Rice, siger",Starchy Roots & Tubers,Processed/Products,13.5,344.0,1.1,0.2,28.3,5.6,0.7,32.0,22.0,5.6,106.0,77.9,0.1,0.5,,0.0,0.02,0.1,0.2,0.0,0.0
+AP002,"Rice, steamed",Cereals,Processed/Products,71.0,120.0,2.4,0.4,26.0,0.5,0.2,3.0,7.0,0.4,0.0,23.9,0.1,0.4,,0.0,0.1,0.0,1.4,,0.0
+AP003,"Rice, tapai",Cereals,Processed/Products,75.5,99.0,1.7,0.3,22.4,0.0,0.1,4.0,19.0,0.0,26.0,2.0,0.1,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CR035,"Ricebean, dried",Grains and Legumes,Raw,9.9,358.0,23.4,2.4,60.6,7.4,3.7,269.0,264.0,0.5,13.0,1457.7,0.35,,,20.0,0.1,0.2,2.5,,2.0
+CR007,"Ricebean, seeds, dried",Grains and Legumes,Raw,14.0,331.0,25.0,1.0,58.0,23.6,2.0,80.0,400.0,5.0,12.0,1322.4,0.68,2.7,0.0,,0.3,0.75,2.3,,
+ER043,"Ripe ambarella, fresh",Fruits,Raw,88.0,46.0,1.0,0.1,10.3,2.6,0.6,15.0,22.0,2.8,2.0,216.2,0.03,0.1,,164.0,0.08,0.23,0.3,233.0,30.0
+ER110,"Ripe breadfruit, fresh",Fruits,Raw,67.8,126.0,1.6,0.2,24.5,1.5,1.0,37.0,47.0,1.6,25.0,436.0,0.09,0.1,,30.0,0.18,0.17,3.9,2000.0,58.0
+KR002,"Ripe coconut, meat, fresh",Fat and Oil,Raw,46.9,359.0,3.4,34.7,14.0,4.7,1.0,21.0,98.0,2.0,3.0,293.9,0.44,1.1,0.0,0.0,0.1,0.0,0.0,,2.0
+ER028,Ripe plum mango,Fruits,Raw,80.8,68.0,0.7,0.1,18.0,2.2,0.4,9.0,20.0,1.0,3.0,129.0,,,,329.0,0.03,0.07,0.7,1020.0,111.0
+CR047,"River tamarind, seeds, old, fresh",Grains and Legumes,Raw,61.4,148.0,10.6,0.5,26.2,17.0,1.3,155.0,59.0,2.2,28.0,628.5,0.03,2.4,,,0.23,0.49,2.8,416.0,20.0
+CR046,"River tamarind, seeds, young, fresh",Grains and Legumes,Raw,77.4,85.0,5.7,0.3,15.4,10.8,1.2,180.0,53.0,2.7,35.0,485.7,0.02,1.4,,0.0,0.08,1.15,1.0,423.0,15.0
+CR048,"River tamarind, variant gung, without skin",Grains and Legumes,Raw,10.2,367.0,46.4,5.4,32.5,2.6,4.4,136.0,441.0,23.3,65.0,1462.3,0.07,5.6,,,0.06,1.15,1.0,18900.0,9.0
+CR049,"River tamarind, variant local, with skin",Grains and Legumes,Raw,13.5,336.0,23.8,1.2,59.7,15.4,1.8,867.0,321.0,1.5,134.0,1858.9,0.07,5.4,,,0.15,1.34,0.9,321.0,16.0
+GR027,"Rohu fish, fresh",Fish and Other Seafood,Raw,78.2,101.0,10.3,3.7,6.7,0.0,1.1,50.0,140.0,0.4,70.0,210.0,,0.4,67.0,,0.0,0.1,0.1,,
+AP103,Roti boong,Cereals,Processed/Products,34.0,341.0,5.5,16.2,43.3,,1.0,15.0,65.0,1.1,161.0,41.0,,0.9,,,0.4,0.3,2.4,,0.0
+CP020,"Rubber seeds, bungkil",Grains and Legumes,Processed/Products,12.0,333.0,29.3,3.3,50.0,,29.4,102.0,660.0,12.0,,,,,0.0,,0.1,,,,0.0
+EP009,Rujak aceh,Fruits,Processed/Products,78.7,82.0,0.4,0.3,19.7,2.4,0.9,,,,,,,,,10.0,0.22,0.03,,,42.0
+DP046,Rujak cingur,Vegetables,Processed/Products,70.1,153.0,11.3,8.4,8.0,1.4,1.4,256.0,143.0,4.4,,,,,18.0,,0.16,,,2880.0,2.0
+ER018,"Ruruhi fruit (Syzygium polycephalum Merr), fresh",Fruits,Raw,93.0,29.0,2.1,0.7,3.6,2.6,0.3,6.0,7.0,0.0,36.0,45.0,0.0,0.1,,7.0,0.06,0.01,,,10.0
+GP048,Rusip,Fish and Other Seafood,Processed/Products,18.2,320.0,7.2,4.2,63.3,,7.1,240.0,570.0,6.6,20.0,1040.0,1.5,6.2,917.0,,0.0,0.0,4.9,,
+FP063,"RW, dog, dish",Meat and Poultry,Processed/Products,60.8,198.0,24.6,10.7,0.9,,3.0,1071.0,876.0,4.0,1604.0,226.0,0.1,2.8,256.0,,0.35,0.2,,,
+ER081,"Saba banana, fresh",Fruits,Raw,71.9,109.0,0.8,0.5,26.3,5.7,1.0,10.0,30.0,0.5,10.0,300.0,0.1,0.2,,0.0,0.1,0.0,0.1,,9.0
+GP088,"Saboko saltan, dish",Fish and Other Seafood,Processed/Products,76.0,113.0,17.1,3.6,3.0,,0.3,240.0,60.0,0.5,40.0,350.0,0.2,0.6,27.0,,,,0.1,,
+FR034,"Sago caterpillar, fresh",Meat and Poultry,Raw,65.9,241.0,5.8,21.6,5.8,2.8,0.9,20.0,70.0,0.5,210.0,210.0,1.0,7.7,,0.0,0.17,1.45,0.1,,
+FP020,"Sago caterpillar, roasted",Meat and Poultry,Processed/Products,41.3,380.0,11.9,30.3,14.9,4.8,1.6,30.0,120.0,1.5,260.0,550.0,3.1,14.2,,0.0,0.5,2.5,0.1,,
+DR091,Sago mushroom,Vegetables,Raw,91.3,48.0,1.9,3.2,2.8,1.0,0.8,10.0,90.0,0.6,100.0,440.0,0.6,0.6,,0.0,0.2,0.2,6.5,,
+BP023,Sago porridge,Starchy Roots & Tubers,Processed/Products,62.5,167.0,0.2,4.0,33.0,,0.3,3.0,3.0,0.1,7.0,0.0,0.1,0.1,0.0,0.0,9.0,,0.1,0.0,0.0
+BR018,"Sago, aren, dried",Starchy Roots & Tubers,Raw,11.9,355.0,0.6,1.1,85.6,0.3,0.8,91.0,167.0,2.2,2.0,200.0,0.0,0.3,,,0.04,0.1,0.5,0.0,0.0
+BR019,"Sago, aren, fresh",Starchy Roots & Tubers,Raw,42.5,231.0,0.6,0.2,56.6,3.2,0.1,20.0,20.0,0.1,7.0,0.0,0.1,0.1,0.0,,0.2,0.0,0.0,0.0,0.0
+BR022,"Sago, cassava, dried",Starchy Roots & Tubers,Raw,12.0,362.0,0.5,0.3,86.9,,0.3,0.0,0.0,0.0,,,,,,0.0,0.0,,,0.0,0.0
+BR020,"Sago, kasbi, fresh",Starchy Roots & Tubers,Raw,42.5,230.0,0.6,0.2,56.5,3.0,0.2,20.0,1.0,0.3,100.0,410.0,0.1,0.2,0.0,0.0,0.1,0.0,0.0,0.0,0.0
+BR021,"Sago, lempeng",Starchy Roots & Tubers,Raw,13.5,347.0,0.9,0.3,85.2,4.7,0.1,30.0,30.0,0.2,11.0,0.0,0.1,0.1,0.0,0.0,0.3,0.0,0.0,,0.0
+BP052,"Sago, ongol-ongol",Starchy Roots & Tubers,Processed/Products,75.3,111.0,0.3,2.7,21.2,0.3,0.5,79.0,15.0,1.7,,,,,0.0,,0.06,,,0.0,0.0
+BP058,Sagu lemak (Kue Sagon),Starchy Roots & Tubers,Processed/Products,4.3,452.0,2.8,14.8,76.8,1.1,0.7,15.0,39.0,1.1,182.0,52.7,0.04,0.8,,1220.0,0.32,0.04,0.1,0.0,0.0
+BP060,Sagu rendang,Starchy Roots & Tubers,Processed/Products,8.2,364.0,0.1,0.2,90.5,1.9,1.0,13.0,9.0,3.9,42.0,15.1,0.1,0.1,,0.0,0.02,0.6,0.8,0.0,0.0
+ER025,"Saipan mango, fresh",Fruits,Raw,72.5,98.0,1.4,0.2,25.4,1.9,0.5,21.0,15.0,0.5,3.0,250.9,0.13,0.1,,2533.0,0.03,0.09,0.7,1218.0,56.0
+ER101,"Salak (snake fruit), fresh",Fruits,Raw,78.0,77.0,0.4,,20.9,,0.7,28.0,18.0,4.2,,,0.08,0.2,,4.0,0.04,,,0.0,2.0
+ER098,"Salak bali, fresh",Fruits,Raw,85.1,57.0,0.5,0.1,13.6,1.3,0.7,94.0,25.0,2.1,,,0.08,0.2,0.0,3.0,0.0,,,37.0,0.0
+ER099,"Salak medan, fresh",Fruits,Raw,78.1,55.0,0.4,0.2,12.8,3.2,8.5,6.0,46.0,0.5,39.0,113.0,0.2,0.3,0.0,4.0,0.04,0.03,,,58.0
+ER100,"Salak pondoh, fresh",Fruits,Raw,77.9,87.0,0.8,0.4,20.1,0.0,0.8,38.0,31.0,3.9,,,0.08,0.2,0.0,,0.0,0.12,0.1,40.0,8.0
+GR072,"Sale fish, fresh",Fish and Other Seafood,Raw,81.0,64.0,12.0,1.0,2.0,0.0,4.0,217.0,78.0,1.7,231.0,,0.37,0.1,0.0,244.0,,,,,
+GP004,"Salted fish, dried",Fish and Other Seafood,Processed/Products,40.0,193.0,42.0,1.5,0.0,0.0,16.5,200.0,300.0,0.0,,,,,,,0.01,,,,0.0
+GP018,"Salted lomak, raw",Fish and Other Seafood,Processed/Products,21.6,258.0,40.3,2.3,18.9,0.0,16.9,140.0,279.0,2.3,6227.0,485.1,2.3,,,,0.1,0.3,6.0,,
+GP009,"Salted skipjack tuna, raw",Fish and Other Seafood,Processed/Products,41.7,198.0,36.5,2.2,5.5,0.0,14.1,236.0,346.0,3.7,4304.0,302.1,,,0.0,,0.06,,,0.0,0.0
+EP013,Sanggara belanda,Fruits,Processed/Products,47.1,242.0,6.4,7.1,38.2,,1.2,,,,,,,,,,,,,,
+ER104,"Sapodilla, fresh",Fruits,Raw,75.5,92.0,0.5,1.1,22.4,9.5,0.5,25.0,12.0,1.0,26.0,110.2,0.04,0.1,0.0,111.0,0.01,0.04,1.4,60.0,21.0
+GP089,"Sardine saboko, dish",Fish and Other Seafood,Processed/Products,70.0,110.0,12.9,4.3,4.9,,7.9,220.0,520.0,6.0,200.0,280.0,0.2,3.9,37.0,,,,,,
+GR066,"Sardine, fresh",Fish and Other Seafood,Raw,78.9,101.0,15.1,4.1,1.0,0.0,0.9,32.0,163.0,0.0,50.0,320.0,0.7,0.6,,,0.02,0.05,1.5,,
+AP105,Sarimuka,Cereals,Processed/Products,61.5,166.0,2.3,2.8,32.9,,0.5,36.0,13.0,2.0,3.0,34.0,0.0,0.0,,,,,,,
+FP064,"Satay, turtle, dish",Meat and Poultry,Processed/Products,57.4,179.0,22.5,3.5,13.3,0.0,3.3,187.0,238.0,14.4,,,,0.0,,0.0,0.1,,0.0,,
+FP073,"Saudara soup, dish",Meat and Poultry,Processed/Products,82.4,89.0,7.2,5.0,3.9,,1.5,10.0,174.0,9.0,274.0,50.0,0.2,1.1,,,0.09,0.12,2.0,,0.0
+DP059,Sauted spinach with coconut milk,Vegetables,Processed/Products,91.2,48.0,1.4,4.2,2.6,0.5,0.6,129.0,27.0,0.8,,,,,0.0,,0.01,,,2988.0,22.0
+CP058,Sayur lebui,Grains and Legumes,Processed/Products,83.9,64.0,2.1,0.6,12.5,5.7,0.9,21.0,2.0,1.0,124.0,146.0,0.2,0.7,,14.0,,0.0,0.1,,
+GP050,"Sea cucumber, jerky, raw",Fish and Other Seafood,Processed/Products,12.5,462.0,39.1,32.4,3.5,0.0,12.5,499.0,616.0,96.4,315.0,402.5,,,2.0,0.0,1.37,0.0,5.3,144.0,0.0
+DR140,Seaweed,Vegetables,Raw,87.0,41.0,1.4,0.3,8.1,2.2,3.2,80.0,20.0,1.6,250.0,380.0,0.2,0.4,,1958.0,0.2,0.0,0.1,,7.0
+GP032,"Seluang fish, dried, raw",Fish and Other Seafood,Processed/Products,12.4,415.0,61.3,17.6,2.9,0.0,5.8,258.0,919.0,7.0,381.0,488.0,17.6,1.0,0.0,,0.03,0.1,17.3,0.0,0.0
+GR007,"Seluang fish, fresh",Fish and Other Seafood,Raw,74.0,123.0,20.0,4.8,0.0,0.0,1.2,20.0,150.0,2.0,67.0,271.1,0.0,0.9,45.0,21.0,0.05,0.1,6.0,,0.0
+GR065,"Seluang fish, fresh",Fish and Other Seafood,Raw,65.0,204.0,16.0,15.0,0.0,0.0,4.0,20.0,200.0,2.0,341.0,291.0,0.4,2.6,30.0,0.0,0.05,0.0,5.6,,0.0
+KR001,"Semi-ripe coconut, meat, fresh",Fat and Oil,Raw,70.0,180.0,4.0,15.0,10.0,2.4,1.0,8.0,55.0,1.3,4.0,317.7,0.29,2.9,,0.0,0.05,0.01,0.1,10.0,4.0
+ER084,"Senorita banana, fresh",Fruits,Raw,72.1,99.0,1.3,0.2,25.6,4.3,0.8,10.0,19.0,0.9,28.0,475.0,0.25,0.5,,43.0,0.07,0.12,1.0,618.0,4.0
+GP091,"Sepi, dish",Fish and Other Seafood,Processed/Products,66.1,88.0,7.9,1.6,10.6,,13.8,924.0,350.0,2.3,873.0,258.0,1.0,1.1,783.0,,,,,,
+DR027,"Serang goseweed leaves, fresh",Vegetables,Raw,84.6,62.0,4.2,0.9,9.2,1.3,1.1,171.0,64.0,0.6,,,,,0.0,,0.02,,,7347.0,20.0
+KR013,Sesame oil,Fat and Oil,Raw,0.1,881.0,0.2,99.7,0.0,0.0,0.0,10.0,5.0,0.1,2.0,20.0,0.0,0.0,0.0,0.0,0.01,0.07,0.1,,0.0
+CR052,"Sesame, raw",Grains and Legumes,Raw,5.8,568.0,19.3,51.1,18.1,3.6,5.8,1125.0,614.0,9.5,18.0,303.7,4.16,7.9,,15.0,0.93,0.2,5.7,,0.0
+DP056,Shabu-shabu,Vegetables,Processed/Products,87.1,88.0,3.2,8.0,0.8,0.9,0.9,217.0,48.0,2.9,514.0,,,,82.0,,0.2,,,2000.0,0.0
+NR007,"Shallot, fresh",Herbs and Spices,Raw,88.0,46.0,1.5,0.3,9.2,1.7,1.0,36.0,40.0,0.8,7.0,178.6,0.06,0.2,,2.0,0.03,0.04,0.2,,2.0
+DR018,"Shallot, leaf, fresh",Vegetables,Raw,89.1,41.0,2.0,0.3,7.8,2.1,0.8,60.0,40.0,2.3,30.0,90.0,0.1,0.3,0.0,218.0,0.1,0.1,0.2,,11.0
+DR137,Shameplant,Vegetables,Raw,80.2,76.0,3.6,0.3,14.6,7.1,1.3,119.0,84.0,3.3,1.0,631.0,0.6,1.4,,4762.0,0.6,0.6,,,6.0
+KR007,"Shark oil, liver",Fat and Oil,Raw,0.0,902.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21212.0,0.0,0.0,0.0,0.0,,0.0
+GP014,"Shark, fish, dried",Fish and Other Seafood,Processed/Products,23.1,298.0,46.3,3.6,20.2,,6.8,335.0,846.0,2.5,957.0,1457.0,0.5,2.0,661.0,,0.84,0.11,22.5,,
+GR028,"Shark, fresh",Fish and Other Seafood,Raw,85.7,57.0,10.7,0.3,2.2,0.0,1.1,75.0,206.0,2.0,,,0.02,,,,0.05,,,0.0,0.0
+DR053,"Shield aralia leaves, fresh",Vegetables,Raw,82.0,57.0,3.7,0.3,11.8,,2.2,474.0,49.0,4.0,,,,,,,0.06,,,5450.0,83.0
+GP054,Shredded fish,Fish and Other Seafood,Processed/Products,6.4,435.0,27.2,20.2,36.1,,10.1,,,,,,,,,,,0.8,24.3,,
+GP053,Shreded snakehead murrel,Fish and Other Seafood,Processed/Products,11.6,513.0,23.7,37.0,21.3,,6.4,25.0,25.0,0.5,61.0,15.0,0.0,0.2,,,,,,,
+NP008,Shrimp paste,Herbs and Spices,Processed/Products,39.0,220.0,15.0,0.9,38.0,2.3,7.1,37.0,36.0,2.8,7981.0,307.9,0.5,1.3,,0.0,0.01,0.13,1.7,0.0,0.0
+BP045,"Shrimp, chips, fried",Starchy Roots & Tubers,Processed/Products,4.4,477.0,4.7,20.5,68.5,5.0,1.9,24.0,188.0,0.9,449.0,109.0,0.1,0.2,,0.0,0.2,0.0,0.9,,0.0
+FP067,"Sie reuboh, dish",Meat and Poultry,Processed/Products,32.4,474.0,11.2,42.5,11.7,,2.2,26.0,62.0,1.3,677.0,176.0,2.4,3.2,141.0,9.0,0.46,0.26,,,
+GR009,"Silver pomfret, fresh",Fish and Other Seafood,Raw,80.0,78.0,14.5,0.6,3.7,0.0,1.2,26.0,521.0,3.8,26.0,692.0,4.7,4.1,732.0,0.0,0.2,0.04,3.0,,0.0
+DR070,"Singkil leaves, fresh",Vegetables,Raw,80.9,68.0,2.0,1.0,15.2,3.3,0.9,178.0,86.0,2.1,,,,,,,0.02,,,6042.0,3.0
+BP061,Sinole sago,Starchy Roots & Tubers,Processed/Products,22.0,354.0,0.8,8.3,68.9,,0.1,10.0,30.0,0.8,30.0,11.0,0.2,0.3,0.0,0.0,,,,0.0,0.0
+GP090,Skewered milkfish,Fish and Other Seafood,Processed/Products,47.1,283.0,12.1,16.8,20.9,2.0,3.1,118.0,186.0,1.2,543.0,199.0,0.2,0.9,,2.0,0.02,0.02,0.0,0.0,0.0
+JP010,"Skimmed milk, fresh",Milk and Dairy Products,Processed/Products,90.5,36.0,3.5,0.1,5.1,,0.8,123.0,97.0,0.1,38.0,,,,0.0,,0.04,,,,1.0
+JP009,"Skimmed milk, powder",Milk and Dairy Products,Processed/Products,3.5,359.0,35.6,1.0,52.0,0.0,7.9,1300.0,1030.0,0.6,470.0,1745.0,0.04,4.1,,10.0,0.35,1.05,1.2,,7.0
+GP081,Skin pempek,Fish and Other Seafood,Processed/Products,45.7,243.0,5.2,7.3,39.1,,2.7,16.0,96.0,2.0,555.0,102.0,0.1,0.6,,,0.2,0.02,0.9,,
+GR018,"Skipjack tuna, fresh",Fish and Other Seafood,Raw,66.7,134.0,25.5,1.3,5.0,,1.5,29.0,29.0,0.5,197.0,489.0,0.1,0.5,,,0.3,0.02,0.8,,
+GR020,"Skipjack tuna, heart, fresh",Fish and Other Seafood,Raw,73.4,120.0,11.3,3.9,10.0,,1.4,30.0,30.0,0.9,420.0,280.0,1.6,4.3,,,,,0.2,,
+GR019,"Skipjack tuna, liver, fresh",Fish and Other Seafood,Raw,73.0,107.0,19.6,0.7,5.5,0.0,1.2,23.0,242.0,2.9,66.0,239.0,0.2,0.6,386.0,0.0,0.17,0.05,21.7,,0.0
+GR021,"Skipjack tuna, stomach, fresh",Fish and Other Seafood,Raw,76.3,116.0,11.2,1.2,10.2,,1.1,10.0,40.0,3.4,360.0,250.0,0.5,1.9,908.0,,,,0.1,,0.0
+AR010,"Small broken rice, raw",Cereals,Raw,12.0,362.0,7.7,4.4,73.0,0.2,0.2,22.0,272.0,3.7,90.0,201.0,0.1,0.5,0.0,0.0,0.55,0.0,1.9,,0.0
+GP046,"Small shrimp (Acetes), dried, raw",Fish and Other Seafood,Processed/Products,18.3,357.0,41.1,10.0,25.6,0.0,5.0,217.0,904.0,5.2,,,,,0.0,,0.27,,,329.0,0.0
+GP052,"Small shrimp, raw",Fish and Other Seafood,Processed/Products,24.5,273.0,47.8,3.8,12.5,,11.5,1109.0,789.0,2.4,651.0,802.0,2.6,10.8,,,,,,,
+GP031,"Smoked catfish, raw",Fish and Other Seafood,Processed/Products,8.5,534.0,40.2,39.3,4.9,2.0,7.1,199.0,1244.0,2.7,673.0,673.0,0.3,2.6,,410.0,0.02,0.5,0.0,0.0,0.0
+GP058,Smoked skipjack tuna (papua smoked),Fish and Other Seafood,Processed/Products,64.3,155.0,20.1,3.8,10.2,,1.6,20.0,240.0,2.1,90.0,390.0,0.3,0.1,86.0,,,0.7,0.2,,
+GP008,"Smoked skipjack tuna, raw",Fish and Other Seafood,Processed/Products,56.9,204.0,34.2,5.6,1.9,,1.4,14.0,399.0,1.3,176.0,588.0,0.3,0.7,1546.0,,0.53,0.07,,,
+GP011,"Smoked snakehead murrel, raw",Fish and Other Seafood,Processed/Products,26.4,261.0,38.1,2.3,21.9,0.0,11.3,2510.0,1840.0,2.9,320.0,410.0,0.4,0.8,114.0,,0.1,0.1,14.5,,
+GR037,"Snail, fresh",Fish and Other Seafood,Raw,82.1,70.0,10.8,0.7,5.2,,1.2,53.0,72.0,2.0,342.0,101.0,0.5,0.5,401.0,,0.22,0.05,5.8,,
+GP001,"Snail, jerky, raw",Fish and Other Seafood,Processed/Products,6.7,441.0,48.7,20.3,15.8,0.0,8.4,692.0,523.0,16.6,,,,,6.0,,0.56,,,1408.0,69.0
+DR132,"Snake gourd, fresh",Vegetables,Raw,95.1,19.0,0.6,0.1,3.9,1.0,0.3,20.0,10.0,0.4,130.0,30.0,0.1,0.1,,69.0,0.1,0.1,0.1,,9.0
+GP012,"Snakehead murrel, dried",Fish and Other Seafood,Processed/Products,24.0,268.0,58.0,4.0,0.0,0.0,14.0,15.0,100.0,0.1,,,,,30.0,,0.1,,,,0.0
+GR025,"Snakehead murrel, fresh",Fish and Other Seafood,Raw,79.6,80.0,16.2,0.5,2.6,0.0,1.1,170.0,139.0,0.1,65.0,254.0,0.3,0.4,335.0,,0.4,0.2,0.1,,
+GP036,"Snakeskin gourami, dried, raw",Fish and Other Seafood,Processed/Products,43.0,194.0,38.0,3.5,0.0,0.0,15.5,20.0,200.0,1.0,,,,,0.0,0.0,0.01,,,,0.0
+GR068,"Snakeskin gourami, fresh",Fish and Other Seafood,Raw,80.0,74.0,10.3,1.4,4.1,0.0,4.2,972.0,253.0,3.9,554.0,126.1,305.2,0.2,13.0,0.0,0.24,0.1,1.9,28.0,0.0
+GR030,"Snapper, fresh",Fish and Other Seafood,Raw,77.0,92.0,20.0,0.7,0.0,0.0,2.3,20.0,200.0,1.0,,,,,9.0,,0.05,,,,0.0
+AR014,"Sorghum, raw",Cereals,Raw,11.0,366.0,11.0,3.3,73.0,1.2,1.7,28.0,287.0,4.4,7.0,249.0,,,0.0,0.0,0.09,0.14,2.8,,0.0
+FP074,"Soto bandung, dish",Meat and Poultry,Processed/Products,89.9,42.0,3.9,1.7,2.8,0.4,1.8,74.0,75.0,1.8,,,,,6.0,20.0,,,0.0,0.0,0.0
+FP075,"Soto banjar, dish",Meat and Poultry,Processed/Products,83.7,110.0,2.9,9.5,3.2,,0.7,28.0,28.0,0.3,36.0,6.0,0.0,0.2,12.0,,0.05,,,770.0,0.0
+FP076,"Soto betawi, dish",Meat and Poultry,Processed/Products,75.9,135.0,2.5,8.8,11.5,0.5,1.3,222.0,72.0,1.9,,,,,6.0,,0.04,,0.0,336.0,0.0
+FP078,"Soto kudus, masakan",Meat and Poultry,Processed/Products,91.6,38.0,2.6,2.3,1.8,0.2,1.7,237.0,67.0,1.7,,,,,23.0,,0.06,,0.5,128.0,0.0
+FP079,"Soto madura, dish",Meat and Poultry,Processed/Products,89.8,60.0,3.5,4.5,1.3,0.0,0.9,361.0,126.0,3.8,,,,,26.0,,0.06,,0.0,121.0,0.0
+FP080,"Soto padang, dish",Meat and Poultry,Processed/Products,75.0,127.0,5.9,6.6,11.0,0.7,2.0,298.0,94.0,1.5,,,,,12.0,,0.22,,0.0,204.0,0.0
+FP081,"Soto pekalongan, dish",Meat and Poultry,Processed/Products,83.8,94.0,3.0,6.8,5.1,0.3,1.3,322.0,79.0,2.0,,,,,14.0,,0.29,,0.0,119.0,0.0
+FP082,"Soto pemalang, dish",Meat and Poultry,Processed/Products,86.0,75.0,3.6,5.2,3.5,0.0,1.7,170.0,80.0,2.1,,,,,16.0,,0.13,,0.0,30.0,0.0
+FP083,"Soto sukaraja, dish",Meat and Poultry,Processed/Products,75.9,80.0,3.2,3.5,9.0,0.3,1.1,347.0,77.0,2.3,,,,,12.0,,0.04,,0.0,89.0,0.0
+FP084,"Soto sulung, dish",Meat and Poultry,Processed/Products,88.1,86.0,2.3,8.5,0.0,0.0,1.1,200.0,120.0,2.9,,,,,20.0,,0.08,,0.0,105.0,0.0
+DP053,Soup,Vegetables,Processed/Products,92.7,27.0,1.3,2.0,1.0,0.3,2.7,168.0,57.0,1.8,,,,,20.0,,0.1,,,2569.0,0.0
+DR155,"Sour eggplant, fresh",Vegetables,Raw,90.5,37.0,2.0,0.4,6.3,3.2,0.8,13.0,59.0,1.5,3.0,155.0,0.3,0.3,,97.0,0.2,0.1,0.8,,4.0
+JP005,"Sour milk for baby, powder",Milk and Dairy Products,Processed/Products,2.5,418.0,19.0,9.0,65.5,0.0,4.0,800.0,600.0,7.0,188.0,486.5,0.0,0.0,303.0,83.0,1.0,1.31,0.7,,30.0
+DP047,Sour soup,Vegetables,Processed/Products,93.2,29.0,0.7,0.6,5.0,0.6,0.8,40.0,61.0,3.1,,,,,14.0,,0.1,,,2075.0,0.0
+GP062,"Sour soup gete, dish",Fish and Other Seafood,Processed/Products,80.1,75.0,8.2,2.0,6.0,,3.8,1620.0,880.0,0.8,260.0,150.0,0.1,1.5,,,,,0.1,,
+ER106,"Soursop, fresh",Fruits,Raw,81.7,65.0,1.0,0.3,16.3,3.2,0.7,14.0,27.0,0.6,2.0,298.9,0.08,1.0,,8.0,0.07,0.08,0.7,10.0,20.0
+ER107,"Sowa, fresh",Fruits,Raw,87.7,48.0,1.6,0.6,9.1,45.0,10.0,50.0,40.0,0.3,9.0,0.0,0.1,1.5,0.0,364.0,0.15,0.23,0.2,,4.0
+KR010,Soy oil,Fat and Oil,Raw,0.1,883.0,0.0,99.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+CP060,Soybean milk,Grains and Legumes,Processed/Products,87.0,41.0,3.5,2.5,5.0,0.2,2.0,50.0,45.0,0.7,128.0,287.9,0.12,1.0,,,0.08,0.05,0.7,200.0,2.0
+CP059,"Soybean milk, powder",Grains and Legumes,Processed/Products,3.0,344.0,30.0,20.0,43.0,6.2,4.0,450.0,500.0,4.0,56.0,2572.3,2.99,4.0,,0.0,0.7,0.16,2.0,2000.0,10.0
+CP007,"Soybean, boiled",Grains and Legumes,Processed/Products,56.8,189.0,20.2,8.2,12.7,1.6,2.1,91.0,270.0,3.9,181.0,615.0,1.3,3.7,,4.0,0.2,0.04,0.5,15.0,0.0
+CR017,"Soybean, dried",Grains and Legumes,Raw,12.7,381.0,40.4,16.7,24.9,3.2,5.5,222.0,682.0,10.0,210.0,713.4,1.58,3.9,,237.0,0.52,0.12,1.2,31.0,
+CP086,"Soybean, flour",Grains and Legumes,Processed/Products,9.0,347.0,35.9,20.6,29.9,5.8,4.0,195.0,544.0,8.4,52.0,2522.6,4303.45,2.6,,0.0,0.77,0.32,2.1,140.0,0.0
+CR018,"Soybean, fresh",Grains and Legumes,Raw,20.0,286.0,30.2,15.6,30.1,2.9,4.1,196.0,506.0,6.9,28.0,870.9,1.24,3.6,,,0.93,0.26,1.8,95.0,
+CP006,"Soybean, fried",Grains and Legumes,Processed/Products,9.6,521.0,32.2,37.7,22.9,7.6,3.7,296.0,800.0,6.5,3492.0,11890.0,26.3,60.0,,,0.4,1.9,19.0,20.0,
+AP106,Spaghetti,Cereals,Processed/Products,66.1,139.0,7.4,2.1,22.6,,2.1,109.0,53.0,4.7,,,,,42.0,,0.35,,,940.0,0.0
+GP083,Spanish mackerel pempek,Fish and Other Seafood,Processed/Products,56.3,173.0,7.2,1.2,33.4,0.2,1.9,164.0,80.0,3.1,,,,,0.0,,0.02,,,0.0,0.0
+DP038,Spinach chips,Vegetables,Processed/Products,2.3,586.0,4.9,40.6,50.2,0.5,1.9,236.0,117.0,3.6,,,,,0.0,,0.16,,,4544.0,0.0
+DP002,"Spinach, boiled",Vegetables,Processed/Products,93.5,23.0,1.2,0.6,3.7,1.1,1.0,150.0,35.0,0.5,16.0,308.4,0.2,0.3,0.0,3282.0,0.02,0.1,0.9,2864.0,19.0
+DR008,"Spinach, fresh",Vegetables,Raw,94.5,16.0,0.9,0.4,2.9,0.7,1.3,166.0,76.0,3.5,16.0,456.4,0.13,0.4,,2699.0,0.04,0.1,1.0,2293.0,41.0
+DP001,"Spinach, steamed",Vegetables,Processed/Products,90.7,30.0,1.3,0.7,5.8,1.2,1.6,239.0,35.0,5.7,15.0,431.0,0.1,0.3,0.0,2699.0,0.02,0.1,0.9,3750.0,32.0
+GR074,"Spiny eel, fresh",Fish and Other Seafood,Raw,78.2,101.0,14.4,2.6,3.9,0.0,0.9,321.0,270.0,15.6,,,,,0.0,,0.01,,,0.0,0.0
+GR013,"Spotted barb, fresh",Fish and Other Seafood,Raw,79.2,80.0,14.7,1.4,2.2,0.0,2.3,303.0,315.0,1.3,41.0,356.0,0.0,0.8,,0.0,1.2,0.14,1.4,,
+GR079,"Spotted scat, fresh",Fish and Other Seafood,Raw,80.2,76.0,12.1,2.0,2.4,0.0,2.7,721.0,214.0,2.2,69.0,192.0,1.7,2.9,599.0,40.0,0.2,0.25,0.2,,
+DR150,"Sprouts of blackeyed pea, fresh",Vegetables,Raw,88.0,40.0,5.0,0.2,5.8,2.6,1.0,57.0,88.0,1.0,2.0,226.8,0.07,0.5,,299.0,0.07,0.08,0.8,0.0,15.0
+DR149,"Sprouts of soybean, fresh",Vegetables,Raw,81.0,76.0,9.0,2.6,6.4,0.7,1.0,50.0,65.0,1.0,5.0,212.4,0.26,0.7,,0.0,0.23,0.19,1.2,110.0,15.0
+DP018,"Sprouts, brewed",Vegetables,Processed/Products,91.9,28.0,3.0,0.8,4.0,1.0,0.3,52.0,73.0,0.5,18.0,58.3,0.19,0.4,,46.0,0.1,0.0,0.9,18.0,2.0
+DP017,"Sprouts, fried",Vegetables,Processed/Products,79.2,88.0,3.2,2.1,14.0,0.7,1.5,168.0,50.0,5.7,,,,,2.0,,0.05,,,613.0,0.0
+DR124,"Squash, fresh",Vegetables,Raw,91.2,32.0,1.1,0.1,6.6,0.5,1.0,45.0,64.0,1.4,1.0,356.2,0.13,0.3,,712.0,0.08,0.12,0.6,180.0,52.0
+BP040,"Squid, chips, fried",Starchy Roots & Tubers,Processed/Products,3.4,444.0,6.9,14.6,71.3,5.0,3.8,47.0,375.0,1.8,837.0,191.0,0.1,0.3,,,0.4,0.1,1.8,,0.0
+GR022,"Squid, fresh",Fish and Other Seafood,Raw,79.1,86.0,10.2,1.1,8.7,,0.9,20.0,110.0,2.1,230.0,210.0,0.3,9.3,,,0.24,,0.3,,
+GP003,"Squid, fried",Fish and Other Seafood,Processed/Products,54.2,265.0,40.6,10.1,0.0,0.0,3.1,62.0,270.0,2.7,86.0,81.9,,,0.0,56.0,0.09,0.0,6.3,0.0,0.0
+ER102,"Star apple, fresh",Fruits,Raw,87.3,64.0,1.0,3.1,8.0,0.8,0.6,18.0,45.0,0.8,13.0,111.4,0.02,0.1,0.0,0.0,0.01,0.02,0.1,0.0,1.0
+ER006,"Starfruit, fresh",Fruits,Raw,90.0,36.0,0.4,0.4,8.8,3.2,0.4,4.0,12.0,1.1,4.0,130.0,,0.1,,29.0,0.03,,,170.0,35.0
+GP095,Stir-fried keumamah,Fish and Other Seafood,Processed/Products,45.7,300.0,14.5,20.0,15.5,4.5,4.3,,,,,,,,,8.0,0.63,0.04,,,7.0
+GP094,Stir-fried milkfish,Fish and Other Seafood,Processed/Products,70.5,189.0,11.3,15.7,0.6,,1.9,56.0,129.0,0.4,314.0,280.0,0.1,0.7,579.0,,0.46,0.02,,,
+DR089,"Straw mushroom, fresh",Vegetables,Raw,91.5,30.0,3.5,0.2,4.0,2.4,0.8,14.0,117.0,1.0,6.0,300.0,0.3,0.8,,0.0,0.02,0.2,0.5,0.0,0.0
+GR006,"Streaked spinefoot, fresh",Fish and Other Seafood,Raw,73.7,112.0,20.0,1.3,3.7,0.0,1.3,98.0,120.0,3.0,148.0,258.7,0.0,0.1,0.0,0.0,0.07,0.0,0.3,0.0,0.0
+ER108,"Sugar apple, fresh",Fruits,Raw,83.4,63.0,1.1,0.5,13.9,2.1,1.1,127.0,30.0,2.7,,,,,0.0,,0.08,,,31.0,28.0
+FP032,"Sukabumi fried chicken, breast",Meat and Poultry,Processed/Products,49.8,244.0,36.7,9.2,1.0,0.0,3.4,81.0,154.0,6.1,,,,,20.0,,0.66,,0.0,80.0,
+FP033,"Sukabumi fried chicken, thigh",Meat and Poultry,Processed/Products,46.0,283.0,35.7,14.3,0.5,0.0,3.6,68.0,106.0,5.4,,,,,11.0,,0.36,,0.0,60.0,
+FP085,"Sukiyaki, dish",Meat and Poultry,Processed/Products,81.0,75.0,5.6,0.4,12.2,0.2,0.8,109.0,59.0,0.5,426.0,,,,41.0,,0.37,,,1200.0,0.0
+AP108,Sunduk lawang,Cereals,Processed/Products,63.4,181.0,1.9,1.3,32.4,,1.0,,,,,,,,,,,,,,
+DR023,"Sunset hibiscus, big, fresh",Vegetables,Raw,84.0,58.0,2.9,0.7,10.0,3.3,2.4,440.0,100.0,1.9,30.0,40.0,0.2,2.1,,596.0,0.4,0.5,2.8,,11.0
+DR024,"Sunset hibiscus, small, fresh",Vegetables,Raw,83.7,61.0,3.2,0.7,10.4,3.4,2.0,420.0,70.0,1.7,20.0,50.0,0.1,1.4,,607.0,0.4,0.3,2.9,,11.0
+AP109,Suwir-suwir,Cereals,Processed/Products,13.4,347.0,0.5,0.9,84.2,0.8,1.0,42.0,40.0,4.3,,,,,1.0,,0.13,,0.9,240.0,0.0
+MP001,"Sweet chocolate, bar",Convectionery,Processed/Products,1.4,527.0,2.0,29.8,62.7,6.5,4.1,63.0,287.0,2.8,6.0,499.5,0.0,0.0,,,0.03,0.02,0.0,30.0,0.0
+DP005,"Sweet leaves, boiled",Vegetables,Processed/Products,83.3,53.0,5.3,0.9,9.1,1.2,1.4,185.0,102.0,3.1,16.0,291.3,0.3,1.3,0.0,11131.0,0.0,0.3,2.2,9000.0,66.0
+DR035,"Sweet leaves, fresh",Vegetables,Raw,81.0,59.0,6.4,1.0,9.9,1.5,1.7,233.0,98.0,3.5,21.0,478.8,0.3,1.3,,9152.0,0.0,0.31,2.3,10020.0,164.0
+ER039,"Sweet orange, fresh",Fruits,Raw,87.2,45.0,0.9,0.2,11.2,1.4,0.5,33.0,23.0,0.4,4.0,472.1,160.0,0.2,,0.0,0.08,0.03,0.2,190.0,49.0
+BP039,"Sweet potato, chips",Starchy Roots & Tubers,Processed/Products,6.0,486.0,0.2,23.9,67.6,14.3,2.3,68.0,92.0,0.9,52.0,2.0,0.7,2.3,0.0,920.0,0.1,0.1,0.5,,0.0
+BP075,"Sweet potato, Cilembu",Starchy Roots & Tubers,Processed/Products,52.7,186.0,1.9,0.2,44.3,3.4,0.9,37.0,51.0,0.6,1.0,61.9,0.1,0.2,,26.0,0.02,0.2,0.0,0.0,0.0
+BR029,"Sweet potato, fresh",Starchy Roots & Tubers,Raw,78.4,83.0,1.5,0.2,18.8,0.6,1.1,27.0,162.0,2.1,52.0,320.7,0.1,0.3,0.0,0.0,0.02,0.0,0.4,0.0,0.0
+BP072,"Sweet potato, purple, flour",Starchy Roots & Tubers,Processed/Products,9.4,354.0,2.8,0.6,84.4,12.9,2.8,89.0,125.0,3.9,42.0,940.0,0.8,0.6,,0.0,0.4,0.02,0.0,0.0,0.0
+BR030,"Sweet potato, red, fresh",Starchy Roots & Tubers,Raw,61.9,151.0,1.6,0.3,35.4,0.7,0.6,29.0,74.0,0.7,92.0,565.6,0.3,0.5,0.0,0.0,0.13,0.08,0.7,1208.0,11.0
+BR031,"Sweet potato, white, fresh",Starchy Roots & Tubers,Raw,77.8,88.0,0.4,0.4,20.6,4.0,0.8,30.0,10.0,0.5,2.0,4.0,0.1,0.2,0.0,13.0,0.25,0.06,0.5,264.0,36.0
+BR028,"Sweet potato, yellow, fresh",Starchy Roots & Tubers,Raw,72.6,119.0,0.5,0.4,25.1,4.2,1.0,30.0,40.0,0.4,3.0,1.0,0.1,0.2,0.0,794.0,0.06,0.07,0.7,4948.0,21.0
+BP011,"Sweet potato, yellow, steamed",Starchy Roots & Tubers,Processed/Products,74.2,100.0,0.7,0.3,23.8,1.0,1.0,44.0,46.0,0.4,3.0,0.8,0.1,0.2,0.0,819.0,0.0,0.1,0.6,4427.0,16.0
+BP059,Sweet sago,Starchy Roots & Tubers,Processed/Products,32.6,287.0,0.5,3.9,62.4,,0.6,8.0,17.0,0.7,34.0,42.0,0.1,0.2,0.0,0.0,,,,0.0,0.0
+GP068,"Sweet sour gourami, dish",Fish and Other Seafood,Processed/Products,63.1,192.0,12.7,10.1,12.7,0.0,2.4,283.0,169.0,1.1,,,,,19.0,,0.1,,,1440.0,0.0
+NP005,Sweet soy sauce,Herbs and Spices,Processed/Products,63.0,71.0,5.7,1.3,9.0,0.0,21.0,123.0,96.0,5.7,1114.0,,0.04,,0.0,,0.0,,,,0.0
+JP007,Sweetened condensed milk,Milk and Dairy Products,Processed/Products,25.0,343.0,8.2,10.0,55.0,0.0,1.8,275.0,209.0,0.2,150.0,320.0,0.02,1.0,155.0,46.0,0.05,0.43,0.4,,1.0
+MP014,Syrup,Convectionery,Processed/Products,44.0,213.0,0.0,0.0,55.0,0.0,1.0,0.0,0.0,0.0,3.0,4.2,,,,0.0,0.0,0.0,0.0,,
+NR015,"Tabasco pepper, fresh",Herbs and Spices,Raw,71.2,120.0,4.7,2.4,19.9,15.2,1.8,45.0,85.0,2.5,34.0,706.2,0.29,0.6,,1694.0,0.24,0.09,1.7,11050.0,70.0
+ER029,"Tahitian chestnut, fresh",Fruits,Raw,52.7,191.0,4.5,1.5,39.7,13.4,1.6,186.0,69.0,3.2,17.0,403.3,0.69,1.3,,51.0,0.05,0.2,1.8,,
+DR143,"Taiwan mustard greens, fresh",Vegetables,Raw,91.8,30.0,1.9,0.5,4.4,2.7,1.4,100.0,58.0,1.6,27.0,217.0,0.1,0.7,,1340.0,0.2,0.1,0.6,,33.0
+CP064,Takwa,Grains and Legumes,Processed/Products,72.2,148.0,13.8,8.5,4.0,0.0,1.6,140.0,214.0,8.5,3.0,79.0,0.3,1.3,,,0.2,0.1,0.8,920.0,
+FP034,"Taliwang chicken, dish",Meat and Poultry,Processed/Products,57.5,264.0,18.2,20.1,2.7,,1.5,94.0,164.0,2.0,507.0,408.0,0.4,12.3,1067.0,,,,,,
+ER026,"Tamarillo, fresh",Fruits,Raw,73.0,122.0,3.5,4.5,17.5,9.3,1.5,63.0,69.0,3.2,,,,,0.0,,0.02,,,2357.0,0.0
+ER036,"Tangerine, fresh",Fruits,Raw,84.5,61.0,0.8,0.2,14.1,5.4,0.4,9.0,13.0,0.2,3.0,79.0,0.1,0.1,,9.0,0.12,0.03,0.3,,31.0
+AP041,Tapai cake,Cereals,Processed/Products,32.2,323.0,4.9,11.5,50.1,1.4,1.4,131.0,83.0,2.6,,,,,26.0,,0.38,0.16,0.3,1872.0,0.0
+BP070,"Tapioca, flour",Starchy Roots & Tubers,Processed/Products,9.1,363.0,1.1,0.5,88.2,0.9,1.1,84.0,125.0,1.0,1.0,7.1,0.0,0.1,,0.0,0.04,0.0,0.4,,0.0
+GR073,"Tarmon fish, fresh",Fish and Other Seafood,Raw,68.1,151.0,13.8,3.8,14.1,0.0,0.2,210.0,250.0,1.1,,,,,61.0,,0.05,,,,0.0
+ER091,"Taro banana, fresh",Fruits,Raw,71.0,113.0,1.2,0.2,26.7,4.4,0.9,22.0,22.0,0.6,29.0,48.0,0.26,0.1,,159.0,0.12,0.03,1.0,,9.0
+BP071,"Taro Beneng, flour",Starchy Roots & Tubers,Processed/Products,12.2,332.0,5.7,0.6,76.1,12.2,5.5,59.0,302.0,10.7,7.0,1404.0,0.8,6.2,,0.0,0.02,0.1,0.3,0.0,0.0
+DP009,"Taro leaves, boiled",Vegetables,Processed/Products,91.6,27.0,1.3,0.2,5.9,1.6,1.0,119.0,41.0,1.4,3.0,519.4,0.5,0.5,0.0,4641.0,0.0,0.6,1.9,2682.0,7.0
+DR052,"Taro leaves, fresh",Vegetables,Raw,87.2,44.0,3.0,0.8,7.4,3.3,1.6,76.0,59.0,1.0,3.0,578.4,0.2,0.4,,2584.0,0.08,0.4,1.4,2000.0,31.0
+DR076,"Taro leaves, fresh",Vegetables,Raw,81.1,59.0,3.0,0.4,13.5,3.0,2.0,236.0,50.0,2.4,4.0,854.1,0.4,0.5,0.0,3816.0,0.07,0.6,2.0,5740.0,24.0
+DP028,Taro wrapped in banana leaves,Vegetables,Processed/Products,74.5,141.0,4.4,10.2,8.0,1.8,3.0,149.0,121.0,14.5,,,,,13.0,,0.25,,,8610.0,1.0
+BR025,"Taro, fresh",Starchy Roots & Tubers,Raw,72.4,108.0,1.4,0.4,25.0,0.9,0.8,47.0,67.0,0.7,10.0,448.0,0.2,0.7,0.0,0.0,0.06,0.07,1.0,0.0,4.0
+BR026,"Taro, Pontianak, fresh",Starchy Roots & Tubers,Raw,60.0,163.0,2.3,0.5,36.4,0.7,0.9,45.0,80.0,1.7,14.0,323.1,0.3,1.0,0.0,0.0,0.02,0.1,1.3,0.0,
+BP062,"Taro, serimping, from Kebumen",Starchy Roots & Tubers,Processed/Products,4.8,478.0,2.5,21.2,69.2,1.7,2.3,112.0,118.0,2.3,,,,,0.0,,0.25,,,0.0,0.0
+BP010,"Taro, steamed",Starchy Roots & Tubers,Processed/Products,69.2,120.0,1.5,0.3,28.2,0.7,0.8,31.0,63.0,0.7,11.0,498.0,0.2,0.6,0.0,0.0,0.05,0.6,0.8,0.0,2.0
+BR027,"Taro, viqueque, fresh",Starchy Roots & Tubers,Raw,70.6,115.0,1.8,0.5,25.9,8.6,1.2,50.0,220.0,0.9,1.0,70.0,0.3,1.0,0.0,0.0,0.08,0.1,0.9,0.0,
+CP065,Tauco,Grains and Legumes,Processed/Products,54.0,184.0,11.4,5.5,22.2,1.9,6.9,72.0,463.0,6.0,1766.0,233.0,0.39,1.0,,0.0,0.32,0.2,0.8,664.0,0.0
+CP066,"Tauco, brand beruang, cake",Grains and Legumes,Processed/Products,11.4,347.0,7.4,5.2,67.6,3.2,8.4,63.0,106.0,6.2,,,,,,,0.35,,,936.0,0.0
+CP067,"Tauco, brand DAS, cake",Grains and Legumes,Processed/Products,10.2,358.0,7.5,4.3,70.4,3.1,7.6,94.0,94.0,4.5,,,,,,,0.29,,,504.0,0.0
+CP068,"Tauco, brand meong",Grains and Legumes,Processed/Products,59.7,159.0,7.4,4.9,21.3,1.6,6.7,183.0,84.0,10.1,1547.0,204.1,0.34,0.9,,0.0,0.46,0.18,0.7,472.0,0.0
+CP069,"Tauji, brand singa",Grains and Legumes,Processed/Products,30.4,277.0,9.1,4.7,49.6,1.2,6.2,68.0,106.0,3.0,,,,,,,0.15,,,936.0,0.0
+FP086,"Tedong pallu basa, dish",Meat and Poultry,Processed/Products,81.7,83.0,10.4,3.4,2.8,,1.7,10.0,139.0,2.6,397.0,34.0,0.6,1.3,,,0.09,0.53,9.0,,0.0
+GP092,Tekwan,Fish and Other Seafood,Processed/Products,86.7,53.0,1.9,0.9,9.4,,1.1,9.0,41.0,1.0,174.0,42.0,0.0,0.0,99.0,,0.1,0.02,0.4,,
+CP070,Tempeh bongkrek,Grains and Legumes,Processed/Products,72.5,119.0,4.4,3.5,18.3,,146.3,27.0,100.0,2.6,,,,,0.0,,0.08,,,,0.0
+CP071,Tempeh gembus P3G,Grains and Legumes,Processed/Products,81.9,73.0,5.7,1.3,10.3,4.2,0.8,204.0,80.0,1.5,,,,,,,0.09,0.1,0.9,22.0,
+CP072,Tempeh gembus yogya,Grains and Legumes,Processed/Products,80.7,76.0,6.8,0.7,10.6,5.3,1.1,76.0,142.0,16.5,,,,,,,0.79,0.01,0.1,,
+CP040,"Tempeh, chips",Grains and Legumes,Processed/Products,3.3,581.0,12.1,40.6,41.7,2.2,2.3,237.0,116.0,6.9,,,,,,,0.35,,,320.0,0.0
+CP041,"Tempeh, chips, brand abadi, large size",Grains and Legumes,Processed/Products,4.5,556.0,15.8,37.1,39.8,3.5,2.8,112.0,215.0,5.4,,,,,,,0.63,,,0.0,0.0
+CP043,"Tempeh, chips, brand abadi, medium size",Grains and Legumes,Processed/Products,4.4,510.0,12.3,27.9,52.4,3.6,3.1,122.0,211.0,8.4,,,,,,,0.52,,,0.0,0.0
+CP042,"Tempeh, chips, brand abadi, original",Grains and Legumes,Processed/Products,3.2,542.0,40.3,42.4,11.6,2.2,2.7,175.0,529.0,5.2,,,,,,,0.1,,,50.0,0.0
+CP045,"Tempeh, chips, brand abadi, prime quality",Grains and Legumes,Processed/Products,4.8,540.0,16.7,33.9,42.0,2.2,2.6,92.0,184.0,3.2,,,,,,,0.38,,,1080.0,0.0
+CP044,"Tempeh, chips, brand abadi, with egg",Grains and Legumes,Processed/Products,4.5,529.0,20.8,31.7,40.2,3.0,2.9,124.0,222.0,5.4,,,,,,,0.86,,,0.0,0.0
+CP078,"Tempeh, hyacinth bean, benguk",Grains and Legumes,Processed/Products,64.0,141.0,10.2,1.3,23.2,,1.3,42.0,15.0,2.6,,,,,0.0,,0.09,,,,0.0
+CP076,"Tempeh, pure soybean, fried",Grains and Legumes,Processed/Products,36.8,350.0,24.5,26.6,10.4,4.2,1.8,202.0,296.0,4.9,22.0,626.7,0.8,2.5,,,0.24,0.6,3.3,78.0,0.0
+CP077,"Tempeh, pure soybean, uncooked",Grains and Legumes,Processed/Products,55.3,201.0,20.8,8.8,13.5,1.4,1.6,155.0,326.0,4.0,9.0,234.0,0.57,1.7,,0.0,0.19,0.59,4.9,,
+CP079,"Tempeh, river tamarind",Grains and Legumes,Processed/Products,66.8,128.0,10.7,0.5,21.3,7.1,0.7,203.0,108.0,0.6,,,,,,,0.17,,,121.0,2.0
+CP080,"Tempeh, river tamarind, variant gung with skin",Grains and Legumes,Processed/Products,65.1,146.0,11.7,2.3,19.6,7.6,1.3,128.0,41.0,6.8,,,,,,,0.19,,1.4,1370.0,
+CP081,"Tempeh, river tamarind, variant gung without skin",Grains and Legumes,Processed/Products,67.1,131.0,18.0,0.8,13.0,1.3,1.1,95.0,154.0,12.4,,,,,,,0.2,0.02,2.6,5900.0,
+CP082,"Tempeh, sold in market",Grains and Legumes,Processed/Products,68.3,150.0,14.0,7.7,9.1,1.4,0.9,517.0,202.0,1.5,7.0,165.9,0.4,1.2,,0.0,0.17,0.44,3.6,,
+CP083,"Tempeh, sold in market, fried",Grains and Legumes,Processed/Products,42.9,336.0,20.0,28.0,7.8,3.4,1.3,156.0,350.0,3.0,20.0,566.2,0.8,2.2,,,0.1,0.5,3.0,10.0,0.0
+CP075,"Tempeh, soybean + corn",Grains and Legumes,Processed/Products,70.6,143.0,12.0,5.5,11.4,1.9,0.6,155.0,156.0,6.8,,,,,,,0.33,0.15,1.2,1320.0,
+CP073,"Tempeh, velvet bean",Grains and Legumes,Processed/Products,64.0,139.0,12.5,0.8,21.9,1.8,1.2,68.0,182.0,2.6,,,,,,,0.1,,,20.0,
+CP074,"Tempeh, winged bean",Grains and Legumes,Processed/Products,58.2,212.0,17.5,10.0,12.9,2.9,1.4,186.0,160.0,2.2,,,,,,,0.2,,,,
+NP010,Tempoya,Herbs and Spices,Processed/Products,70.1,110.0,1.7,1.3,21.9,2.6,5.0,190.0,45.0,2.9,597.0,486.3,,,,71.0,0.3,0.04,1.1,,0.0
+DP051,Terubuk candle soup,Vegetables,Processed/Products,90.4,36.0,2.7,0.7,4.8,1.4,1.4,10.0,90.0,0.1,30.0,44.0,0.2,1.0,,,0.3,0.2,,,18.0
+GR059,"The climbing perch, fresh",Fish and Other Seafood,Raw,78.8,84.0,15.2,0.6,4.7,0.0,0.8,68.0,171.0,2.1,211.0,198.0,0.7,0.6,,0.0,0.16,0.03,1.9,,
+GP023,"The climbing perch, grilled",Fish and Other Seafood,Processed/Products,66.6,152.0,17.6,6.1,6.7,0.0,3.0,244.0,227.0,3.4,320.0,224.0,0.2,1.0,,,,,,,
+GR082,"Tiger prawn, giant, fresh",Fish and Other Seafood,Raw,79.0,81.0,16.5,0.3,3.0,0.0,1.2,87.0,167.0,0.7,95.0,132.0,0.7,1.2,,3.0,0.24,0.03,2.9,,
+GP060,"Tilapia jerky, fried",Fish and Other Seafood,Processed/Products,6.5,598.0,74.3,26.9,9.2,0.0,13.1,1957.0,1447.0,7.4,,,,,18.0,,0.19,,,25.0,0.0
+GR056,"Tilapia, fresh",Fish and Other Seafood,Raw,74.8,113.0,13.9,4.9,3.4,0.0,3.0,642.0,646.0,1.9,51.0,182.0,0.8,3.6,,,0.21,0.02,1.8,,
+GP022,"Tilapia, jerky, raw",Fish and Other Seafood,Processed/Products,15.2,582.0,68.3,15.2,37.2,0.0,14.1,3258.0,1699.0,4.3,,,,,15.0,,0.27,,,20.0,0.0
+DP058,Tinira ninahu nggaluku,Vegetables,Processed/Products,91.8,33.0,1.2,1.3,4.1,3.1,1.5,35.0,35.0,0.0,161.0,119.0,0.2,0.7,,6.0,0.3,0.0,3.5,0.0,10.0
+FP088,"Tinoransa, dish",Meat and Poultry,Processed/Products,31.6,516.0,17.7,49.5,0.0,,1.2,698.0,648.0,3.5,1307.0,320.0,0.1,1.8,710.0,,0.29,0.17,,,
+AP040,Tinotuan porridge (Manado),Cereals,Processed/Products,80.9,156.0,2.3,0.2,15.6,8.2,1.0,41.0,20.0,0.4,486.0,164.0,0.3,0.4,,1437.0,0.1,0.04,,,15.0
+AP110,Tipa-tipa,Cereals,Processed/Products,11.3,355.0,6.2,1.2,79.8,1.3,1.5,17.0,328.0,1.6,,,,,0.0,0.0,0.26,0.04,1.5,0.0,0.0
+BP073,Tiwul,Starchy Roots & Tubers,Processed/Products,11.2,353.0,2.4,1.1,83.4,6.5,1.6,55.0,95.0,4.7,5.0,670.0,0.2,0.8,,0.0,0.02,0.02,0.1,0.0,3.0
+BP074,"Tiwul, instant",Starchy Roots & Tubers,Processed/Products,9.1,395.0,3.2,8.5,76.5,4.2,2.7,81.0,81.0,5.8,377.0,469.0,2.1,1.2,,0.0,0.4,0.2,0.2,0.0,4.0
+CP018,"Tofu, dregs, dried",Grains and Legumes,Processed/Products,9.0,414.0,26.6,18.3,41.3,0.0,5.8,19.0,29.0,4.0,45.0,1055.7,0.99,2.8,0.0,24.0,0.2,0.1,0.5,,0.0
+CP019,"Tofu, dregs, oncom pepes",Grains and Legumes,Processed/Products,80.9,76.0,5.2,1.8,10.6,2.2,1.5,215.0,66.0,12.5,,,,,,,0.11,,,268.0,
+CP016,"Tofu, dregs, raw",Grains and Legumes,Processed/Products,84.1,67.0,5.0,2.1,8.1,4.1,0.6,460.0,88.0,1.0,8.0,184.5,0.17,0.5,,0.0,0.06,0.02,0.1,,
+CP017,"Tofu, dregs, steamed",Grains and Legumes,Processed/Products,82.5,75.0,4.1,2.1,10.7,5.1,0.6,203.0,60.0,1.3,,,,,,0.0,0.07,,,,
+CP062,"Tofu, fried",Grains and Legumes,Processed/Products,77.3,115.0,9.7,8.5,2.5,0.1,2.0,229.0,200.0,4.1,7.0,68.2,0.09,1.3,,0.0,0.01,0.24,0.0,0.0,0.0
+CP061,"Tofu, uncooked",Grains and Legumes,Processed/Products,82.2,80.0,10.9,4.7,0.8,0.1,1.4,223.0,183.0,3.4,2.0,50.6,0.19,0.8,,118.0,0.01,0.08,0.1,,
+NP009,Tomato sauce,Herbs and Spices,Processed/Products,69.5,110.0,2.0,0.4,24.5,0.9,3.6,12.0,18.0,0.8,890.0,129.6,0.18,0.3,,357.0,0.09,0.06,1.7,570.0,11.0
+DR160,"Tomato, juice, fresh",Vegetables,Raw,94.0,20.0,1.0,0.2,3.5,0.4,1.3,7.0,15.0,0.4,10.0,225.2,0.06,0.1,,266.0,0.05,0.03,0.7,600.0,10.0
+DR101,Tondano water spinach,Vegetables,Raw,88.5,43.0,1.8,0.2,8.4,4.3,1.1,72.0,9.0,0.7,30.0,361.0,0.3,0.4,,2741.0,0.8,0.1,1.1,,23.0
+GR050,"Tonguefish, fresh",Fish and Other Seafood,Raw,71.4,125.0,21.3,3.4,2.2,,1.7,136.0,69.0,0.8,214.0,245.0,0.2,1.1,,,0.26,0.03,0.2,,
+DR105,"Torch ginger, fresh",Vegetables,Raw,90.0,34.0,0.9,1.0,6.7,2.6,1.4,60.0,16.0,1.0,47.0,650.6,,,0.0,0.0,0.0,0.02,0.8,73.0,0.0
+ER071,"Tree-ripe jackfruit, fresh",Fruits,Raw,70.0,106.0,1.2,0.3,27.6,3.7,2.7,20.0,19.0,0.9,2.0,407.0,246.58,1.4,,149.0,0.07,0.1,1.0,330.0,7.0
+NR005,"Tree-ripe tamarind, fresh",Herbs and Spices,Raw,31.4,267.0,2.8,0.6,62.5,1.2,2.7,74.0,113.0,0.6,9.0,139.5,0.09,0.1,,9.0,0.34,0.04,0.7,30.0,2.0
+DR075,"Tropical burnweed leaves, fresh",Vegetables,Raw,88.5,36.0,2.6,0.9,6.1,1.7,1.9,398.0,95.0,9.3,64.0,444.4,0.1,0.4,0.0,10178.0,0.03,0.2,0.9,8868.0,3.0
+ER092,Tujuh bulan banana,Fruits,Raw,75.9,94.0,0.6,0.2,22.5,3.7,0.8,50.0,20.0,0.2,0.0,4.0,0.1,0.4,0.0,72.0,0.03,0.03,0.3,,6.0
+ER019,"Tuppa fruit, fresh",Fruits,Raw,82.5,67.0,0.4,0.2,15.9,,1.0,12.0,139.0,0.5,2.0,0.0,0.2,0.5,,,0.04,0.01,,,5.0
+GR081,"Turi fish, fresh",Fish and Other Seafood,Raw,58.5,110.0,11.5,2.0,11.7,0.0,16.3,479.0,348.0,7.1,,,,,0.0,,0.04,,,0.0,0.0
+DR139,"Turkey berry, fresh",Vegetables,Raw,80.8,75.0,1.6,0.6,15.8,10.0,1.2,55.0,97.0,0.6,20.0,234.0,0.4,0.4,,51.0,0.4,0.1,1.3,,38.0
+NR022,"Turmeric, fresh",Herbs and Spices,Raw,84.9,69.0,2.0,2.7,9.1,0.6,1.3,24.0,78.0,3.3,6.0,406.7,0.05,0.4,,12.0,0.03,0.02,0.4,,1.0
+HR010,"Turtle egg, fresh",Eggs,Raw,7.4,136.0,8.6,10.1,2.7,0.0,1.2,66.0,282.0,3.4,478.0,115.0,0.5,1.4,82.0,17.0,0.21,0.02,0.0,,0.0
+FP054,"Turtle Lawar, dish",Meat and Poultry,Processed/Products,66.3,141.0,23.0,1.5,7.6,0.0,1.6,69.0,141.0,6.0,,,,0.0,,0.0,0.1,,0.0,,
+GR043,"Turtle, fresh",Fish and Other Seafood,Raw,78.3,104.0,15.6,3.2,2.0,0.0,0.9,30.0,143.0,2.0,,,,,33.0,,0.03,,,0.0,0.0
+ER093,"Ua banana, fresh",Fruits,Raw,67.8,128.0,0.8,0.5,30.2,8.1,0.7,12.0,28.0,0.7,33.0,382.0,0.2,0.3,,5.0,0.09,0.01,1.2,,4.0
+DR163,"Uceng/ bago flower, fresh",Vegetables,Raw,79.5,82.0,5.8,1.3,11.7,4.8,1.7,70.0,266.0,2.4,,,,,,,0.11,0.15,,58.0,3.0
+ER094,"Uli banana, fresh",Fruits,Raw,61.8,134.0,1.1,0.5,35.5,1.4,1.1,31.0,53.0,0.9,39.0,650.3,0.34,0.7,,59.0,0.11,0.16,1.4,113.0,3.0
+BP076,Uli batatas,Starchy Roots & Tubers,Processed/Products,66.5,150.0,1.1,4.0,27.4,,1.0,,23.0,0.1,6.0,112.0,0.1,0.2,0.0,0.0,0.53,0.0,1.3,0.0,0.0
+ER044,"Unripe ambarella, fresh",Fruits,Raw,87.8,47.0,0.5,0.2,10.4,2.7,0.6,7.0,58.0,0.8,2.0,0.0,,0.2,,167.0,0.07,0.04,0.4,,32.0
+ER109,"Unripe breadfruit, fresh",Fruits,Raw,69.4,119.0,1.4,0.2,28.1,1.4,1.0,24.0,44.0,1.4,24.0,414.4,0.09,0.1,,28.0,0.17,0.17,3.7,4896.0,52.0
+ER063,"Unripe mango, fresh",Fruits,Raw,83.7,59.0,0.5,0.4,15.1,,0.3,12.0,11.0,0.4,2.0,108.2,0.05,0.1,,146.0,0.06,0.02,0.4,85.0,2.0
+JP008,Unsweetened condensed milk,Milk and Dairy Products,Processed/Products,73.7,138.0,7.0,7.9,9.9,,1.5,243.0,195.0,0.2,140.0,303.0,,,121.0,,0.05,,0.0,,1.0
+CR036,"Urei nut, dried",Grains and Legumes,Raw,12.8,354.0,12.8,1.8,69.3,26.1,3.3,220.0,220.0,5.1,1.0,0.0,0.7,3.1,,,0.55,0.05,3.5,,
+FR001,"Veal, meat, fat, fresh",Meat and Poultry,Raw,62.0,184.0,18.8,14.0,0.0,0.0,5.2,10.0,200.0,2.2,118.0,490.1,0.17,3.3,12.0,37.0,0.13,0.17,7.0,,
+FR002,"Veal, meat, lean, fresh",Meat and Poultry,Raw,69.0,174.0,19.6,10.0,0.0,0.0,1.4,11.0,201.0,2.9,96.0,399.8,0.14,2.7,6.0,30.0,0.08,0.14,5.7,,0.0
+FR003,"Veal, meat, medium fat, fresh",Meat and Poultry,Raw,68.0,190.0,19.1,12.0,0.0,0.0,0.9,11.0,193.0,2.9,99.0,412.7,0.14,2.8,12.0,83.0,0.14,0.15,5.9,,0.0
+DR062,"Vegetable fern, fresh",Vegetables,Raw,88.8,29.0,3.4,0.1,6.5,4.3,1.2,13.0,88.0,1.3,19.0,434.0,0.5,0.7,,18.0,0.2,0.1,11.7,,10.0
+DR015,"Vegetable-hummingbird flower, fresh",Vegetables,Raw,90.4,42.0,2.0,1.1,6.1,3.3,0.4,28.0,23.0,0.8,29.0,97.4,0.1,0.6,,1200.0,0.5,0.02,0.4,0.0,1.0
+DR107,"Vegetable-hummingbird flower, fresh",Vegetables,Raw,87.4,51.0,1.8,0.6,9.6,5.0,0.6,23.0,29.0,0.9,22.0,275.3,0.15,0.9,,201.0,0.13,0.12,0.6,105.0,41.0
+ER011,"Velvet apple, fresh",Fruits,Raw,89.0,39.0,0.7,0.2,9.7,2.0,0.4,43.0,17.0,0.8,1.0,90.0,0.06,0.1,,141.0,0.02,0.01,0.1,55.0,33.0
+CR002,"Velvet bean, dried",Grains and Legumes,Raw,11.6,341.0,30.4,3.2,51.3,4.5,3.5,178.0,521.0,6.8,13.0,1768.0,0.82,3.1,,,0.23,0.33,2.8,87.0,
+AP007,"Vermicelli, fried, instant",Cereals,Processed/Products,9.0,381.0,6.1,3.9,80.3,,0.7,266.0,151.0,2.9,928.0,,,,58.0,,0.37,,,400.0,0.0
+AP006,"Vermicelli, raw",Cereals,Processed/Products,12.9,348.0,4.7,0.1,82.1,1.2,0.2,6.0,35.0,1.8,12.0,5.0,0.08,0.7,0.0,0.0,0.0,0.0,0.2,0.0,0.0
+DR041,"Vietnamese coriander leaves, fresh",Vegetables,Raw,84.8,48.0,4.5,0.8,9.1,1.6,0.8,125.0,142.0,2.6,11.0,174.7,0.4,1.2,0.0,4216.0,0.01,0.1,1.6,8715.0,4.0
+ER111,"Vigus, fresh",Fruits,Raw,88.0,44.0,2.4,0.1,8.3,,1.2,30.0,20.0,0.3,2.0,180.0,0.1,0.2,,,0.26,0.01,,,43.0
+NP004,Vinegar,Herbs and Spices,Processed/Products,94.5,21.0,0.1,0.1,5.0,0.0,0.3,7.0,10.0,0.5,21.0,37.8,0.0,0.0,,0.0,0.24,0.0,0.7,,
+AP111,"Wajit, kue",Cereals,Processed/Products,27.1,303.0,6.3,2.7,63.3,6.9,0.6,61.0,302.0,5.5,,,,,0.0,,0.03,,,0.0,0.0
+GR076,"Wallago catfish, segar",Fish and Other Seafood,Raw,80.0,83.0,19.1,0.2,0.0,0.0,0.7,27.0,87.0,0.7,,,,,0.0,,0.2,,,,0.0
+DR061,"Wambateu fern leaves, fresh",Vegetables,Raw,86.9,53.0,3.4,1.2,7.2,4.8,1.3,30.0,100.0,0.3,20.0,200.0,0.2,0.3,,191.0,0.7,0.2,0.3,,6.0
+ER112,"Wani, fresh",Fruits,Raw,81.2,74.0,0.8,0.3,17.1,3.1,0.6,66.0,29.0,1.2,,,,,,,0.08,,,32.0,80.0
+ER030,"Water apple, fresh",Fruits,Raw,87.0,46.0,0.6,0.2,11.8,2.1,0.8,8.0,9.0,1.1,11.0,321.2,,0.1,,92.0,0.02,0.38,4.6,,5.0
+DR077,"Water celery leaves, fresh",Vegetables,Raw,81.0,70.0,2.9,0.3,13.9,2.3,1.9,155.0,65.0,2.5,72.0,,0.15,0.9,,171.0,0.05,0.7,1.4,2500.0,21.0
+DR068,"Water clover leaves, fresh",Vegetables,Raw,84.7,45.0,4.4,0.5,8.5,1.9,1.9,98.0,90.0,7.0,64.0,520.7,0.5,0.3,0.0,64.0,0.01,0.5,0.7,3365.0,6.0
+DR082,"Water hyacinth, fresh",Vegetables,Raw,93.0,19.0,1.0,0.2,3.8,1.8,2.0,80.0,45.0,3.7,45.0,634.1,,,,7.0,0.08,0.1,0.7,1000.0,50.0
+DR100,Water spinach,Vegetables,Raw,91.0,28.0,3.4,0.7,3.9,2.0,1.0,67.0,54.0,2.3,65.0,250.1,0.13,0.4,,2868.0,0.07,0.36,2.0,5542.0,17.0
+DP044,Water spinach pelecing,Vegetables,Processed/Products,83.8,75.0,2.5,2.8,10.0,5.4,0.9,36.0,3.0,2.1,408.0,381.0,0.1,0.4,,870.0,0.7,,0.2,,12.0
+DP014,"Water spinach, boiled",Vegetables,Processed/Products,93.0,22.0,2.5,0.6,3.1,1.2,0.8,50.0,51.0,3.5,31.0,98.0,0.1,0.3,0.0,2370.0,0.01,0.22,1.2,4325.0,13.0
+DP013,"Water spinach, steamed",Vegetables,Processed/Products,90.4,30.0,3.2,0.7,4.7,1.8,1.0,70.0,49.0,4.4,45.0,184.9,0.1,0.3,0.0,2370.0,0.03,0.28,1.4,5837.0,11.0
+DR146,"Watercress, fresh",Vegetables,Raw,93.3,17.0,3.1,0.2,2.2,0.7,1.2,95.0,152.0,2.4,65.0,260.7,0.11,0.2,0.0,1230.0,0.09,0.14,0.7,3727.0,56.0
+ER105,"Watermelon, fresh",Fruits,Raw,92.1,28.0,0.5,0.2,6.9,0.4,0.3,7.0,12.0,0.2,7.0,93.8,0.04,0.1,,315.0,0.05,0.05,0.3,590.0,6.0
+DR120,"Wax gourd, fresh",Vegetables,Raw,94.0,22.0,0.4,0.2,4.7,1.3,0.7,3.0,54.0,0.5,2.0,200.0,0.1,0.3,,7.0,0.1,0.03,0.4,,1.0
+DR005,"Welsh onion, fresh",Vegetables,Raw,92.5,27.0,2.0,0.2,4.2,3.8,1.1,19.0,20.0,0.5,37.0,340.0,0.2,0.3,,1080.0,0.2,0.1,0.3,,42.0
+AP025,"Wheat, flour",Cereals,Processed/Products,11.8,333.0,9.0,1.0,77.2,0.3,1.0,22.0,150.0,1.3,2.0,0.0,0.0,2.8,0.0,0.0,0.1,0.07,1.0,0.0,0.0
+FR014,"Whistling duck, meat, fresh",Meat and Poultry,Raw,71.3,131.0,20.2,4.3,2.8,0.0,1.4,8.0,192.0,9.6,46.0,104.0,1.2,1.6,,0.0,0.37,0.08,2.7,,
+DR131,"White bitter melon, fresh",Vegetables,Raw,94.4,19.0,1.0,0.4,3.6,1.3,0.6,31.0,65.0,0.9,5.0,277.7,0.03,0.8,0.0,197.0,0.18,0.04,0.4,80.0,58.0
+DP015,"White bitter melon, steamed",Vegetables,Processed/Products,95.0,16.0,0.8,0.2,3.4,1.2,0.6,16.0,33.0,0.5,4.0,236.0,0.0,0.7,,187.0,0.15,0.04,0.3,65.0,35.0
+ER013,"White dragon fruit, fresh",Fruits,Raw,86.6,56.0,0.8,1.0,10.9,3.2,0.6,13.0,27.0,0.5,7.0,231.0,0.0,0.4,,0.0,0.02,0.5,0.9,0.0,1.0
+DR048,"White leadtree leaves, fresh",Vegetables,Raw,74.0,87.0,8.3,1.8,14.4,3.3,1.5,725.0,174.0,3.9,10.0,197.7,0.5,1.4,0.0,6900.0,0.0,0.1,2.3,13040.0,32.0
+MP007,White sugar,Convectionery,Processed/Products,5.4,394.0,0.0,0.0,94.0,0.0,0.6,5.0,1.0,0.1,1.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+DR080,"White sweet potato leaves, fresh",Vegetables,Raw,87.5,46.0,2.8,0.2,8.2,4.8,1.3,120.0,50.0,0.8,10.0,0.0,0.2,0.5,,103.0,0.3,0.3,0.9,,8.0
+AP112,Widaran,Cereals,Processed/Products,7.0,424.0,1.3,10.7,80.7,0.2,0.3,49.0,88.0,2.5,,,,,21.0,,0.13,0.2,2.2,440.0,0.0
+FP035,"Wild boar rica, dish",Meat and Poultry,Processed/Products,56.2,491.0,24.6,16.3,0.2,,2.7,18.0,144.0,1.2,1415.0,327.0,0.2,2.6,2193.0,,0.61,0.47,,,0.0
+ER002,"Wild grape, fresh",Fruits,Raw,92.3,30.0,0.5,0.2,6.8,1.2,0.2,39.0,12.0,1.1,,,,,0.0,,0.01,,,1.0,3.0
+ER015,"Wild sweetsop, fresh",Fruits,Raw,71.5,101.0,1.7,0.6,25.2,2.8,1.0,27.0,20.0,0.8,5.0,312.5,325.7,0.1,,49.0,0.08,0.16,0.9,,22.0
+CP001,"Winged bean, boiled",Grains and Legumes,Processed/Products,55.6,204.0,16.9,8.8,17.5,4.8,1.2,230.0,180.0,3.3,43.0,1098.0,3.24,2.3,,,0.2,0.48,0.7,,
+CR003,"Winged bean, dried",Grains and Legumes,Raw,10.4,400.0,34.4,16.9,34.1,10.7,4.2,468.0,182.0,6.8,37.0,955.0,2.82,2.0,,,0.3,0.44,3.0,,
+DR036,"Winged bean, fresh",Vegetables,Raw,85.0,52.0,5.0,0.5,8.5,,1.0,134.0,81.0,6.2,6.0,114.0,0.3,0.8,,3981.0,0.28,0.4,2.2,5240.0,29.0
+DR104,"Winged bean, unripe, fresh",Vegetables,Raw,90.4,32.0,2.9,0.2,5.8,5.5,0.7,63.0,37.0,0.3,3.0,103.8,0.18,0.4,,261.0,0.24,0.11,0.7,595.0,19.0
+AP113,Wingko babat,Cereals,Processed/Products,29.7,355.0,3.2,15.1,51.4,2.4,0.7,47.0,63.0,1.1,,,,,0.0,,0.08,0.08,0.0,0.0,0.0
+DP061,Woku sweet potato,Vegetables,Processed/Products,73.0,143.0,3.1,7.8,15.0,7.0,1.1,195.0,91.0,2.8,353.0,256.0,0.3,1.0,,1519.0,0.1,,,0.0,15.0
+ER042,"Wood apple, fresh",Fruits,Raw,71.8,120.0,3.5,2.5,20.8,4.6,1.4,190.0,230.0,1.6,9.0,1015.6,308.43,0.4,,99.0,0.07,0.07,0.4,,3.0
+DR087,"Wood ear, dried",Vegetables,Raw,14.9,294.0,16.0,0.9,64.6,46.5,3.6,51.0,223.0,6.7,174.0,726.1,0.29,5.5,0.0,11.0,0.11,0.6,2.7,0.0,0.0
+DR088,"Wood ear, fresh",Vegetables,Raw,93.7,21.0,3.8,0.6,0.9,5.1,1.0,3.0,94.0,1.7,17.0,33.4,0.19,0.1,0.0,1.0,0.1,0.09,0.1,0.0,5.0
+ER045,"Woromo, dried",Fruits,Raw,6.0,623.0,2.0,52.1,36.5,15.3,3.4,120.0,280.0,3.8,100.0,460.0,1.7,1.9,,,,,0.2,,
+AP114,Yangko,Cereals,Processed/Products,37.4,254.0,3.0,1.1,58.1,0.8,0.4,184.0,24.0,2.6,,,,,0.0,,0.15,,0.0,96.0,0.0
+DR097,"Yardlong bean, fresh",Vegetables,Raw,91.8,31.0,2.3,0.1,5.3,2.7,0.5,60.0,64.0,0.6,30.0,213.0,0.1,0.5,0.0,125.0,0.7,0.1,0.3,,46.0
+CR029,"Yardlong bean, seeds, dried",Grains and Legumes,Raw,12.2,357.0,17.3,1.5,68.6,10.6,0.4,163.0,437.0,6.9,16.0,1109.4,0.35,2.8,0.0,2182.0,0.57,0.98,7.1,,2.0
+DR033,"Yardlong beans leaves, fresh",Vegetables,Raw,89.7,30.0,3.1,0.3,5.8,1.7,1.1,200.0,66.0,4.5,7.0,458.6,0.2,0.3,0.0,2734.0,0.33,0.2,1.1,4592.0,30.0
+DP012,"Yardlong beans, boiled",Vegetables,Processed/Products,90.9,30.0,2.3,0.4,5.8,1.4,0.6,71.0,68.0,0.8,24.0,114.5,0.1,0.4,0.0,128.0,0.0,0.07,0.2,162.0,15.0
+DP011,"Yardlong beans, steamed",Vegetables,Processed/Products,88.2,39.0,3.0,0.6,7.6,1.7,0.6,100.0,91.0,1.2,28.0,199.0,0.11,0.5,0.0,131.0,0.02,0.1,0.3,205.0,20.0
+DR084,"Yellow bur head, fresh",Vegetables,Raw,90.0,35.0,1.7,0.2,7.7,2.5,0.4,62.0,33.0,2.1,64.0,905.8,,,,,0.07,0.1,1.1,3800.0,54.0
+GP075,"Yellow pickled tilapia, dish",Fish and Other Seafood,Processed/Products,43.1,330.0,17.8,23.4,12.1,1.1,4.6,154.0,357.0,5.3,,,,,24.0,,0.15,,,4130.0,0.0
+DR078,"Yellow sweet potato leaves, fresh",Vegetables,Raw,83.5,62.0,3.7,0.3,11.1,6.4,1.4,170.0,40.0,0.6,10.0,0.0,0.2,0.5,,3564.0,0.3,0.3,1.2,,4.0
+BP044,"Yellow, noodle, chips, fried",Starchy Roots & Tubers,Processed/Products,7.2,476.0,0.1,21.1,71.3,4.2,0.3,57.0,36.0,4.6,,109.0,0.1,0.2,0.0,,0.22,0.0,0.9,333.0,0.0
+GP035,"Yellowstripe scad, dried, raw",Fish and Other Seafood,Processed/Products,59.0,138.0,27.0,3.3,0.0,0.0,0.7,50.0,100.0,2.0,,,,,45.0,,0.1,,,,0.0
+JP011,"Yoghurt, fresh",Milk and Dairy Products,Processed/Products,88.0,52.0,3.3,2.5,4.0,0.0,2.2,120.0,90.0,0.1,40.0,299.0,0.01,0.6,22.0,10.0,0.04,0.1,0.2,,0.0
+ER046,"Young coconut, meat, fresh",Fruits,Raw,83.3,68.0,1.0,0.9,14.0,0.0,0.8,7.0,30.0,1.0,18.0,564.6,0.14,0.3,0.0,0.0,0.06,0.02,0.6,,4.0
+PR001,"Young coconut, water, fresh",Non-Alcoholic Beverages,Raw,,,,,,,,,,,,,,,,,,,,,

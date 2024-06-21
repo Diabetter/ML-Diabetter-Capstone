@@ -1,0 +1,523 @@
+No,ID,Nama,Kalori,Karbohidrat,Protein,Lemak,Jenis,Rating
+1,,Abon,560,0,18.4,56.8,Daging,3.49
+2,,Abon Ayam Gloria,220,20,14,10,Daging,2.71
+3,,Abon Haruwan,1026,42.6,47.4,74,Ikan dan Makanan Laut,4.2
+4,,Abon Ikan,870,72.2,54.4,40.4,Ikan dan Makanan Laut,4.09
+5,,Abon Sapi,424,118.6,36,21.2,Daging,2.12
+6,,Abon Sapi Gloria,260,24,24,12,Daging,3.32
+7,,Abon Sapi Superindo,280,120,200,34,Daging,2.88
+8,,Agar-Agar,0,0,0,0.4,Konfeksioneri,2.91
+9,,Aglio e Olio,496,16,0,0,Serealia,2.81
+10,ER001,Alpukat ,170,15.4,1.8,13,Buah,2.91
+11,ER002,Anggur,60,13.6,1,0.4,Buah,2.81
+12,,Apang Kukus,404,93.4,6,0.6,Serealia,4.34
+13,ER004,Apel ,116,29.8,0.6,0.8,Buah,2.34
+14,ER011,Apel Beludru ,78,19.4,1.4,0.4,Buah,3.96
+15,ER102,Apel Bintang ,128,16,2,6.2,Buah,4.29
+16,ER042,Apel Kayu ,240,41.6,7,5,Buah,2.57
+17,ER003,Apel Malang ,114,25.6,1,0.8,Buah,4.18
+18,ER033,Apel Melayu ,98,19.2,4.6,0.4,Buah,3.36
+19,ER034,Apel Mete ,128,31.6,1.4,1.2,Buah,3.1
+20,AP028,Apem Kue,296,67.8,4,1,Serealia,2.3
+21,,Arbei,74,16.6,1.6,1,Buah,3.4
+22,,Arwan Sirsir,554,21.4,4.8,50,Sayuran,2.27
+23,,Asinan Bogor,196,29.6,7.8,5.2,Sayuran,4.23
+24,CP031,Atom Kacang,1066,57.6,55.6,76.2,Kacang-kacangan,3.67
+25,FP001,Ampela Ayam Goreng,540,19.8,64.6,22.4,Daging,4.41
+26,,Ayam Bacem,294,16.6,27.4,13.4,Daging,4.08
+27,,Ayam Dideh,150,1.4,27.6,3.8,Daging,2.93
+28,,Ayam Geprek,400,0.8,70.4,52,Daging,3.41
+29,,Ayam Goreng Texas (Sayap),590,3,68,32,Daging,4.65
+30,,Ayam Goreng Texas (Dada),676,0.8,70.4,41.2,Daging,2.82
+31,FP024,Ayam Goreng Kalasan,550,2.6,74.8,24.4,Daging,2.17
+32,FP025,Ayam Goreng Kentucky (Dada),596,0.2,68.4,33.6,Daging,4.91
+33,FP026,Ayam Goreng Kentucky (Paha),572,2.2,64.2,32.2,Daging,4.72
+34,FP027,Ayam Goreng Kentucky (Sayap),594,3.2,71.8,30.4,Daging,2.71
+35,,Ayam Goreng Mbok Berek (Dada),590,2,78.4,27.2,Daging,4.35
+36,,Ayam Goreng (Paha),574,3.4,62,31.4,Daging,3.42
+37,FP029,Ayam Goreng Pasundan (Dada),492,1.4,75.8,18,Daging,3.78
+38,FP030,Ayam Goreng Pasundan (Paha),490,0.6,66.2,22.8,Daging,3.54
+39,,Ayam Goreng Pioneer (Dada),590,1.2,74.8,29.4,Daging,3.32
+40,FP032,Ayam Goreng Sukabumi (Dada),488,2,73.4,18.4,Daging,3.38
+41,FP033,Ayam Goreng Sukabumi (Paha),566,1,71.4,28.6,Daging,3.1
+42,FP049,Ayam Kalio ,406,8.8,32,27,Daging,3.06
+43,,Ayam Rica-Rica,808,14.82,81.98,45.64,Daging,3.33
+44,FP034,Ayam Taliwang,528,5.4,36.4,40.2,Daging,4.48
+45,,Ayam Tepung,380,20.88,19.96,24.08,Daging,2.74
+46,FP002,Usus Ayam Goreng,946,27.8,90.4,52.6,Daging,3.7
+47,,Babat,226,0,35.2,8.4,Daging,3.66
+48,FP035,Babi Hutan Rica-Rica,982,0.4,49.2,32.6,Daging,4.93
+49,,Bacang,205.8,32.6,6.6,5.4,Daging,4.85
+50,,Bagea Kelapa Asin,900,156.2,6.4,27.8,Konfeksioneri,3.87
+51,BP014,Bagea Kelapa Manis,904,161.2,2.6,27.6,Umbi Berpati,3.21
+52,,Bagea Kenari Asin,1058,127.2,6.4,58.2,Konfeksioneri,2.03
+53,,Bagea Kenari Manis,1046,128.4,6.4,56.4,Konfeksioneri,4.77
+54,BP017,Bagea Kualitas 1,832,152.6,13,18.8,Umbi Berpati,2.91
+55,BP018,Bagea Kualitas 2,764,174.4,0.6,7,Umbi Berpati,2.85
+56,,Bakmi,276,50.4,9,4.2,Serealia,3.05
+57,AP030,Bakpia,544,88.2,17.4,13.4,Serealia,2.16
+58,,Bakso,152,18.4,8.2,5,Daging,2.01
+59,,Bakso Ikan,214,23.44,22.54,2.46,Daging,3.78
+60,AP031,Bakwan,560,78,16.4,20.4,Serealia,2.52
+61,,Barongko,318,47,6.2,11.6,Buah,4.42
+62,,Baruasa,834,158.6,13,16.4,Konfeksioneri,3.63
+63,,Batar Daan,214,39.2,4.4,4.4,Sayuran,2.72
+64,DR008,Bayam ,32,5.8,1.8,0.8,Sayuran,2.99
+65,DP001,Bayam Kukus,60,11.6,2.6,1.4,Sayuran,4.71
+66,,Bayam Merah,102,20,9.2,1,Sayuran,4.58
+67,DP002,Bayam Rebus,46,7.4,2.4,1.2,Sayuran,4.63
+68,,Bayam Tumis Oncom,204,13.8,7.4,13.4,Sayuran,2.77
+69,,Bayam Tumis Bersantan,96,5.2,2.8,8.4,Sayuran,4.69
+70,FP003,Bebek Goreng,600,9,48,41.4,Daging,2.57
+71,,Beberuk,130,7,2.2,10.4,Sayuran,2.25
+72,,Beef Burger,516,65,21.2,19,Daging,3.53
+73,,Beef Teriyaki ,302,44.6,17.2,6.2,Daging,4.51
+74,,Beef Yakiniku ,264,41.4,19.6,2.2,Daging,4.79
+75,,Bekasam,232,12.2,23.8,9.8,Ikan dan Makanan Laut,4.23
+76,,Bekasang,156,7.2,22.8,4,Ikan dan Makanan Laut,3.27
+77,,Belibis,262,5.6,40.4,8.6,Daging,2.12
+78,ER006,Belimbing Wuluh ,72,17.6,0.8,0.8,Buah,4.31
+79,GP002,Belut Goreng,834,64,51.8,38.8,Ikan dan Makanan Laut,2.47
+80,BR005,Bengkuang ,118,25.6,2.8,0.4,Umbi Berpati,3.84
+81,,Nasi,356,81.2,4.2,0.2,Serealia,4.05
+82,,Beras Ketan Putih Kukus,326,71.4,6,0.8,Serealia,4.84
+83,,Bihun,720,164.2,9.4,0.2,Serealia,2.67
+84,,Bihun Goreng,308,51,6,9,Serealia,3.44
+85,AP007,Bihun Goreng Instan,762,160.6,12.2,7.8,Serealia,3.78
+86,AP035,Bika Ambon,398,88.8,4.2,3,Serealia,3.24
+87,,Bingka,546,78.2,10.6,21.2,Konfeksioneri,2.54
+88,,Bobengka,450,90.4,10.6,5.2,Konfeksioneri,3.17
+89,,Bolu Peca,394,6.6,9.2,71.2,Konfeksioneri,4.78
+90,,Botok Lamtoro,372,26,23.4,19.4,Sayuran,4.71
+91,,Brem,498,116,6.8,0.8,Konfeksioneri,2.99
+92,,Brondong Jagung,800,190.6,8,1.4,Konfeksioneri,2.15
+93,,Brongkos,282,25.2,30.6,6.6,Daging,4.67
+94,ER014,Buah Markisa ,110,24.4,2.4,0.2,Buah,3.53
+95,ER012,Buah Naga Merah ,142,18.2,3.4,6.2,Buah,3.25
+96,ER013,Buah Naga Putih ,112,21.8,1.6,2,Buah,3.67
+97,,Bubur,120,26,2,120,Serealia,4.02
+98,BP023,Bubur Sagu,334,66,0.4,8,Umbi Berpati,2.42
+99,AP040,Bubur Tinutuan,312,31.2,4.6,0.4,Serealia,3.41
+100,FP040,Bulgogi ,144,2.8,22.8,9.8,Daging,2.82
+101,,Buncis Rebus,60,12.8,4.4,0.4,Sayuran,3.22
+102,DP030,Capcay,194,8.4,11.6,12.6,Sayuran,2.98
+103,,Carica Papaya ,48,7.4,3.8,0.4,Buah,3.52
+104,ER021,Cempedak,232,57.2,6,0.8,Daging,2.57
+105,FP042,Chikiniku ,286,45.6,19.6,2.8,Daging,3.62
+106,MP001,Cokelat Manis Batangan,1054,125.4,4,59.6,Konfeksioneri,2.35
+107,MP002,Cokelat Pahit Batangan,1230,58.4,11,85.2,Konfeksioneri,2.72
+108,MP003,Coklat Susu Batangan,1130,107.2,18,70,Konfeksioneri,3.45
+109,,Combro,420,71.6,3.2,13.2,Konfeksioneri,3.03
+110,,Corned Beef,482,0,32,50,Daging,3.24
+111,FP044,Coto Mangkasara Daging Sapi ,168,2.8,12,12,Daging,4.74
+112,FP043,Coto Mangkasara Kuda ,192,7.6,13.6,11.8,Daging,4.61
+113,GP003,Cumi Goreng,530,0,81.2,20.2,Ikan dan Makanan Laut,2.58
+114,FP014,Dendeng Sapi,602,0,110,18,Daging,3.79
+115,FP013,Daging Sapi Asap,364,0,64,12,Daging,3.16
+116,FP015,Kornet Daging Sapi,578,0,32,50,Daging,2.14
+117,FP018,Dendeng Paru Sapi,720,38.4,114.6,12,Daging,2.75
+118,FP019,Paru Sapi Goreng,536,29,47.8,25.4,Daging,3.05
+119,,Dendeng Bekicot,882,31.6,97.4,40.6,Ikan dan Makanan Laut,2.15
+120,,Dendeng Belut,764,16,111.4,28.2,Daging,2.64
+121,,Dendeng Daging Sapi,866,0,110,18,Daging,2.73
+122,,Dendeng Mujair,1196,18.4,148.6,53.8,Ikan dan Makanan Laut,3.92
+123,,Dodol,790,162.4,6,11.4,Konfeksioneri,4.73
+124,CP023,Dodol  Banjarmasin,736,140,5.2,17.2,Kacang-kacangan,2.02
+125,AP043,Dodol Bali,596,131.8,7.4,4.2,Serealia,2.05
+126,AP044,Dodol Galamai,696,152.2,0.8,7.6,Serealia,2.55
+127,AP045,Dodol Kedondong,662,127.6,3.8,15.2,Serealia,2.12
+128,AP046,Dodol Manado,746,103.8,8.6,33,Serealia,2.68
+129,,Duku,126,32.2,2,0.4,Buah,2.22
+130,ER023,Durian ,268,56,5,6,Buah,4.72
+131,FP046,Empal Daging Goreng,496,20.2,72.4,13.8,Daging,2.38
+132,CP024,Emping (Keripik Melinjo),690,143,24,3,Kacang-kacangan,3.37
+133,CP027,Enting-Enting Gepuk Kacang Tanah,1048,104,26.6,58.4,Kacang-kacangan,4.48
+134,CP028,Enting-Enting Wijen,1130,73.6,36.4,76.8,Kacang-kacangan,4.78
+135,ER053,Es Apel ,54,12,0.8,0.4,Buah,2.19
+136,JP001,Es Krim,420,41.2,8,25,Susu,4.16
+137,,Coconut Milk Ice Cream,313.4,65.4,6,3.4,Konfeksioneri,3.59
+138,,Es Mambo,304,75.2,0,0,Minuman,3.45
+139,,Es Sirup,89.6,22.6,0,0,Minuman,4.38
+140,DP031,Gado-Gado,274,42,12.2,6.4,Sayuran,4.53
+141,BP006,Gadung Kukus,176,41.8,1.2,0.6,Umbi Berpati,2.08
+142,,Getuk Lindri,342.8,64,8,8,Umbi Berpati,4.75
+143,EP003,Getuk Pisang,288,68.2,2.2,0.8,Buah,4.65
+144,GP063,Gulai Asam Keueung ,104,3.6,20,1,Ikan dan Makanan Laut,3.59
+145,GP065,Gulai Ikan ,212,5,33,6.6,Ikan dan Makanan Laut,3.07
+146,GP064,Gulai Ikan Paya ,296,10,20,19.6,Ikan dan Makanan Laut,3.86
+147,,Gulai Kambing,252,12.4,8.4,18.8,Daging,3.08
+148,GP066,Gulai Keumamah ,220,6.4,11.8,16.4,Ikan dan Makanan Laut,3.52
+149,,Gulai Pakis,286,12,8,22.8,Sayuran,3.16
+150,,Gulai Pliek,352,6.4,14.6,29.8,Sayuran,4.44
+151,GP067,Gulai Tiram ,264,15.6,18,14.4,Ikan dan Makanan Laut,2.47
+152,GP068,Gurami Asam Manis ,384,25.4,25.4,20.2,Ikan dan Makanan Laut,2.78
+153,GP069,Ikan Asar Merah ,292,11.2,35.4,11.8,Ikan dan Makanan Laut,3.1
+154,,Ikan Bilis Asin Goreng,760,0,67.2,55,Ikan dan Makanan Laut,2.2
+155,,Ikan Gabus Asing Goreng,912,0,93,48.8,Ikan dan Makanan Laut,3.09
+156,,Ikan Japuh Asin Goreng,696,0,37.4,59,Ikan dan Makanan Laut,4.62
+157,,Ikan Asin Kering,386,0,84,3,Ikan dan Makanan Laut,3.7
+158,,Ikan Pari Asin Goreng,860,0,116.4,47.2,Ikan dan Makanan Laut,4.94
+159,,Ikan Pepetek Asin Goreng,1304,0,80.8,108.6,Ikan dan Makanan Laut,2.3
+160,,Ikan Sirinding Asin Goreng,638,0,13.8,63.4,Ikan dan Makanan Laut,2.49
+161,,Ikan Teri Asin Goreng,860,0,66.8,64.8,Ikan dan Makanan Laut,4.63
+162,,Ikan Bandeng Presto ,592,22.6,34.2,40.6,Ikan dan Makanan Laut,3.07
+163,,Ikan Belida Bakar,256,14.4,36,6,Ikan dan Makanan Laut,4.59
+164,GP013,Ikan Gete Goreng,534,0.4,46.2,38.8,Ikan dan Makanan Laut,3.42
+165,GP033,Ikan Hara ,568,29.2,68.2,19.8,Ikan dan Makanan Laut,3.6
+166,GP017,Ikan Lele Bakar,294,10.8,35,13,Ikan dan Makanan Laut,4.16
+167,,Ikan Lele Goreng,504,0,39.8,38.2,Ikan dan Makanan Laut,2.32
+168,GR008,Ikan Lele Hemibagrus ,222,9.6,38.8,1.8,Ikan dan Makanan Laut,4.88
+169,GP006,Ikan Lele Hemibagrus Bakar,288,10.4,35.6,11.6,Ikan dan Makanan Laut,3.57
+170,GP019,Pepes Ikan Mas,418,23.6,30.4,22.6,Ikan dan Makanan Laut,4.73
+171,,Ikan Mujair Goreng,832,0,93.8,47.8,Ikan dan Makanan Laut,3.8
+172,,Pepes Ikan Mujair,242,1.6,43.4,5.6,Ikan dan Makanan Laut,3.27
+173,GP075,Ikan Nila Acar Kuning ,660,24.2,35.6,46.8,Ikan dan Makanan Laut,3.69
+174,,Ikan Papuyu Bakar,304,13.4,35.2,12.2,Ikan dan Makanan Laut,4.89
+175,,Ikan Patin Bakar,288,8.6,35,12.6,Ikan dan Makanan Laut,4.85
+176,,Ikan Sanggang ,480,41.4,43.4,15.4,Ikan dan Makanan Laut,3.54
+177,AP012,Jagung Kuning Irebus,308,56.8,7.6,7,Serealia,3.29
+178,,Jagung Rebus,350,70,3.6,3.6,Serealia,2.11
+179,,Tumis Jagung,297.8,40.2,20.8,20.8,Serealia,4.01
+180,ER030,Jambu Air ,92,23.6,1.2,0.4,Buah,3.31
+181,ER031,Jambu Biji,98,24.4,1.8,0.6,Buah,3.42
+182,ER032,Jambu Biji Tanpa Biji,122,30.8,1.8,0.6,Buah,3.64
+183,,Jambu Bol,112,28.4,1.2,0.6,Buah,4.38
+184,,Jambu Monyet,128,31.6,1.4,1.2,Buah,4.49
+185,FP048,Jangang Bintatoeng ,214,33,10.6,4.4,Daging,2.9
+186,ER035,Jeruk Bali ,96,24.8,1.2,0.4,Buah,3.73
+187,,Jeruk Banjar ,122,28.2,1.6,0.4,Buah,3.28
+188,,Jeruk Garut,88,21.8,1.6,0.6,Buah,3.53
+189,,Jeruk Kalamansi ,78,17.8,0.6,0.6,Buah,2.85
+190,ER037,Jeruk Mandarin,88,21.8,1.6,0.6,Buah,4.06
+191,ER039,Jeruk Manis ,90,22.4,1.8,0.4,Buah,2.59
+192,ER041,Jeruk Ragi ,98,22.2,1.4,0.4,Buah,3.47
+193,,Juku Pallu Kaloa,30,17.6,30.4,8.6,Ikan dan Makanan Laut,4.35
+194,,Kacang Bogor Goreng,958,117.8,25.4,46.4,Kacang-kacangan,2.03
+195,,Kacang Bogor Rebus,322,54.2,15.4,5.6,Kacang-kacangan,3.69
+196,CP005,Kacang Hijau Rebus,218,36.6,17.4,1,Kacang-kacangan,3.47
+197,,Kacang Kapri Goreng,890,131,22,22,Kacang-kacangan,4.95
+198,,Kacang Kedelai Goreng,1042,45.8,64.4,75.4,Serealia,2.71
+199,,Kacang Kedelai Kukus,150,21.4,8.2,4.2,Serealia,4.96
+200,,Kacang Kedelai Rebus,378,25.4,40.4,16.4,Serealia,3.31
+201,CP009,Kacang Merah Rebus,288,49.4,20,2,Kacang-kacangan,3.52
+202,CP008,Kacang Merah Kering Rebus,316,56.4,20.6,1.8,Kacang-kacangan,3.59
+203,CP010,Kacang Mete Goreng,1258,39.6,40.8,112.6,Kacang-kacangan,3.42
+204,DP011,Kacang Panjang Kukus,78,15.2,6,1.2,Sayuran,4.55
+205,DP012,Kacang Panjang Rebus,60,11.6,4.6,0.8,Sayuran,3.32
+206,,Kacang Panjang Tumis,300,14,5,25,Sayuran,4.3
+207,CP014,Kacang Tolo Rebus,276,45.2,21.4,2.2,Kacang-kacangan,2.06
+208,CR016,Kacang Kapri,196,35.4,13.4,0.8,Kacang-kacangan,4.75
+209,DR102,Kapri Muda,90,18,6.6,0.4,Sayuran,3.6
+210,CP012,Kacang Tanah Goreng,1128,51,51,88.8,Kacang-kacangan,3.63
+211,CP013,Kacang Tanah Rebus,440,16,21.2,36,Kacang-kacangan,3.38
+212,,Kaholeo,826,59.6,57.4,39.6,Ikan dan Makanan Laut,3.1
+213,BP009,Suweg Kukus,186,43.8,3,0.2,Umbi Berpati,3.83
+214,,Kalio Jeroan,326,8.2,33,18,Daging,4.85
+215,FP051,Kalio Kikil (Tunjang) ,244,7.8,27.6,11.4,Daging,3.79
+216,HP007,Kalio Telur ,386,19.4,21.2,24.8,Telur,4.8
+217,DP013,Kangkung Kukus,60,9.4,6.4,1.4,Sayuran,3.28
+218,DP014,Kangkung Rebus,44,6.2,5,1.2,Sayuran,4.21
+219,DP037,Karedok,184,28.2,4.4,6.6,Sayuran,2.38
+220,CR003,Kecipir Kering,800,68.2,68.8,33.8,Kacang-kacangan,3.83
+221,CP001,Kecipir Rebus,408,35,33.8,17.6,Kacang-kacangan,4.83
+222,CR017,Kacang Kedelai,762,49.8,80.8,33.4,Kacang-kacangan,3.2
+223,KR002,Daging Kelapa Tua,718,28,6.8,69.4,Minyak/Lemak,4.14
+224,,Air Kelapa Muda,34,7.6,0.4,0.2,Buah,3.41
+225,ER046,Daging Kelapa Muda,136,28,2,1.8,Buah,4.87
+226,AP058,Klepon,430,83.6,7.4,7.4,Serealia,4.84
+227,BP041,Keripik Kemplang,650,157,3.6,0.8,Umbi Berpati,4.73
+228,DP038,Keripik Bayam,1172,100.4,9.8,81.2,Sayuran,2.74
+229,,Keripik Gadung,892,152,5.6,29,Umbi Berpati,4.28
+230,BP036,Keripik Kentang,896,134.2,5.4,37.6,Umbi Berpati,4.18
+231,,Keripik Oncom,1196,85.2,16.6,87.6,Kacang-kacangan,3.56
+232,BP037,Keripik Singkong,956,144,1.8,41.4,Umbi Berpati,4.37
+233,,Keripik Singkong Berbumbu,962,147.2,4.4,39.4,Umbi Berpati,2.9
+234,,Keripik Tempe,1162,83.4,24.2,81.2,Kacang-kacangan,3.79
+235,,Keripik Tempe Abadi Murni,1084,23.2,80.6,84.8,Kacang-kacangan,3.39
+236,,Keripik Ubi,972,135.2,0.4,47.8,Umbi Berpati,3.35
+237,,Kerupuk Cumi Goreng,888,142.6,13.8,29.2,Ikan dan Makanan Laut,4.26
+238,,Kerupuk Ikan,684,131.2,32,0.8,Ikan dan Makanan Laut,4.41
+239,,Kerupuk Kemplang Goreng,1008,114.2,11.2,56.2,Ikan dan Makanan Laut,4.76
+240,,Kerupuk Kemplang Panggang,712,153.8,19.4,2.2,Ikan dan Makanan Laut,3.4
+241,DR115,Kerupuk Koro,256,44.2,16.6,1.4,Sayuran,2.69
+242,,Kerupuk Kulit Kerbau,844,0,166,8,Daging,3.51
+243,EP004,Kerupuk Lampung,970,139.4,3.4,44.4,Buah,4.97
+244,,Emping Melinjo Tebal Goreng Asin,862,126,22.2,32.4,Kacang-kacangan,4.85
+245,,Emping Melinjo Tebal Goreng Manis,878,131.4,20,32.8,Kacang-kacangan,3.5
+246,,Emping Melinjo Tipis Goreng,970,118.2,23,49,Kacang-kacangan,2.63
+247,,Kerupuk Mie Kuning,952,142.6,0.2,42.2,Umbi Berpati,3.34
+248,,Kerupuk Udang,680,104,60,60,Ikan dan Makanan Laut,3.43
+249,,Kerupuk Udang Berpati,718,664,34.4,136.4,Ikan dan Makanan Laut,4.92
+250,,Kerupuk Udang Goreng,954,137,9.4,41,Ikan dan Makanan Laut,4.54
+251,ER048,Kesemek ,156,40,1.6,0.8,Buah,2.83
+252,,Ketan Hitam,362,74.6,8,2.4,Serealia,3.58
+253,,Singkong Kukus,306,72.8,2.4,0.6,Umbi Berpati,2.7
+254,GP095,Keumamah Tumis,600,31,29,40,Ikan dan Makanan Laut,3.68
+255,MP009,Kopi Bubuk Instan,258,70,24.6,1,Konfeksioneri,2.17
+256,,Kripik Tempe Goreng,1084,23,80.6,84.8,Kacang-kacangan,4.68
+257,AP065,Kue Ali,880,129,7.6,37,Serealia,4.67
+258,,Kue Apem,373.4,79.2,3.2,3.2,Serealia,2.69
+259,AP066,Kue Bangen,884,148.4,6.6,29.4,Serealia,2.63
+260,,Kue Bangket,676,160.6,3,2.4,Umbi Berpati,2.44
+261,AP067,Kue Gelang,896,140,11.6,32.2,Serealia,4.6
+262,AP068,Kue Jahe,850,169.2,3.2,17.6,Serealia,2.38
+263,AP069,Kue Kelapa,1182,95,11.2,84.2,Serealia,2.13
+264,AP070,Kue Koa,680,158.6,9.6,0.8,Serealia,3.59
+265,AP071,Kue Ku Temu,428,99.2,7,0.4,Serealia,3.64
+266,AP072,Kue Lumpur,582,88.2,7.2,22.2,Serealia,2.41
+267,AP073,Kue Pelita,282,35.2,10.6,11,Serealia,2.7
+268,AP074,Kue Putu Cangkir,608,109.8,10.6,14,Serealia,2.31
+269,,Kue Putu Singkong,434,106.4,2.4,1,Umbi Berpati,4.35
+270,AP075,Kue Sus,442,49.6,15,20.4,Serealia,3.02
+271,AP041,Kue Tapai,646,100.2,9.8,23,Serealia,2.56
+272,AP076,Kue Timphan,494,99,5.8,8.4,Serealia,3.97
+273,CP046,Kuaci,1030,27.6,61.2,84.2,Kacang-kacangan,2.09
+274,ER049,Langsat ,172,26,3.2,0.4,Buah,3.72
+275,,Lapis Legit,778,111,13.2,31.4,Serealia,2.42
+276,FP053,Lawar Babi ,348,6,34,20,Daging,2.14
+277,FP054,Lawar Penyu,282,15.2,46,3,Daging,3.33
+278,FP055,Ham,318,20.2,10,21.8,Daging,2.14
+279,GP073,Lawara Penjah ,414,19.2,14.8,30.8,Ikan dan Makanan Laut,3.92
+280,EP005,Ledre Pisang,810,169.8,9.6,10.2,Buah,4.01
+281,ER052,Lemon ,68,12.4,1,1.6,Buah,4.82
+282,,Lemon Squash,72,20,0,0,Buah,2.75
+283,,Lemonade,60,16,0,0,Buah,4.99
+284,,Lemper,442.6,86.8,7.6,7.2,Serealia,4.22
+285,EP006,Lempog Durian,640,127.4,7,11.4,Buah,3.58
+286,,Lupis Ketan,328,69,3.6,4.2,Serealia,2.92
+287,ER054,Mangga ,104,24.6,1.4,0,Buah,4.19
+288,ER055,Mangga Benggala,126,24.8,4.8,0.8,Buah,2.23
+289,,Mangga Gedong,88,22.4,1.4,0.4,Buah,3.48
+290,,Mangga Golek,126,33.4,1,0.4,Buah,4.47
+291,ER058,Mangga Harumanis,92,23.8,0.8,0.4,Buah,4.24
+292,ER059,Mangga Indramayu ,144,37.4,1.6,0.4,Buah,2.42
+293,ER060,Mangga Kopek,112,29.2,0.8,0.4,Buah,3.86
+294,ER061,Mangga Kweni ,172,39.6,1.4,1,Buah,3.22
+295,ER062,Mangga Manalagi ,266,64.2,2,0.2,Buah,2.84
+296,ER063,Mangga Mentah ,118,30.2,1,0.8,Buah,2.78
+297,ER028,Mangga Plum,136,36,1.4,0.2,Buah,2.3
+298,ER025,Mangga Saipan ,196,50.8,2.8,0.4,Buah,4.08
+299,ER064,Manggis ,126,31.2,1.2,1.2,Buah,4.52
+300,,Markisa ,288,59.6,7,2.4,Buah,2.38
+301,,Markisa Squash,434,99.2,5,2,Buah,2.91
+302,,Markisa Squash BD,208,47.4,2.4,1,Buah,3.59
+303,AP081,Martabak India,306,48.6,9,8.4,Serealia,2.06
+304,,Martabak Manis,530.6,98.6,9.4,11,Serealia,4.47
+305,AP082,Martabak Mesir,556,90,10.2,17.2,Serealia,2.59
+306,,Martabak Telur,400,59,17.8,10.2,Serealia,2.79
+307,ER067,Melon ,74,15.6,1.2,0.8,Buah,3.79
+308,,Mi Basah,176,28,1.2,6.6,Serealia,4.7
+309,AP084,Mie Aceh Rebus,226,36.2,6,6.4,Serealia,3.22
+310,AP085,Mie Ayam,204,21,12.4,7.8,Serealia,2.34
+311,AP086,Mie Bakso,228,32.8,10.6,6,Serealia,4.53
+312,BP050,Mie Bendo,706,176,0.6,0,Umbi Berpati,3.56
+313,AP087,Mie Celon,204,35.6,6,4.2,Serealia,3.56
+314,AP022,Mie Kering,678,12.6,20,3.4,Serealia,2.89
+315,BP049,Mie Golosor,142,31.8,0.4,1.6,Umbi Berpati,2.38
+316,,Mie Goreng,936,124.8,15.2,40.8,Serealia,4.19
+317,,Mie Kering,674,100,15.8,23.6,Serealia,2.4
+318,AP088,Mie Pangsit Basah,210,18.8,11.8,9.8,Serealia,3.45
+319,BP051,Mie Sagu,380,93,0.4,0.8,Umbi Berpati,3.72
+320,,Nakji Bokkeum,496,81.8,20,4.6,Ikan dan Makanan Laut,2.92
+321,,Nanas,104,27.4,0.8,0.4,Buah,2.66
+322,ER070,Nanas ,80,19.8,1.2,0.6,Buah,3.08
+323,ER069,Nanas Palembang ,116,26.6,1.4,0.4,Buah,3.89
+324,ER071,Nangka,212,55.2,2.4,0.6,Buah,2.73
+325,,Nasi,360,79.6,6,0.6,Serealia,3.48
+326,,Nasi Beras Merah,298,65,5.6,0.8,Serealia,2.05
+327,AR012,Nasi Tumbuk,708,159.8,15.6,0.8,Serealia,4.61
+328,AP047,Emping Beras,806,170.6,21.2,4.4,Serealia,4.54
+329,BP020,Nasi Ganyong,728,172.6,6.8,1.4,Umbi Berpati,3.22
+330,AP089,Nasi Gemuk,384,48.8,7.6,17.6,Serealia,2.12
+331,,Nasi Goreng,552,60.4,6.4,6.4,Serealia,4.37
+332,AP090,Nasi Gurih,380,52,9.4,15,Serealia,2.93
+333,AP009,Nasi Jagung,714,159,17.6,1,Serealia,2.16
+334,AP092,Nasi Rames,310,38.2,20.6,8.4,Serealia,4.65
+335,BP021,Nasi Siger,688,56.6,2.2,0.4,Umbi Berpati,4.21
+336,AP003,Tapai Nasi,198,44.8,3.4,0.6,Serealia,4.8
+337,,Nasi Tim,240,52,4.8,0.8,Serealia,3.66
+338,,Nasi Uduk,506.6,23.4,8.6,42,Serealia,3.7
+339,FP057,Nasu Likku ,392,31.8,29,16.6,Daging,4.81
+340,,Oncom Goreng,726.6,80.6,38.6,38.6,Kacang-kacangan,3.72
+341,,Oncom Hitam Goreng,568,27.2,24,28.8,Kacang-kacangan,2.02
+342,,Oncom Hitam Goreng Bertepung,613.4,54,18,36,Kacang-kacangan,4.1
+343,CP054,Pepes Oncom Kacang Tanah,264,27.4,25.4,7.6,Kacang-kacangan,4.86
+344,,Oncom Merah Goreng,736,26.4,13.6,64,Kacang-kacangan,3.15
+345,,Oncom Merah Goreng Bertepung,640,62,14.6,37.4,Kacang-kacangan,2.14
+346,,Tumis Sayur Oncom Merah,80,6,4,4,Kacang-kacangan,2.25
+347,,Oncom Pepes,152,21.2,10.4,3.6,Kacang-kacangan,3.03
+348,AP094,Onde-Onde,672,115.8,8,19.6,Serealia,4.5
+349,,Ongol-Ongol,230,28,3,12,Umbi Berpati,2.33
+350,,Ongol-Ongol Sagu,222,42.4,0.6,5.4,Umbi Berpati,2.62
+351,,Opak Singkong,1880,208,72,84,Umbi Berpati,4.7
+352,FP058,Oramu Ninahu Ndawa Olaho ,234,8.6,27.4,10,Daging,3.77
+353,FP052,Otak Kalio ,314,22.8,16.2,17.6,Daging,2.46
+354,GP070,Pangasius Goreng,572,4.6,97,18.4,Ikan dan Makanan Laut,4.55
+355,GP024,Pangasius Panggang,288,8.6,35,12.6,Ikan dan Makanan Laut,4.82
+356,FP059,Paniki Masak Santan ,920,14.4,57,70.4,Daging,3.42
+357,DP015,Pare Putih Kukus,32,6.8,1.6,0.4,Sayuran,4.83
+358,GP076,Parede Baleh ,174,11,21,5,Ikan dan Makanan Laut,4.63
+359,AP096,Pastel,614,84.8,9,26.6,Serealia,2.43
+360,,Pelalah Manuk,438,8.8,39.4,27.2,Daging,3.42
+361,GP077,Pempek Adaan,324,55.6,9.8,6,Ikan dan Makanan Laut,4.23
+362,,Pempek Belida,312,63.2,8.4,2.8,Ikan dan Makanan Laut,2.57
+363,GP079,Pempek Kapal Selam,304,56.4,9,4.6,Ikan dan Makanan Laut,4.11
+364,GP080,Pempek Kelesan,422,53.2,24.6,12.2,Ikan dan Makanan Laut,2.83
+365,GP081,Pempek Kulit,486,78.2,10.4,14.6,Ikan dan Makanan Laut,2.92
+366,GP082,Pempek Telur,312,56.6,9.4,5.4,Ikan dan Makanan Laut,4.23
+367,,Pempek Tenggiri,346,66.8,14.4,2.4,Ikan dan Makanan Laut,3.72
+368,,Pencok Lele,744,7,15.6,72.6,Ikan dan Makanan Laut,3.86
+369,,Lodeh Pepaya,550,60.4,23.2,23.2,Sayuran,4.81
+370,,Pinda,214,0.8,31.8,1.2,Ikan dan Makanan Laut,4.68
+371,,Pindang Ikan Banjar,314,0,56,8.4,Ikan dan Makanan Laut,3.3
+372,,Pindang Ikan Benggol,340,0,62,8.4,Ikan dan Makanan Laut,3.96
+373,,Pindang Ikan Selar,284,0,54,6,Ikan dan Makanan Laut,2.25
+374,GP086,Pindang Kenari,248,0,19,19.2,Ikan dan Makanan Laut,4.71
+375,GP029,Pindang Ikan Layang,306,0,60,5.6,Ikan dan Makanan Laut,3.74
+376,ER074,Pisang Ambon ,216,48.6,2,1.6,Buah,4.07
+377,ER075,Pisang Angleng,136,34.4,2.6,0.4,Buah,2.11
+378,,Pisang Ayam ,240,53.6,2.2,0.4,Buah,4.44
+379,DR092,Bunga Pisang,64,14.2,2.4,0.6,Sayuran,4.18
+380,ER077,Pisang Gapi ,262,62.2,3.2,0.2,Buah,3.27
+381,,Pisang Goreng,440,12.6,4.6,4.6,Buah,4.52
+382,ER078,Pisang Goroho ,238,55.8,3,0.4,Buah,4.09
+383,ER079,Pisang Hijau ,242,57.8,2,0.2,Buah,4.65
+384,,Pisang Kayu ,200,47.2,2.8,1,Buah,4.76
+385,,Pisang Kepok ,218,52.6,1.6,1,Buah,4.71
+386,EP012,Pisang Kering Cilacap,590,133.8,4.6,4.2,Buah,3.41
+387,ER082,Pisang Ketip ,290,69,2.2,0.6,Buah,3.87
+388,,Pisang Kidang ,192,45,2,0.4,Buah,4.12
+389,ER087,Pisang Mas,254,67.2,2.8,0.4,Buah,4.96
+390,,Pisang Lampung,198,51.2,2.6,0.4,Buah,4.06
+391,ER088,Pisang Raja Sereh,216,56.4,2.6,0.6,Buah,3.93
+392,ER085,Pisang Mas Bali Ampenan ,184,42,2.8,0.4,Buah,2.13
+393,ER086,Pisang Mas Bali Kopang ,254,63.6,2.8,0.4,Buah,4.13
+394,ER089,Pisang Raja ,240,63.6,2.4,0.4,Buah,2.11
+395,,Pisang Susu,236,62.2,2.4,0.4,Buah,2.03
+396,ER090,Pisang Rotan ,196,41,2.6,2.4,Buah,4.65
+397,,Pisang Siam Goreng,1250,16.2,2,0,Buah,3.59
+398,ER091,Pisang Talas ,226,53.4,2.4,0.4,Buah,4.18
+399,ER092,Pisang Tujuh Bulan,188,45,1.2,0.4,Buah,2.62
+400,ER094,Pisang Uli ,268,71,2.2,1,Buah,2.7
+401,ER017,Buah Rukam,226,53.6,1.6,0.6,Buah,2.22
+402,ER024,Duwet,160,36.4,1,1.2,Buah,2.74
+403,,Punai Goreng,448,8.8,52.4,22.6,Daging,3.41
+404,,Putu Mayang,400,87.6,2,4.8,Serealia,3.59
+405,BP047,Putu Singkong,434,106.4,2.4,1,Umbi Berpati,2.43
+406,,Rambutan,138,36.2,1.8,0.2,Buah,2.99
+407,,Rambutan Aceh,22,5.4,0,0,Buah,2.59
+408,ER096,Rambutan Binjai ,152,36,1,0.4,Buah,2.43
+409,,Rambutan Sinyonya,8,1.8,0,0,Buah,2.33
+410,BP055,Rasbi (Beras Ubi),788,153.2,4.4,17.6,Umbi Berpati,4.09
+411,FP061,Rawon ,120,8,10.8,5,Daging,3.67
+412,CP055,Rempeyek Kacang Tanah,1026,88.6,35,65,Kacang-kacangan,4.77
+413,CP057,Rempeyek Kacang Uci,994,101.6,34,55.2,Kacang-kacangan,2.72
+414,,Rempeyek Kacang Tolo,902,119.4,22.4,40.4,Kacang-kacangan,3.85
+415,FP062,Rendang Daging Sapi ,386,15.6,45.2,15.8,Daging,4.07
+416,AP103,Roti Boong,682,86.6,11,32.4,Serealia,2.59
+417,AP024,Roti Putih,496,100,16,2.4,Serealia,2.25
+418,EP009,Rujak Aceh,164,39.4,0.8,0.6,Buah,3.48
+419,DP046,Rujak Cingur,306,16,22.6,16.8,Sayuran,3.92
+420,ER101,Salak,154,41.8,0.8,0,Buah,4.08
+421,ER098,Salak Bali ,114,27.2,1,0.2,Buah,3.75
+422,ER099,Salak Medan ,110,25.6,0.8,0.4,Buah,4.15
+423,ER100,Salak Pondoh ,174,40.2,1.6,0.8,Buah,3.07
+424,,Sale Pisang Siam,562,132.2,4.8,1.4,Buah,2.3
+425,FP064,Sate Penyu ,358,26.6,45,7,Daging,4.96
+426,FP065,Sate Pusut,548,27.2,25.8,37.2,Daging,2.46
+427,,Sate Usus,253.4,2.6,28,14.6,Daging,3.71
+428,,Sawi,44,8,4.6,0.6,Sayuran,2.24
+429,DR129,Sawi Hijau,66,9.4,4.6,1,Sayuran,4.39
+430,,Sawi Putih,18,3.4,2,0.2,Sayuran,4.99
+431,DR143,Sawi Taiwan ,60,8.8,3.8,1,Sayuran,3.48
+432,,Sawi Tanah ,38,5.8,2.6,0.4,Sayuran,4.16
+433,ER104,Sawo ,184,44.8,1,2.2,Buah,4.5
+434,,Sawo Duren ,128,16,2,6.2,Buah,2.82
+435,,Sawo Kecik ,222,43.2,1.8,4.6,Buah,2.74
+436,,Sayur Asem,58,10,1.4,1.2,Sayuran,4.31
+437,,Sayur Bunga Pepaya,98,19.6,3.4,0.6,Sayuran,3.61
+438,,Sayur Garu,356,21.2,5.2,27.8,Sayuran,3.33
+439,,Sayur Kohu-Kohu,266,22.4,14.6,13.2,Sayuran,3.08
+440,CP058,Sayur Lebui,128,25,4.2,1.2,Kacang-kacangan,4.45
+441,,Sayur Ndusuk,98,7.2,6.2,5,Sayuran,4.33
+442,,Sayur Sop,54,2,2.6,4,Sayuran,2.69
+443,,Sayur Umbut Kelapa,134,10.2,10.4,5.8,Sayuran,2.99
+444,,Sayur Umbut Rotan,114,6.2,10.8,5.2,Sayuran,2.93
+445,,Selada,30,5.8,2.4,0.4,Sayuran,3.19
+446,DR145,Selada ,36,5.8,2.4,0.4,Sayuran,3.8
+447,DR146,Selada Air ,34,4.4,6.2,0.4,Sayuran,2.7
+448,,Selada Air Rebus,38,5.8,5.4,0.4,Sayuran,3.27
+449,ER105,Semangka ,56,13.8,1,0.4,Buah,4.72
+450,,Semur Jengkol,385,60.6,9,12,Sayuran,3.66
+451,,Sie Reuboh,948,23.4,22.4,85,Daging,2.91
+452,,Singkong Goreng,570,56,2,36,Umbi Berpati,2.76
+453,,Singkong Kukus,292,69.4,2.4,0.6,Umbi Berpati,4.89
+454,,Tape Singkong,346,85,1,0.2,Umbi Berpati,4.8
+455,ER106,Sirsak ,130,32.6,2,0.6,Buah,3.38
+456,MP014,Sirup,426,110,0,0,Konfeksioneri,2.38
+457,MP015,Sirup Pirous,456,111.8,0.4,0.8,Konfeksioneri,2.57
+458,,Sop Buntut ,142,4.4,15,7.2,Daging,3.16
+459,,Sop Daging Sapi ,98,10.6,11.6,1,Daging,4.84
+460,,Sop Kaki Sapi ,136,7.4,18,3.8,Daging,4.15
+461,,Sop Konro ,142,9,14.8,5.2,Daging,3.73
+462,,Sop Kol,24,4,1,0.2,Sayuran,2.8
+463,,Sop Kol Dan Wortel,30,6.2,1.2,0.2,Sayuran,3.51
+464,AR014,Sorgum,732,146,22,6.6,Serealia,2.35
+465,FP074,Soto Bandung,84,5.6,7.8,3.4,Daging,2.73
+466,FP075,Soto Banjar ,220,6.4,5.8,19,Daging,2.3
+467,FP076,Soto Betawi,270,23,5,17.6,Daging,4.65
+468,,Soto Daging,255,16.6,5.2,18.8,Daging,4.32
+469,FP077,Soto Jeroan ,184,2.8,23.6,8.6,Daging,4.01
+470,FP078,Soto Kudus ,76,3.6,5.2,4.6,Daging,2.66
+471,FP079,Soto Madura,120,2.6,7,9,Daging,3.42
+472,FP080,Soto Padang ,254,22,11.8,13.2,Daging,3.19
+473,FP081,Soto Pekalongan ,188,10.2,6,13.6,Daging,2.95
+474,FP082,Soto Pemalang ,150,7,7.2,10.4,Daging,2.79
+475,FP083,Soto Sukaraja,160,18,6.4,7,Daging,4.25
+476,FP084,Soto Sulung,172,0,4.6,17,Daging,3.06
+477,AP106,Spageti,278,45.2,14.8,4.2,Serealia,2.48
+478,ER108,Srikaya ,126,27.8,2.2,1,Buah,2.34
+479,,Sukiyaki,150,24.4,11.2,0.8,Daging,4.86
+480,,Sup Ikan Kuah Asam,150,12,16.4,4,Ikan dan Makanan Laut,4.32
+481,FP071,Sop Kambing ,68,2.2,11,1.6,Daging,3.95
+482,DP051,Sayur Lilin Terubuk,72,9.6,5.4,1.4,Sayuran,4.69
+483,FP073,Sop Saudara ,178,7.8,14.4,10,Daging,2.06
+484,JP006,Susu Bubuk,1026,72.4,49.2,60,Susu,4.95
+485,JR003,Susu Kambing ,128,13.2,8.6,4.6,Susu,4.38
+486,CP060,Susu Kedelai,82,10,7,5,Kacang-kacangan,3.09
+487,CP059,Susu Kedelai Bubuk,688,86,60,40,Kacang-kacangan,3.21
+488,JP007,Susu Kental Manis,686,110,16.4,20,Susu,2.05
+489,JP008,Susu Kental Tanpa Pemanis,276,19.8,14,15.8,Susu,4.14
+490,JR004,Susu Kerbau ,320,14.2,12.6,24,Susu,3.71
+491,JR005,Susu Kuda ,80,10.8,4,2.2,Susu,4.14
+492,JR006,Susu Sapi ,122,8.6,6.4,7,Susu,4.8
+493,JP010,Susu Skim ,72,10.2,7,0.2,Susu,4.56
+494,JP009,Susu Skim Bubuk,718,104,71.2,2,Susu,3.89
+495,CP062,Tahu Goreng,230,5,19.4,17,Kacang-kacangan,2.85
+496,CP038,Tahu Kukus,180,9.4,21.4,8,Kacang-kacangan,2.4
+497,BP010,Talas Kukus,240,56.4,3,0.6,Umbi Berpati,3.71
+498,,Tapai Ketan Hitam,332,68.8,7.6,2,Serealia,4.22
+499,,Tapai Ketan Putih,344,75,6,1,Serealia,3.07
+500,,Tapai Singkong,338,80.4,2.8,0.6,Umbi Berpati,2.21
+501,FP086,Tedong Pallu Basa ,166,5.6,20.8,6.8,Daging,3.42
+502,,Teh Hijau Daun Kering,600,107.2,56.6,9.6,Konfeksiioneri,2.04
+503,,Teh Melati Daun Kering,598,118,48.2,7,Konfeksiioneri,4.79
+504,,Telur Ayam,324,1.4,25.6,23,Telur,2.9
+505,,Tempe Goreng,656,25.6,36.8,46.4,Kacang-kacangan,2.41
+506,CP076,Tempe Kedelai Murni Goreng,700,20.8,49,53.2,Kacang-kacangan,2.41
+507,,Teri Balado ,730,35,47.4,44.6,Ikan dan Makanan Laut,3.69
+508,FP041,Teriyaki Ayam ,336,15,26,19.2,Daging,2.47
+509,DP019,Terong Panjang Kukus,46,9.8,3.6,0.2,Sayuran,4.31
+510,,Tinorangsak,1032,0,35.4,99,Daging,3.07
+511,BP073,Tiwul,706,166.8,4.8,2.2,Umbi Berpati,4.41
+512,BP074,Tiwul Instan,790,153,6.4,17,Umbi Berpati,4.04
+513,DR160,Tomat Jus ,40,7,2,0.4,Sayuran,2.44
+514,,Ubi Jalar Goreng,320,110.6,7.4,2.6,Umbi Berpati,2.88
+515,BP011,Ubi Jalar Kuning Kukus,200,47.6,1.4,0.6,Umbi Berpati,2.45
+516,DP010,Ubi Jalar Merah Kukus,112,26,6.2,0.6,Sayuran,3.35
+517,,Ubi Jalar Rebus,228,51.2,2.8,19.2,Umbi Berpati,4.01
+518,,Ubi Jalar Tinta,330,79.6,1.8,0.4,Umbi Berpati,3.02
+519,DP021,Wortel Kukus,74,16.6,2,1.2,Sayuran,3.32
+520,DP020,Wortel Rebus,56,12.6,1.4,1,Sayuran,2.56
+521,AP114,Yangko,508,116.2,6,2.2,Serealia,4.48
+522,JP011,Yogurt ,104,8,6.6,5,Susu,4.23
